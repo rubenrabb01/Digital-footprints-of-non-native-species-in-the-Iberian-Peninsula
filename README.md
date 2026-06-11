@@ -50,3 +50,9 @@ The folder `data_preparation_workflow/` documents the handoff from raw API outpu
 ## Public release note
 
 For a GitHub/Zenodo release, the recommended minimal reproducible package is: `scripts/`, `data/paper_input/`, `fig_assets/`, `docs/keyword_lists_cleaned.R`, and the validation consensus/context files needed by `scripts/99_run_validation_audits.R`. Raw API outputs, reviewer-specific validation files, intermediate outputs, and archived exploratory scripts are not required for reproducing the final paper outputs.
+
+## Reuse and citation
+
+This repository is shared to support review, transparency, and reproducibility of the associated manuscript. Reuse of scripts, workflow structure, or derivative code for other projects requires permission from the authors unless a separate license is added later.
+
+Please cite the associated manuscript and repository if using this workflow to inspect, reproduce, or build upon the analyses.
