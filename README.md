@@ -79,6 +79,12 @@ Create validation summaries and supplementary lead-lag checks:
 source("scripts/99_run_validation_audits.R", encoding = "UTF-8")
 ```
 
+Create a compact summary of dataset-layer counts used in the manuscript:
+
+```r
+source("scripts/16_dataset_summary_counts.R", encoding = "UTF-8")
+```
+
 A more detailed run guide is available in `scripts/HOW_TO_RUN_WORKFLOW.R`.
 Additional audit summaries comparing GEO/REG source labels are available in `docs/geo_sourceflag_comparison_summary.csv` and `docs/geo_anchor_overlap_with_repo_datasets.csv`.
 
