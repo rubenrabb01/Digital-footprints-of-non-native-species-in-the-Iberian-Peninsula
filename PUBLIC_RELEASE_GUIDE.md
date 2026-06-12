@@ -16,6 +16,7 @@ Recommended contents:
 - `scripts/`
 - `data/paper_input/videos_validated.csv`
 - `data/paper_input/comments_timestamped.csv`
+- `data/preparation_input/`
 - `fig_assets/`
 - `docs/keyword_lists_cleaned.R`
 - consensus validation files:
@@ -26,7 +27,8 @@ Recommended contents:
 
 Files that are usually not necessary in the public release:
 
-- raw YouTube API output folders
+- full raw YouTube API output folders not needed for paper reproducibility
+- reviewer-specific or private raw validation files
 - per-reviewer/per-validator validation files
 - old archived scripts
 - generated figures/tables/intermediate outputs, unless the journal specifically wants them deposited

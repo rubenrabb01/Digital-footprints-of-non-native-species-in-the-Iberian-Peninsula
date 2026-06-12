@@ -1,0 +1,18 @@
+file,rows,columns,size_kb,md5,description
+api_all_raw_videos.csv,12,21,4.9,fe8b948bf7870b8b01f20bfdc00f09ba,Combined raw API example/output file from the latest optional API preparation run; retained for workflow traceability.
+api_candidate_source_summary.csv,1,2,0.0,aa70c9eb34044582844ccfd19b8924fd,Counts of candidate videos by source after joining region-code and geotagged candidate pools.
+api_candidates_for_manual_labeling.csv,12,25,5.6,bac8b38959f8d1c1513b340d30446536,Candidate video table prepared for manual Iberian-relevance screening.
+api_candidates_labelled.csv,12,29,5.9,78e0356fe4c6c81babe7280300d9e205,Candidate video table after merging manual Iberian-relevance labels.
+api_collection_summary.csv,4,4,0.4,db803e9ec381d0598c7b3644436685f9,Small summary of the optional API pre-workflow inputs collected before filtering.
+api_comments_raw.csv,369,15,118.9,b419212018164fa3abc351f67c6bff26,Raw timestamped YouTube comments/replies available from the optional API pre-workflow.
+api_geotagged_raw.csv,0,14,0.1,b3ae4cd1674e301fdd47aa7430c8cc66,Raw geotagged YouTube video output used as the geospatial candidate source when available.
+api_reg_geo_candidates_long.csv,12,25,5.7,88dcdab01de2c4e04c4bfe6d477bf8c1,Long-format candidate table combining region-code and geotagged sources before manual labelling.
+api_regioncode_filtered_candidates.csv,12,24,5.6,318667cdfeadbcfbc514a9738c9b0d00,Region-code candidates retained after the light Iberian/topical filtering step.
+api_regioncode_labelled.csv,1884,19,1041.4,48355189578f7ee307e4d645380eeeef,Region-code candidate dataset with manual Iberian-relevance labels; this file links the large raw region-code pool to the curated paper input.
+api_regioncode_light_screen_rejected.csv,0,24,0.3,acd6d43bea38ecf5c77d077917fb1e9a,Region-code candidates rejected by the light filtering step.
+api_regioncode_raw.csv,16844,18,7805.7,e23637d765197a004400c6a8c056d345,Full raw region-code video pool retrieved from YouTube searches before filtering; used upstream to derive the filtered and labelled region-code candidate datasets.
+manual_iberian_labels_template.csv,12,19,4.4,d840a1880d70093491b6586935c47f33,Template prepared for manually labelling whether candidate videos are Iberia-relevant.
+manual_label_summary.csv,1,6,0.1,693eef081594234d800ec10da006ee41,Summary of the manual Iberian-relevance labels applied during the optional preparation workflow.
+paper_input_export_summary.csv,4,3,0.3,14ec755616891ebedd9fc01d091508f4,Summary of the final curated files exported from the preparation workflow into data/paper_input/.
+videos_excluded_after_labeling.csv,7,29,3.5,b709919254aff45eb5f3e01b3d57e451,Videos excluded after manual Iberian-relevance labelling.
+videos_validated_from_api.csv,5,29,2.7,b94f2be4fe5c938ce63ab40221a1213a,Videos retained as validated Iberia-relevant outputs from the optional API preparation workflow.
