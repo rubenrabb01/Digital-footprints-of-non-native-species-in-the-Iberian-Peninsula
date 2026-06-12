@@ -202,3 +202,9 @@ setwd(PROJECT_DIR)
 
 source("scripts/99_run_main_plus_comments_sensitivity.R", encoding = "UTF-8")
 source("scripts/99_run_validation_audits.R", encoding = "UTF-8")
+
+
+############################################################
+# Optional dataset-layer count summary for manuscript wording
+############################################################
+# source("scripts/16_dataset_summary_counts.R", encoding = "UTF-8")

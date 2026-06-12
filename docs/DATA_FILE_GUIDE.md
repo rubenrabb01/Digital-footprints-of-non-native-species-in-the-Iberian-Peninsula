@@ -73,3 +73,8 @@ These scripts are included for transparency. The frozen manuscript analyses use 
 ### Counting note for the final LABEL dataset
 
 `videos_validated.csv` (**final LABEL dataset**) contains **1,899 analysed video records**, and this is the count used in the manuscript and main workflow. The `video_id` field should not be used to reduce this number for reporting the final corpus. A small number of records may be repeated across search queries or may display oddly in spreadsheet software (for example as `#¿NOMBRE?` in some older working files or spreadsheet views), but these correspond to valid analysed video records and were retained in the paper dataset.
+
+
+## Reproducible dataset-count summary
+
+Dataset-layer counts used in the manuscript can be regenerated with `scripts/16_dataset_summary_counts.R`, which writes `outputs/validation/dataset_layer_summary_counts.csv` and `outputs/validation/dataset_layer_summary_for_manuscript.csv`.
