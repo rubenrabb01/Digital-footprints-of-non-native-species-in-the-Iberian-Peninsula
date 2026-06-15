@@ -1,6 +1,0 @@
-statistic,value
-REG post-filtered candidates retained from RAW-REG,"6,935/16,844 (41.2%)"
-REG-labelled retained from post-filtered REG,"1,884/6,935 (27.2%)"
-REG-labelled retained from RAW-REG,"1,884/16,844 (11.2%)"
-Final LABEL analysed video records,"1,899 records"
-Videos with timestamped comments/replies relative to final LABEL records,"1,048/1,899 (55.2%)"
