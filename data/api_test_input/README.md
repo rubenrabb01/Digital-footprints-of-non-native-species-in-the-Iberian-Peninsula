@@ -1,5 +1,5 @@
 # Optional API-test input files
 
-This folder contains small example/intermediate files produced by the optional API pre-workflow. These files are useful for testing the mechanics of the API and preparation scripts, but they are **not** the historical full dataset lineage used for the submitted manuscript.
+This folder contains small files used by the optional YouTube API test workflow.
 
-For the manuscript dataset lineage, use `data/preparation_input/` and `data/paper_input/`.
+These files are useful for checking that the API wrapper and preparation scripts work, but they are not part of the frozen manuscript dataset. The manuscript analyses use the curated files in `data/paper_input/`, with dataset-lineage files documented in `data/preparation_input/`.

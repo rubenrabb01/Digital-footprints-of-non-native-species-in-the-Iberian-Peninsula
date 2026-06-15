@@ -1,12 +1,14 @@
-# Validation reviewer files
+# Validation files by validator
 
-This folder contains reviewer-specific validation templates for the two manual checks used in the revision:
+This folder contains anonymised validation templates for two manual checks:
 
-1. `*_LABEL_Iberia_relevance_validation.csv` — video-level Iberia-relevance validation.
-2. `*_keyword_category_validation.csv` — keyword-occurrence validation for thematic classification.
+1. `*_LABEL_Iberia_relevance_validation.csv`: video-level Iberia-relevance validation.
+2. `*_keyword_category_validation.csv`: keyword-occurrence validation for thematic classification.
 
-Each reviewer file contains a shared block of records plus reviewer-specific extra records. Returned files should be saved under:
+Each file contains a shared block of records plus validator-specific records. Completed files can be placed in:
 
-`outputs/validation/completed/validation_files_by_validator/`
+```text
+data/validation_input/completed/validation_files_by_validator/
+```
 
-The folder `outputs/validation/example_completed_files/` contains artificial completed examples for testing only. Do not use these example values as final manuscript values. Replace them with the completed files returned by reviewers before final submission.
+The workflow also supports legacy completed-file locations under `outputs/validation/completed/`. Artificial completed examples are provided only for testing and should be replaced before reporting final validation values.
