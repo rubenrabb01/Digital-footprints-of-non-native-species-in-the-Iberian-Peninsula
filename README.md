@@ -11,9 +11,15 @@ The main analyses are reproducible from the curated files in `data/paper_input/`
 - [License options](LICENSE_OPTIONS.md)
 - [Validation file notes](VALIDATION_FILES_README.md)
 - [Data file guide](docs/DATA_FILE_GUIDE.md)
+- [Species and search-term guide](docs/SPECIES_AND_SEARCH_TERMS_GUIDE.md)
 - [Final LABEL count note](docs/FINAL_LABEL_COUNT_NOTE.md)
 - [GEO/REG dataset audit report](docs/GEO_REG_DATASET_AUDIT_REPORT.md)
 
+
+
+## Species and search-term inputs
+
+Additional species-list and search-term files are provided in `data/species_input/`. These files document the curated first-record table used to define the study search scope and the ungrouped list of scientific, vernacular, and spelling-variant search terms used for YouTube retrieval. The full source database is not redistributed; users should obtain the original Alien Species First Records Database from its official Zenodo record.
 
 ## Workflow structure
 

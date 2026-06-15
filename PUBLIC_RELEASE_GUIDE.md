@@ -44,3 +44,8 @@ Older exploratory `label_this_sample_*` files should not be uploaded as canonica
 4. Run the workflow locally from the GitHub-style folder structure.
 5. Make a tagged GitHub release only after the repository is stable.
 6. Archive the tagged release in Zenodo and add the DOI to the manuscript/repository.
+
+
+## Species-list and search-term inputs
+
+The public release includes `data/species_input/`, which contains a curated first-record table and an ungrouped YouTube search-term list. These files improve transparency of the search-scope construction. The full external Alien Species First Records Database is not redistributed; users should download it from the official Zenodo record cited in the manuscript.
