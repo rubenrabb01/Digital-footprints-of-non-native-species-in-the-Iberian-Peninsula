@@ -72,9 +72,9 @@ source("scripts/99_run_main_plus_comments_sensitivity.R", encoding = "UTF-8")
 #
 # Main outputs:
 #   outputs/validation/tables/
-#   outputs/figures/validation/
 #   outputs/figures/supplement/Figure_S7.png
 #   outputs/figures/supplement/Figure_S8.png
+#   outputs/figures/supplement/Figure_S9.png to Figure_S12.png
 ############################################################
 
 rm(list = ls())
@@ -106,8 +106,9 @@ source("scripts/99_run_validation_audits.R", encoding = "UTF-8")
 check_dirs <- c(
   "outputs/figures/main",
   "outputs/figures/supplement",
-  "outputs/figures/validation",
-  "outputs/tables",
+  "outputs/tables/main",
+  "outputs/tables/supplement",
+  "outputs/tables/qa",
   "outputs/validation",
   "outputs/intermediate"
 )

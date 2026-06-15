@@ -60,9 +60,17 @@ library(RColorBrewer)
 # (We keep your manual calculations to avoid altering any downstream results/plots.)
 library(vegan)
 
-# Output dir ------------------------------------------------------------------
+# Output dirs -----------------------------------------------------------------
+# Figures are written to outputs/figures/main.
+# Tables and QA files are written to outputs/tables/* so the figure folder stays clean.
 OUT_DIR <- FIG_MAIN_DIR
 if (!dir.exists(OUT_DIR)) dir.create(OUT_DIR, recursive = TRUE)
+
+TAB_MAIN_OUT_DIR <- TAB_MAIN_DIR
+TAB_SUPP_OUT_DIR <- TAB_SUPP_DIR
+TAB_QA_OUT_DIR   <- file.path(OUT_ROOT, "tables", "qa")
+invisible(lapply(c(TAB_MAIN_OUT_DIR, TAB_SUPP_OUT_DIR, TAB_QA_OUT_DIR),
+                 dir.create, recursive = TRUE, showWarnings = FALSE))
 
 # Helper to save PNG + TIFF ---------------------------------------------------
 save_plot_both <- function(plot, filename_base,
@@ -305,9 +313,9 @@ table2_main_body <- labelled_summary_lifeform |>
 
 table2_main <- dplyr::bind_rows(table2_main_body, totals_row)
 
-readr::write_csv(table2_main, file.path(OUT_DIR, "Table2_LABELLED_main.csv"))
+readr::write_csv(table2_main, file.path(TAB_MAIN_OUT_DIR, "Table2_LABELLED_main.csv"))
 ft_main <- flextable::flextable(table2_main)
-flextable::save_as_docx(ft_main, path = file.path(OUT_DIR, "Table2_LABELLED_main.docx"))
+flextable::save_as_docx(ft_main, path = file.path(TAB_MAIN_OUT_DIR, "Table2_LABELLED_main.docx"))
 
 # ---- SUPPLEMENT: full diagnostics -----------------------------------------
 supp_diversity <- channel_diversity |>
@@ -317,9 +325,9 @@ supp_diversity <- channel_diversity |>
   ) |>
   dplyr::arrange(dplyr::desc(invHHI_norm))
 
-readr::write_csv(supp_diversity, file.path(OUT_DIR, "TableS9_channel_diversity_full.csv"))
+readr::write_csv(supp_diversity, file.path(TAB_SUPP_OUT_DIR, "TableS9_channel_diversity_full.csv"))
 ft_supp0 <- flextable::flextable(supp_diversity)
-flextable::save_as_docx(ft_supp0, path = file.path(OUT_DIR, "TableS9_channel_diversity_full.docx"))
+flextable::save_as_docx(ft_supp0, path = file.path(TAB_SUPP_OUT_DIR, "TableS9_channel_diversity_full.docx"))
 
 # Rounded export -------------------------------------------------------------
 DIGITS_HHI     <- 3
@@ -341,7 +349,7 @@ supp_diversity_round <- supp_diversity |>
     Neff_H       = round(Neff_H,       DIGITS_NEFFH)
   )
 
-readr::write_csv(supp_diversity_round, file.path(OUT_DIR, "TableSx_channel_diversity_full.csv"))
+readr::write_csv(supp_diversity_round, file.path(TAB_SUPP_OUT_DIR, "TableSx_channel_diversity_full.csv"))
 ft_supp <- flextable::flextable(supp_diversity_round) |>
   flextable::colformat_num(j = c("HHI"),         digits = DIGITS_HHI) |>
   flextable::colformat_num(j = c("invHHI_norm"), digits = DIGITS_INVHHI) |>
@@ -350,7 +358,7 @@ ft_supp <- flextable::flextable(supp_diversity_round) |>
   flextable::colformat_num(j = c("Neff_HHI"),    digits = DIGITS_NEFFHHI) |>
   flextable::colformat_num(j = c("Neff_H"),      digits = DIGITS_NEFFH)
 
-flextable::save_as_docx(ft_supp, path = file.path(OUT_DIR, "TableSx_channel_diversity_full.docx"))
+flextable::save_as_docx(ft_supp, path = file.path(TAB_SUPP_OUT_DIR, "TableSx_channel_diversity_full.docx"))
 
 # =============================================================================
 # FIGURE 3 PANELS
@@ -1102,8 +1110,8 @@ channel_diversity %>%
   print(n = Inf)
 
 # ---- persist QA outputs (useful for supplement / responses) -----------------
-readr::write_csv(qa_summary, file.path(OUT_DIR, "QA_channel_diversity_full_precision.csv"))
-readr::write_csv(qa_id,      file.path(OUT_DIR, "QA_identity_checks.csv"))
+readr::write_csv(qa_summary, file.path(TAB_QA_OUT_DIR, "QA_channel_diversity_full_precision.csv"))
+readr::write_csv(qa_id,      file.path(TAB_QA_OUT_DIR, "QA_identity_checks.csv"))
 
 # ---- Existing QA from your script (kept) -----------------------------------
 ext_invHHI <- qa_summary %>%
@@ -1279,9 +1287,9 @@ total_row_S9 <- dplyr::tibble(
 merged_S9_with_total <- dplyr::bind_rows(merged_S9, total_row_S9)
 
 # ---- write outputs (CSV + DOCX + MD) ---------------------------------------
-OUT_S9_CSV <- file.path(OUT_DIR, "TableS9_MERGED_channel_diversity.csv")
-OUT_S9_DOCX <- file.path(OUT_DIR, "TableS9_MERGED_channel_diversity.docx")
-OUT_S9_MD <- file.path(OUT_DIR, "TableS9_MERGED_channel_diversity.md")
+OUT_S9_CSV <- file.path(TAB_SUPP_OUT_DIR, "TableS9_MERGED_channel_diversity.csv")
+OUT_S9_DOCX <- file.path(TAB_SUPP_OUT_DIR, "TableS9_MERGED_channel_diversity.docx")
+OUT_S9_MD <- file.path(TAB_SUPP_OUT_DIR, "TableS9_MERGED_channel_diversity.md")
 
 readr::write_csv(merged_S9_with_total, OUT_S9_CSV)
 
@@ -1435,7 +1443,7 @@ Table2_final <- bind_rows(Table2_final, Table2_total)
 # SAVE TABLE 2
 write_csv(
   Table2_final,
-  file.path(OUT_DIR, "Table2_FINAL_descriptive_only.csv")
+  file.path(TAB_MAIN_OUT_DIR, "Table2_FINAL_descriptive_only.csv")
 )
 
 # ============================================================
@@ -1496,7 +1504,7 @@ TableS9_final <- bind_rows(
 # SAVE TABLE S9
 write_csv(
   TableS9_final,
-  file.path(OUT_DIR, "TableS9_FINAL_channel_diversity_metrics.csv")
+  file.path(TAB_SUPP_OUT_DIR, "TableS9_FINAL_channel_diversity_metrics.csv")
 )
 
 # ------------------------------------------------------------

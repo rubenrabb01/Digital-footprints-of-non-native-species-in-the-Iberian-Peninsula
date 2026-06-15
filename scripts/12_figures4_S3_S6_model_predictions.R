@@ -1625,7 +1625,7 @@ message("Running complete submitted Figures 4/S3/S6 + Tables 4/S14-S15 script: N
   print(gam_summary_NO_COMMENTS)
   
   write.csv(gam_summary_NO_COMMENTS,
-            file.path(dir_plots, "GAM_keyword_trends_summary_NO_COMMENTS.csv"),
+            file.path(dir_tables_NO_COMMENTS, "GAM_keyword_trends_summary_NO_COMMENTS.csv"),
             row.names = FALSE)
   
   # ============================================================
@@ -3391,7 +3391,7 @@ message("Running complete submitted Figures 4/S3/S6 + Tables 4/S14-S16 script: "
     }) %>% bind_rows()
   
     write.csv(gam_summary_ALL,
-              file.path(dir_plots_variant, paste0("GAM_keyword_trends_summary_ALL_", variant_label, ".csv")),
+              file.path(dir_tables_variant, paste0("GAM_keyword_trends_summary_ALL_", variant_label, ".csv")),
               row.names = FALSE)
   
     # ============================================================
