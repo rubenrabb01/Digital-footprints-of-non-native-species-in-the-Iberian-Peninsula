@@ -1,0 +1,867 @@
+video_id,created_at,viewCount,likeCount,commentCount,TaxonName,Region,LifeForm,PresentStatus,word,time_period,KeywordCategory,category,FirstRecord,FirstRecordDate,token_source
+u9g_AG0dAjw,2024-10-05T18:10:53Z,218,0,0,Acridotheres_cristatellus,Portugal,Birds,established,exotica,Post-Introduction,Invasion,Invasion,2007,2007-06-01T00:00:00Z,title_description
+TPYumzdDZ5Y,2019-08-21T19:36:28Z,96,5,0,Acridotheres_cristatellus,Portugal,Birds,established,exotica,Post-Introduction,Invasion,Invasion,2007,2007-06-01T00:00:00Z,title_description
+TPYumzdDZ5Y,2019-08-21T19:36:28Z,96,5,0,Acridotheres_cristatellus,Portugal,Birds,established,introduzida,Post-Introduction,Invasion,Invasion,2007,2007-06-01T00:00:00Z,title_description
+FesJzaS3rTo,2024-08-14T17:22:07Z,5,0,0,Acridotheres_cristatellus,Portugal,Birds,established,exotica,Post-Introduction,Invasion,Invasion,2007,2007-06-01T00:00:00Z,title_description
+ibCDLmBoeeo,2024-08-14T17:24:40Z,8,0,0,Acridotheres_cristatellus,Portugal,Birds,established,exotica,Post-Introduction,Invasion,Invasion,2007,2007-06-01T00:00:00Z,title_description
+gUGzzXLsw08,2019-05-01T19:45:38Z,2451,23,2,Acridotheres_cristatellus,Portugal,Birds,established,exotica,Post-Introduction,Invasion,Invasion,2007,2007-06-01T00:00:00Z,title_description
+wvJkA6zgymk,2024-09-26T14:06:21Z,1789,17,1,Aedes_aegypti,Madeira,Insects,established,peligro,Post-Introduction,Threat,Threat,2006,2006-06-01T00:00:00Z,title_description
+7VHx--FCd3E,2013-04-04T17:41:01Z,5847,52,0,Aedes_aegypti,Madeira,Insects,established,introducao,Post-Introduction,Invasion,Invasion,2006,2006-06-01T00:00:00Z,title_description
+7VHx--FCd3E,2013-04-04T17:41:01Z,5847,52,0,Aedes_aegypti,Madeira,Insects,established,vetor,Post-Introduction,Threat,Threat,2006,2006-06-01T00:00:00Z,title_description
+7VHx--FCd3E,2013-04-04T17:41:01Z,5847,52,0,Aedes_aegypti,Madeira,Insects,established,introducao,Post-Introduction,Invasion,Invasion,2006,2006-06-01T00:00:00Z,title_description
+7VHx--FCd3E,2013-04-04T17:41:01Z,5847,52,0,Aedes_aegypti,Madeira,Insects,established,vetor,Post-Introduction,Threat,Threat,2006,2006-06-01T00:00:00Z,title_description
+6MMkZX7CjNU,2013-04-04T19:55:13Z,47975,517,14,Aedes_aegypti,Madeira,Insects,established,introducao,Post-Introduction,Invasion,Invasion,2006,2006-06-01T00:00:00Z,title_description
+6MMkZX7CjNU,2013-04-04T19:55:13Z,47975,517,14,Aedes_aegypti,Madeira,Insects,established,vetor,Post-Introduction,Threat,Threat,2006,2006-06-01T00:00:00Z,title_description
+J_v3RGXBkoU,2020-10-03T13:00:03Z,60183,1618,147,Agapornis_fischeri,Portugal,Birds,alien,tienda,Post-Introduction,eCommerce,eCommerce,2008,2008-06-01T00:00:00Z,title_description
+ZOi4AcAYmZU,2021-07-26T12:29:30Z,3150,117,24,Agapornis_fischeri,Portugal,Birds,alien,vista,Post-Introduction,Detection,Detection,2008,2008-06-01T00:00:00Z,title_description
+-mfHwUMbB1k,2017-11-29T20:50:10Z,54,0,0,Agapornis_nigrigenis,Spain,Birds,alien,jaula,Post-Introduction,eCommerce,eCommerce,2006,2006-06-01T00:00:00Z,title_description
+i0am-uqsH24,2014-04-26T18:13:37Z,199,1,0,Amazona_farinosa,Spain,Birds,alien,peligro,Post-Introduction,Threat,Threat,2007,2007-06-01T00:00:00Z,title_description
+CqBsUk5_pe4,2020-06-14T06:46:39Z,3114,19,3,Amazona_ochrocephala,Portugal,Birds,alien,mascota,Post-Introduction,eCommerce,eCommerce,2007,2007-06-01T00:00:00Z,title_description
+CqBsUk5_pe4,2020-06-14T06:46:39Z,3114,19,3,Amazona_ochrocephala,Portugal,Birds,alien,mascota,Post-Introduction,eCommerce,eCommerce,2007,2007-06-01T00:00:00Z,title_description
+URMi5IoBA8o,2024-05-12T19:00:20Z,903,29,11,Amazona_ochrocephala,Portugal,Birds,alien,exotico,Post-Introduction,Invasion,Invasion,2007,2007-06-01T00:00:00Z,title_description
+gCP5S_l0Bu8,2015-07-29T09:16:19Z,51178,707,54,Aratinga_jandaya,Spain,Birds,alien,mascota,Post-Introduction,eCommerce,eCommerce,2008,2008-06-01T00:00:00Z,title_description
+7GLcDLJc9d4,2017-10-13T13:49:58Z,1381,14,2,Balistoides_conspicillum,Spain,Fishes,uncertain,aquario,Post-Introduction,eCommerce,eCommerce,2012,2012-06-01T00:00:00Z,title_description
+cq8rhhN-nZk,2025-04-14T04:00:49Z,1023,12,0,Balistoides_conspicillum,Spain,Fishes,uncertain,acuario,Post-Introduction,eCommerce,eCommerce,2012,2012-06-01T00:00:00Z,title_description
+cq8rhhN-nZk,2025-04-14T04:00:49Z,1023,12,0,Balistoides_conspicillum,Spain,Fishes,uncertain,acuario,Post-Introduction,eCommerce,eCommerce,2012,2012-06-01T00:00:00Z,title_description
+NkFFa6M5m6s,2015-07-09T10:23:37Z,17163,30,6,Belonochilus_numenius,Spain,Insects,established,plaga,Post-Introduction,Invasion,Invasion,2008,2008-06-01T00:00:00Z,title_description
+NkFFa6M5m6s,2015-07-09T10:23:37Z,17163,30,6,Belonochilus_numenius,Spain,Insects,established,plaga,Post-Introduction,Invasion,Invasion,2008,2008-06-01T00:00:00Z,title_description
+NkFFa6M5m6s,2015-07-09T10:23:37Z,17163,30,6,Belonochilus_numenius,Spain,Insects,established,ataca,Post-Introduction,Threat,Threat,2008,2008-06-01T00:00:00Z,title_description
+FQFj0MfruKY,2022-07-18T11:12:38Z,196,3,0,Bemisia_tabaci,Spain,Insects,alien,aparecer,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+_BbMsmZ2RJU,2022-10-19T06:40:47Z,118918,918,28,Bemisia_tabaci,Spain,Insects,alien,aparicion,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+1Rr-ocW6uWw,2019-01-18T23:44:12Z,734486,21296,362,Bemisia_tabaci,Spain,Insects,alien,control,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+1Rr-ocW6uWw,2019-01-18T23:44:12Z,734486,21296,362,Bemisia_tabaci,Spain,Insects,alien,plagas,Post-Introduction,Invasion,Invasion,2006,2006-06-01T00:00:00Z,title_description
+XXHSfJQjdJw,2020-07-14T07:07:36Z,3031,16,1,Bemisia_tabaci,Spain,Insects,alien,plaga,Post-Introduction,Invasion,Invasion,2006,2006-06-01T00:00:00Z,title_description
+oFsPXVXOCr4,2023-08-08T19:30:09Z,23586,754,14,Bemisia_tabaci,Spain,Insects,alien,aparecer,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+J2t0WElEqVY,2013-06-21T00:14:42Z,868594,19050,929,Bemisia_tabaci,Spain,Insects,alien,trampas,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+J2t0WElEqVY,2013-06-21T00:14:42Z,868594,19050,929,Bemisia_tabaci,Spain,Insects,alien,trampas,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+J2t0WElEqVY,2013-06-21T00:14:42Z,868594,19050,929,Bemisia_tabaci,Spain,Insects,alien,plagas,Post-Introduction,Invasion,Invasion,2006,2006-06-01T00:00:00Z,title_description
+vL9TvnbnBBY,2022-04-03T18:15:02Z,2221,127,31,Bemisia_tabaci,Spain,Insects,alien,plagas,Post-Introduction,Invasion,Invasion,2006,2006-06-01T00:00:00Z,title_description
+feTjM3z3eDk,2023-07-28T22:00:15Z,2773,111,195,Bemisia_tabaci,Spain,Insects,alien,plaga,Post-Introduction,Invasion,Invasion,2006,2006-06-01T00:00:00Z,title_description
+feTjM3z3eDk,2023-07-28T22:00:15Z,2773,111,195,Bemisia_tabaci,Spain,Insects,alien,ataca,Post-Introduction,Threat,Threat,2006,2006-06-01T00:00:00Z,title_description
+GnArJJ-ewYY,2020-09-02T06:27:41Z,1953,2,0,Bemisia_tabaci,Spain,Insects,alien,plagas,Post-Introduction,Invasion,Invasion,2006,2006-06-01T00:00:00Z,title_description
+n2ylACNy3cI,2023-03-16T19:50:16Z,4258,214,5,Bemisia_tabaci,Spain,Insects,alien,plaga,Post-Introduction,Invasion,Invasion,2006,2006-06-01T00:00:00Z,title_description
+n2ylACNy3cI,2023-03-16T19:50:16Z,4258,214,5,Bemisia_tabaci,Spain,Insects,alien,plagas,Post-Introduction,Invasion,Invasion,2006,2006-06-01T00:00:00Z,title_description
+n2ylACNy3cI,2023-03-16T19:50:16Z,4258,214,5,Bemisia_tabaci,Spain,Insects,alien,descuento,Post-Introduction,eCommerce,eCommerce,2006,2006-06-01T00:00:00Z,title_description
+n2ylACNy3cI,2023-03-16T19:50:16Z,4258,214,5,Bemisia_tabaci,Spain,Insects,alien,descuento,Post-Introduction,eCommerce,eCommerce,2006,2006-06-01T00:00:00Z,title_description
+meiLTgm66aI,2019-04-25T15:58:16Z,817590,19070,700,Bemisia_tabaci,Spain,Insects,alien,plagas,Post-Introduction,Invasion,Invasion,2006,2006-06-01T00:00:00Z,title_description
+diZDS9qrv0M,2025-06-17T07:06:08Z,1570,9,0,Bemisia_tabaci,Spain,Insects,alien,trampa,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+diZDS9qrv0M,2025-06-17T07:06:08Z,1570,9,0,Bemisia_tabaci,Spain,Insects,alien,trampas,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+50o-1Gq63ow,2016-10-13T19:01:12Z,3377,14,0,Bemisia_tabaci,Spain,Insects,alien,control,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+50o-1Gq63ow,2016-10-13T19:01:12Z,3377,14,0,Bemisia_tabaci,Spain,Insects,alien,control,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+j0V7f-2U2oQ,2022-10-14T07:47:25Z,1516,25,2,Bemisia_tabaci,Spain,Insects,alien,plagas,Post-Introduction,Invasion,Invasion,2006,2006-06-01T00:00:00Z,title_description
+M36h9zW-pR8,2023-07-14T12:11:49Z,609,14,0,Bemisia_tabaci,Spain,Insects,alien,trampa,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+JAUI-ZfnFMg,2012-03-29T17:16:03Z,32340,50,1,Bemisia_tabaci,Spain,Insects,alien,trampa,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+JAUI-ZfnFMg,2012-03-29T17:16:03Z,32340,50,1,Bemisia_tabaci,Spain,Insects,alien,trampa,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+JAUI-ZfnFMg,2012-03-29T17:16:03Z,32340,50,1,Bemisia_tabaci,Spain,Insects,alien,plagas,Post-Introduction,Invasion,Invasion,2006,2006-06-01T00:00:00Z,title_description
+5k7q7SWwdq4,2015-05-22T21:58:57Z,18166,72,8,Bemisia_tabaci,Spain,Insects,alien,controlar,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+5k7q7SWwdq4,2015-05-22T21:58:57Z,18166,72,8,Bemisia_tabaci,Spain,Insects,alien,plagas,Post-Introduction,Invasion,Invasion,2006,2006-06-01T00:00:00Z,title_description
+5k7q7SWwdq4,2015-05-22T21:58:57Z,18166,72,8,Bemisia_tabaci,Spain,Insects,alien,trampas,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+5k7q7SWwdq4,2015-05-22T21:58:57Z,18166,72,8,Bemisia_tabaci,Spain,Insects,alien,controlar,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+ndz6RHweWgU,2024-12-02T12:23:13Z,240,1,,Bemisia_tabaci,Spain,Insects,alien,control,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+ndz6RHweWgU,2024-12-02T12:23:13Z,240,1,,Bemisia_tabaci,Spain,Insects,alien,plaga,Post-Introduction,Invasion,Invasion,2006,2006-06-01T00:00:00Z,title_description
+jOi7GPnHg04,2022-05-25T22:21:15Z,5579,306,39,Bemisia_tabaci,Spain,Insects,alien,plagas,Post-Introduction,Invasion,Invasion,2006,2006-06-01T00:00:00Z,title_description
+HKFI_T--THU,2023-06-21T05:13:31Z,1810,30,2,Bemisia_tabaci,Spain,Insects,alien,trampas,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+HKFI_T--THU,2023-06-21T05:13:31Z,1810,30,2,Bemisia_tabaci,Spain,Insects,alien,plagas,Post-Introduction,Invasion,Invasion,2006,2006-06-01T00:00:00Z,title_description
+29Qvdlsep1Y,2020-10-15T20:16:57Z,577,8,0,Bemisia_tabaci,Spain,Insects,alien,control,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+29Qvdlsep1Y,2020-10-15T20:16:57Z,577,8,0,Bemisia_tabaci,Spain,Insects,alien,control,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+gzQB2RvHhOs,2018-06-21T16:00:03Z,1840050,39799,1791,Bemisia_tabaci,Spain,Insects,alien,plagas,Post-Introduction,Invasion,Invasion,2006,2006-06-01T00:00:00Z,title_description
+gzQB2RvHhOs,2018-06-21T16:00:03Z,1840050,39799,1791,Bemisia_tabaci,Spain,Insects,alien,plagas,Post-Introduction,Invasion,Invasion,2006,2006-06-01T00:00:00Z,title_description
+2JlFmhn9ylI,2018-06-08T01:19:37Z,1527,13,0,Bemisia_tabaci,Spain,Insects,alien,plaga,Post-Introduction,Invasion,Invasion,2006,2006-06-01T00:00:00Z,title_description
+2Phet__WGGg,2020-07-09T12:40:13Z,995,8,0,Bemisia_tabaci,Spain,Insects,alien,plagas,Post-Introduction,Invasion,Invasion,2006,2006-06-01T00:00:00Z,title_description
+z7IwedDStBU,2022-05-08T11:19:04Z,3942,57,19,Branta_canadensis,Portugal,Birds,established,peligroso,Post-Introduction,Threat,Threat,2008,2008-06-01T00:00:00Z,title_description
+xZdyME5qPOg,2024-02-24T15:00:54Z,258,22,1,Branta_canadensis,Portugal,Birds,established,nativa,Post-Introduction,Invasion,Invasion,2008,2008-06-01T00:00:00Z,title_description
+xZdyME5qPOg,2024-02-24T15:00:54Z,258,22,1,Branta_canadensis,Portugal,Birds,established,introduzida,Post-Introduction,Invasion,Invasion,2008,2008-06-01T00:00:00Z,title_description
+XVyhcvA5SUI,2023-08-24T13:00:33Z,903,10,0,Bursaphelenchus_xylophilus,Spain,Non-arthropod invertebrates,established,control,Post-Introduction,Detection,Detection,2008,2008-06-01T00:00:00Z,title_description
+XVyhcvA5SUI,2023-08-24T13:00:33Z,903,10,0,Bursaphelenchus_xylophilus,Spain,Non-arthropod invertebrates,established,nocivo,Post-Introduction,Threat,Threat,2008,2008-06-01T00:00:00Z,title_description
+XMLG7frKE2Y,2010-05-11T16:19:54Z,508,1,0,Bursaphelenchus_xylophilus,Spain,Non-arthropod invertebrates,established,praga,Post-Introduction,Invasion,Invasion,2008,2008-06-01T00:00:00Z,title_description
+NW7qbwjJIhs,2024-10-06T21:34:22Z,768,18,2,Caloenas_nicobarica,Spain,Birds,casual,exotica,Post-Introduction,Invasion,Invasion,2008,2008-06-01T00:00:00Z,title_description
+NW7qbwjJIhs,2024-10-06T21:34:22Z,768,18,2,Caloenas_nicobarica,Spain,Birds,casual,exotica,Post-Introduction,Invasion,Invasion,2008,2008-06-01T00:00:00Z,title_description
+QnQ3Q8EcgYE,2024-03-06T22:01:42Z,37,0,0,Caracara_plancus,Spain,Birds,casual,avistamiento,Post-Introduction,Detection,Detection,2010,2010-06-01T00:00:00Z,title_description
+e4RjL4qlrx4,2024-02-07T17:51:59Z,406,3,0,Caracara_plancus,Spain,Birds,casual,avistamiento,Post-Introduction,Detection,Detection,2010,2010-06-01T00:00:00Z,title_description
+NQ6rP4wI3SU,2024-01-11T23:33:32Z,16,0,0,Caracara_plancus,Spain,Birds,casual,avistamiento,Post-Introduction,Detection,Detection,2010,2010-06-01T00:00:00Z,title_description
+oeqxUWH0E50,2023-11-27T22:19:32Z,16,0,0,Caracara_plancus,Spain,Birds,casual,avistamiento,Post-Introduction,Detection,Detection,2010,2010-06-01T00:00:00Z,title_description
+zLvNc_hE1ag,2021-11-13T11:00:34Z,34047,532,90,Ceratitis_capitata,Spain,Insects,established,trampa,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+zLvNc_hE1ag,2021-11-13T11:00:34Z,34047,532,90,Ceratitis_capitata,Spain,Insects,established,trampa,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+2ZNZLxhlZyA,2024-03-26T12:13:34Z,46,0,0,Ceratitis_capitata,Spain,Insects,established,control,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+2ZNZLxhlZyA,2024-03-26T12:13:34Z,46,0,0,Ceratitis_capitata,Spain,Insects,established,monitoreo,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+2ZNZLxhlZyA,2024-03-26T12:13:34Z,46,0,0,Ceratitis_capitata,Spain,Insects,established,trampa,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+Dj7d0IX5NnM,2019-12-19T22:03:56Z,131,5,4,Ceratitis_capitata,Spain,Insects,established,trampa,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+Dj7d0IX5NnM,2019-12-19T22:03:56Z,131,5,4,Ceratitis_capitata,Spain,Insects,established,trampa,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+jll74hRSjQw,2021-10-28T11:36:46Z,94,0,0,Ceratitis_capitata,Spain,Insects,established,plaga,Post-Introduction,Invasion,Invasion,2006,2006-06-01T00:00:00Z,title_description
+GPtWrEj01VI,2022-11-01T11:30:07Z,82,2,0,Ceratitis_capitata,Spain,Insects,established,plagas,Post-Introduction,Invasion,Invasion,2006,2006-06-01T00:00:00Z,title_description
+BaloXAUhjn4,2025-08-01T11:15:18Z,147,0,0,Ceratitis_capitata,Spain,Insects,established,armadilha,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+BaloXAUhjn4,2025-08-01T11:15:18Z,147,0,0,Ceratitis_capitata,Spain,Insects,established,armadilha,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+BaloXAUhjn4,2025-08-01T11:15:18Z,147,0,0,Ceratitis_capitata,Spain,Insects,established,capturar,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+7VdgX7gGBoY,2024-07-16T19:00:04Z,102199,3504,258,Ceratitis_capitata,Spain,Insects,established,plaga,Post-Introduction,Invasion,Invasion,2006,2006-06-01T00:00:00Z,title_description
+7VdgX7gGBoY,2024-07-16T19:00:04Z,102199,3504,258,Ceratitis_capitata,Spain,Insects,established,peligrosa,Post-Introduction,Threat,Threat,2006,2006-06-01T00:00:00Z,title_description
+FiF2zKXkT8M,2019-07-24T15:18:05Z,548,4,1,Ceratitis_capitata,Spain,Insects,established,trampas,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+61kOhcFzWJc,2024-07-22T16:51:06Z,98,3,0,Ceratitis_capitata,Spain,Insects,established,manejo,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+61kOhcFzWJc,2024-07-22T16:51:06Z,98,3,0,Ceratitis_capitata,Spain,Insects,established,plaga,Post-Introduction,Invasion,Invasion,2006,2006-06-01T00:00:00Z,title_description
+ySaF6C2w0Lg,2011-08-23T00:03:44Z,8264,7,0,Ceratitis_capitata,Spain,Insects,established,trampas,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+zl3hA5jV0tI,2017-06-16T18:14:43Z,52,0,0,Ceratitis_capitata,Spain,Insects,established,plaga,Post-Introduction,Invasion,Invasion,2006,2006-06-01T00:00:00Z,title_description
+zl3hA5jV0tI,2017-06-16T18:14:43Z,52,0,0,Ceratitis_capitata,Spain,Insects,established,plagues,Post-Introduction,Invasion,Invasion,2006,2006-06-01T00:00:00Z,title_description
+bcH7EiDPRM8,2024-01-24T19:34:15Z,115,3,0,Ceratitis_capitata,Spain,Insects,established,mercado,Post-Introduction,eCommerce,eCommerce,2006,2006-06-01T00:00:00Z,title_description
+vEFiV78cZpQ,2016-10-04T17:47:41Z,936,6,3,Cherax_quadricarinatus,Spain,Crustaceans,alien,acuario,Post-Introduction,eCommerce,eCommerce,2013,2013-09-01T00:00:00Z,title_description
+a7GhKQpizVE,2014-01-05T19:13:06Z,91772,423,64,Cherax_quadricarinatus,Spain,Crustaceans,alien,aquario,Post-Introduction,eCommerce,eCommerce,2013,2013-09-01T00:00:00Z,title_description
+a7GhKQpizVE,2014-01-05T19:13:06Z,91772,423,64,Cherax_quadricarinatus,Spain,Crustaceans,alien,aquario,Post-Introduction,eCommerce,eCommerce,2013,2013-09-01T00:00:00Z,title_description
+a7GhKQpizVE,2014-01-05T19:13:06Z,91772,423,64,Cherax_quadricarinatus,Spain,Crustaceans,alien,capturados,Post-Introduction,Detection,Detection,2013,2013-09-01T00:00:00Z,title_description
+fi3R0hhNRPI,2019-10-14T18:38:55Z,20452,319,61,Cherax_quadricarinatus,Spain,Crustaceans,alien,acuario,Post-Introduction,eCommerce,eCommerce,2013,2013-09-01T00:00:00Z,title_description
+V5HeskiLNRY,2025-03-08T17:00:36Z,5035,129,3,Cherax_quadricarinatus,Spain,Crustaceans,alien,mascota,Post-Introduction,eCommerce,eCommerce,2013,2013-09-01T00:00:00Z,title_description
+zs-D1BSIt2g,2008-09-28T21:57:15Z,13355,5,3,Cherax_quadricarinatus,Spain,Crustaceans,alien,acuario,Pre-Introduction,eCommerce,eCommerce,2013,2013-09-01T00:00:00Z,title_description
+zs-D1BSIt2g,2008-09-28T21:57:15Z,13355,5,3,Cherax_quadricarinatus,Spain,Crustaceans,alien,acuario,Pre-Introduction,eCommerce,eCommerce,2013,2013-09-01T00:00:00Z,title_description
+yJujnELHFxk,2021-01-24T21:14:03Z,61,1,0,Cherax_quadricarinatus,Spain,Crustaceans,alien,acuario,Post-Introduction,eCommerce,eCommerce,2013,2013-09-01T00:00:00Z,title_description
+yJujnELHFxk,2021-01-24T21:14:03Z,61,1,0,Cherax_quadricarinatus,Spain,Crustaceans,alien,acuario,Post-Introduction,eCommerce,eCommerce,2013,2013-09-01T00:00:00Z,title_description
+LIoM1vMr_FA,2022-05-27T13:33:52Z,133,5,3,Chloephaga_picta,Portugal,Birds,casual,registro,Post-Introduction,Detection,Detection,2008,2008-06-01T00:00:00Z,title_description
+TFKZ8p_sVAg,2024-03-06T22:59:52Z,7,0,0,Columbina_talpacoti,Spain,Birds,casual,avistamiento,Post-Introduction,Detection,Detection,2013,2013-06-01T00:00:00Z,title_description
+fRHLvN2Kcts,2025-07-23T09:09:12Z,1853,13,2,Corvus_albus,Portugal,Birds,alien,avistamiento,Post-Introduction,Detection,Detection,2015,2015-06-01T00:00:00Z,title_description
+fRHLvN2Kcts,2025-07-23T09:09:12Z,1853,13,2,Corvus_albus,Portugal,Birds,alien,observado,Post-Introduction,Detection,Detection,2015,2015-06-01T00:00:00Z,title_description
+-E8rCCeVBq0,2022-01-24T08:50:57Z,1930,18,0,Cydalima_perspectalis,Spain,Insects,established,exotica,Post-Introduction,Invasion,Invasion,2014,2014-06-01T00:00:00Z,title_description
+-E8rCCeVBq0,2022-01-24T08:50:57Z,1930,18,0,Cydalima_perspectalis,Spain,Insects,established,invasora,Post-Introduction,Invasion,Invasion,2014,2014-06-01T00:00:00Z,title_description
+HYyXRARxKm8,2015-04-29T18:43:54Z,11346,72,10,Cydalima_perspectalis,Spain,Insects,established,plaga,Post-Introduction,Invasion,Invasion,2014,2014-06-01T00:00:00Z,title_description
+HYyXRARxKm8,2015-04-29T18:43:54Z,11346,72,10,Cydalima_perspectalis,Spain,Insects,established,plaga,Post-Introduction,Invasion,Invasion,2014,2014-06-01T00:00:00Z,title_description
+70PFTOgsg8Q,2019-10-04T11:11:14Z,2578,16,0,Cydalima_perspectalis,Spain,Insects,established,invasora,Post-Introduction,Invasion,Invasion,2014,2014-06-01T00:00:00Z,title_description
+70PFTOgsg8Q,2019-10-04T11:11:14Z,2578,16,0,Cydalima_perspectalis,Spain,Insects,established,amenaza,Post-Introduction,Threat,Threat,2014,2014-06-01T00:00:00Z,title_description
+xky_cApio_s,2018-08-22T10:35:53Z,157,0,0,Cydalima_perspectalis,Spain,Insects,established,observada,Post-Introduction,Detection,Detection,2014,2014-06-01T00:00:00Z,title_description
+4BjW093-fSs,2024-04-18T07:10:01Z,51,2,0,Cydalima_perspectalis,Spain,Insects,established,invasores,Post-Introduction,Invasion,Invasion,2014,2014-06-01T00:00:00Z,title_description
+4BjW093-fSs,2024-04-18T07:10:01Z,51,2,0,Cydalima_perspectalis,Spain,Insects,established,invasores,Post-Introduction,Invasion,Invasion,2014,2014-06-01T00:00:00Z,title_description
+w72PJqmQjSU,2021-05-18T07:30:54Z,1202,3,0,Delottococcus_aberiae,Spain,Insects,alien,control,Post-Introduction,Detection,Detection,2009,2009-06-01T00:00:00Z,title_description
+UgE8mj5AhhY,2023-03-16T12:14:58Z,6511,95,2,Delottococcus_aberiae,Spain,Insects,alien,control,Post-Introduction,Detection,Detection,2009,2009-06-01T00:00:00Z,title_description
+UgE8mj5AhhY,2023-03-16T12:14:58Z,6511,95,2,Delottococcus_aberiae,Spain,Insects,alien,control,Post-Introduction,Detection,Detection,2009,2009-06-01T00:00:00Z,title_description
+Y5m3kuYgf4g,2020-06-14T20:17:38Z,2692,56,3,Delottococcus_aberiae,Spain,Insects,alien,afectando,Post-Introduction,Invasion,Invasion,2009,2009-06-01T00:00:00Z,title_description
+1OTQNIxzkck,2021-09-22T07:27:11Z,606,6,,Delottococcus_aberiae,Spain,Insects,alien,control,Post-Introduction,Detection,Detection,2009,2009-06-01T00:00:00Z,title_description
+1OTQNIxzkck,2021-09-22T07:27:11Z,606,6,,Delottococcus_aberiae,Spain,Insects,alien,control,Post-Introduction,Detection,Detection,2009,2009-06-01T00:00:00Z,title_description
+WgpiLu4ALrs,2023-03-09T08:34:52Z,674,3,0,Delottococcus_aberiae,Spain,Insects,alien,plaga,Post-Introduction,Invasion,Invasion,2009,2009-06-01T00:00:00Z,title_description
+27DG3eD1yOw,2021-07-19T09:30:33Z,21,0,0,Delottococcus_aberiae,Spain,Insects,alien,proliferacion,Post-Introduction,Invasion,Invasion,2009,2009-06-01T00:00:00Z,title_description
+OjVVdYTq2jY,2021-08-30T06:23:27Z,1065,20,,Delottococcus_aberiae,Spain,Insects,alien,controlar,Post-Introduction,Detection,Detection,2009,2009-06-01T00:00:00Z,title_description
+OjVVdYTq2jY,2021-08-30T06:23:27Z,1065,20,,Delottococcus_aberiae,Spain,Insects,alien,control,Post-Introduction,Detection,Detection,2009,2009-06-01T00:00:00Z,title_description
+Y15Lg8NW4Vg,2021-05-06T10:31:55Z,1819,7,0,Delottococcus_aberiae,Spain,Insects,alien,control,Post-Introduction,Detection,Detection,2009,2009-06-01T00:00:00Z,title_description
+Y15Lg8NW4Vg,2021-05-06T10:31:55Z,1819,7,0,Delottococcus_aberiae,Spain,Insects,alien,plagas,Post-Introduction,Invasion,Invasion,2009,2009-06-01T00:00:00Z,title_description
+Y15Lg8NW4Vg,2021-05-06T10:31:55Z,1819,7,0,Delottococcus_aberiae,Spain,Insects,alien,control,Post-Introduction,Detection,Detection,2009,2009-06-01T00:00:00Z,title_description
+Ya_oA4zjvqU,2021-08-22T04:41:39Z,369,19,1,Delottococcus_aberiae,Spain,Insects,alien,plaga,Post-Introduction,Invasion,Invasion,2009,2009-06-01T00:00:00Z,title_description
+Ya_oA4zjvqU,2021-08-22T04:41:39Z,369,19,1,Delottococcus_aberiae,Spain,Insects,alien,plaga,Post-Introduction,Invasion,Invasion,2009,2009-06-01T00:00:00Z,title_description
+qnT8wb_iic0,2022-04-06T10:00:24Z,158,3,0,Delottococcus_aberiae,Spain,Insects,alien,plaga,Post-Introduction,Invasion,Invasion,2009,2009-06-01T00:00:00Z,title_description
+qnT8wb_iic0,2022-04-06T10:00:24Z,158,3,0,Delottococcus_aberiae,Spain,Insects,alien,expansion,Post-Introduction,Invasion,Invasion,2009,2009-06-01T00:00:00Z,title_description
+qnT8wb_iic0,2022-04-06T10:00:24Z,158,3,0,Delottococcus_aberiae,Spain,Insects,alien,visto,Post-Introduction,Detection,Detection,2009,2009-06-01T00:00:00Z,title_description
+qnT8wb_iic0,2022-04-06T10:00:24Z,158,3,0,Delottococcus_aberiae,Spain,Insects,alien,control,Post-Introduction,Detection,Detection,2009,2009-06-01T00:00:00Z,title_description
+C3c7VhCfyXE,2020-06-17T10:00:11Z,95,18,1,Delottococcus_aberiae,Spain,Insects,alien,plaga,Post-Introduction,Invasion,Invasion,2009,2009-06-01T00:00:00Z,title_description
+C3c7VhCfyXE,2020-06-17T10:00:11Z,95,18,1,Delottococcus_aberiae,Spain,Insects,alien,plaga,Post-Introduction,Invasion,Invasion,2009,2009-06-01T00:00:00Z,title_description
+bYSH9G2ed6g,2025-06-02T14:00:54Z,453,1,0,Delottococcus_aberiae,Spain,Insects,alien,plagas,Post-Introduction,Invasion,Invasion,2009,2009-06-01T00:00:00Z,title_description
+Z2IkcTef4AE,2022-03-30T12:00:32Z,206,3,0,Delottococcus_aberiae,Spain,Insects,alien,plaga,Post-Introduction,Invasion,Invasion,2009,2009-06-01T00:00:00Z,title_description
+DS91Y8Y5c6M,2020-06-26T10:46:39Z,7858,38,1,Delottococcus_aberiae,Spain,Insects,alien,plaga,Post-Introduction,Invasion,Invasion,2009,2009-06-01T00:00:00Z,title_description
+oPRmR2M8COg,2020-07-21T12:12:10Z,3042,15,,Delottococcus_aberiae,Spain,Insects,alien,control,Post-Introduction,Detection,Detection,2009,2009-06-01T00:00:00Z,title_description
+VDc35Mr2BcU,2021-06-14T10:05:26Z,1557,41,5,Delottococcus_aberiae,Spain,Insects,alien,trampa,Post-Introduction,Detection,Detection,2009,2009-06-01T00:00:00Z,title_description
+_gKtFDJsXdg,2021-05-14T08:42:36Z,931,4,0,Delottococcus_aberiae,Spain,Insects,alien,plagas,Post-Introduction,Invasion,Invasion,2009,2009-06-01T00:00:00Z,title_description
+_gKtFDJsXdg,2021-05-14T08:42:36Z,931,4,0,Delottococcus_aberiae,Spain,Insects,alien,amenaza,Post-Introduction,Threat,Threat,2009,2009-06-01T00:00:00Z,title_description
+mGBqQeVc1NM,2015-09-20T13:24:52Z,2423,12,,Diadema_antillarum,Canary Islands,Non-arthropod invertebrates,alien,presente,Post-Introduction,Invasion,Invasion,2006,2006-06-01T00:00:00Z,title_description
+9CYtWd--2nw,2021-09-07T14:19:29Z,430,3,1,Diadema_antillarum,Canary Islands,Non-arthropod invertebrates,alien,amenaza,Post-Introduction,Threat,Threat,2006,2006-06-01T00:00:00Z,title_description
+EDKBAVLMz-U,2012-03-15T15:51:49Z,2653,8,0,Drosophila_suzukii,Spain,Insects,alien,invasora,Post-Introduction,Invasion,Invasion,2008,2008-06-01T00:00:00Z,title_description
+EDKBAVLMz-U,2012-03-15T15:51:49Z,2653,8,0,Drosophila_suzukii,Spain,Insects,alien,invasion,Post-Introduction,Invasion,Invasion,2008,2008-06-01T00:00:00Z,title_description
+9vTIrk8nQcs,2013-07-11T14:49:47Z,1728,2,1,Drosophila_suzukii,Spain,Insects,alien,captura,Post-Introduction,Detection,Detection,2008,2008-06-01T00:00:00Z,title_description
+9vTIrk8nQcs,2013-07-11T14:49:47Z,1728,2,1,Drosophila_suzukii,Spain,Insects,alien,captura,Post-Introduction,Detection,Detection,2008,2008-06-01T00:00:00Z,title_description
+1026-ua0D24,2017-11-25T21:14:49Z,1161,1,0,Drosophila_suzukii,Spain,Insects,alien,plaga,Post-Introduction,Invasion,Invasion,2008,2008-06-01T00:00:00Z,title_description
+1026-ua0D24,2017-11-25T21:14:49Z,1161,1,0,Drosophila_suzukii,Spain,Insects,alien,control,Post-Introduction,Detection,Detection,2008,2008-06-01T00:00:00Z,title_description
+PS7ul1uI2Qc,2017-10-23T21:22:26Z,85,1,0,Dryocosmus_kuriphilus,Spain,Insects,alien,expansion,Post-Introduction,Invasion,Invasion,2012,2012-06-01T00:00:00Z,title_description
+B2hrMwyDZWk,2022-05-26T15:48:53Z,155,2,0,Dryocosmus_kuriphilus,Spain,Insects,alien,controlada,Post-Introduction,Detection,Detection,2012,2012-06-01T00:00:00Z,title_description
+azX71J9nJBs,2021-06-11T16:00:02Z,523,3,0,Dryocosmus_kuriphilus,Spain,Insects,alien,peligro,Post-Introduction,Threat,Threat,2012,2012-06-01T00:00:00Z,title_description
+azX71J9nJBs,2021-06-11T16:00:02Z,523,3,0,Dryocosmus_kuriphilus,Spain,Insects,alien,plaga,Post-Introduction,Invasion,Invasion,2012,2012-06-01T00:00:00Z,title_description
+Kvpz-5u4OSM,2020-04-20T06:01:56Z,744,5,1,Dryocosmus_kuriphilus,Spain,Insects,alien,comprar,Post-Introduction,eCommerce,eCommerce,2012,2012-06-01T00:00:00Z,title_description
+1uii_UmIQIc,2019-11-29T10:17:10Z,104,0,0,Dryocosmus_kuriphilus,Spain,Insects,alien,control,Post-Introduction,Detection,Detection,2012,2012-06-01T00:00:00Z,title_description
+JEOHOEXzl6E,2019-05-15T18:46:12Z,315,1,0,Dryocosmus_kuriphilus,Spain,Insects,alien,plaga,Post-Introduction,Invasion,Invasion,2012,2012-06-01T00:00:00Z,title_description
+NF-yPCSsA4U,2019-11-29T10:10:15Z,38,0,0,Dryocosmus_kuriphilus,Spain,Insects,alien,control,Post-Introduction,Detection,Detection,2012,2012-06-01T00:00:00Z,title_description
+134XIEuvXFs,2014-10-07T07:41:40Z,1679,10,1,Dryocosmus_kuriphilus,Spain,Insects,alien,plaga,Post-Introduction,Invasion,Invasion,2012,2012-06-01T00:00:00Z,title_description
+134XIEuvXFs,2014-10-07T07:41:40Z,1679,10,1,Dryocosmus_kuriphilus,Spain,Insects,alien,amenaza,Post-Introduction,Threat,Threat,2012,2012-06-01T00:00:00Z,title_description
+134XIEuvXFs,2014-10-07T07:41:40Z,1679,10,1,Dryocosmus_kuriphilus,Spain,Insects,alien,plaga,Post-Introduction,Invasion,Invasion,2012,2012-06-01T00:00:00Z,title_description
+pdjeV4Bp9QU,2015-04-22T17:58:15Z,1374,6,0,Dryocosmus_kuriphilus,Spain,Insects,alien,expansion,Post-Introduction,Invasion,Invasion,2012,2012-06-01T00:00:00Z,title_description
+pdjeV4Bp9QU,2015-04-22T17:58:15Z,1374,6,0,Dryocosmus_kuriphilus,Spain,Insects,alien,plaga,Post-Introduction,Invasion,Invasion,2012,2012-06-01T00:00:00Z,title_description
+RHieoRK4jaE,2025-05-26T09:00:11Z,18,0,0,Dryocosmus_kuriphilus,Spain,Insects,alien,plagas,Post-Introduction,Invasion,Invasion,2012,2012-06-01T00:00:00Z,title_description
+uZCRm95TTz0,2021-07-13T07:00:12Z,163,7,0,Dryocosmus_kuriphilus,Spain,Insects,alien,seguimiento,Post-Introduction,Detection,Detection,2012,2012-06-01T00:00:00Z,title_description
+uZCRm95TTz0,2021-07-13T07:00:12Z,163,7,0,Dryocosmus_kuriphilus,Spain,Insects,alien,plaga,Post-Introduction,Invasion,Invasion,2012,2012-06-01T00:00:00Z,title_description
+uZCRm95TTz0,2021-07-13T07:00:12Z,163,7,0,Dryocosmus_kuriphilus,Spain,Insects,alien,observado,Post-Introduction,Detection,Detection,2012,2012-06-01T00:00:00Z,title_description
+3IgXHcKLihE,2021-04-24T22:20:26Z,700,32,9,Dryocosmus_kuriphilus,Spain,Insects,alien,control,Post-Introduction,Detection,Detection,2012,2012-06-01T00:00:00Z,title_description
+WtCdu6rYmdU,2021-04-12T20:23:55Z,540,7,0,Dryocosmus_kuriphilus,Spain,Insects,alien,plagas,Post-Introduction,Invasion,Invasion,2012,2012-06-01T00:00:00Z,title_description
+WtCdu6rYmdU,2021-04-12T20:23:55Z,540,7,0,Dryocosmus_kuriphilus,Spain,Insects,alien,controlada,Post-Introduction,Detection,Detection,2012,2012-06-01T00:00:00Z,title_description
+lyjn1PjNiPE,2021-05-31T20:46:36Z,9,0,0,Dryocosmus_kuriphilus,Spain,Insects,alien,pandemia,Post-Introduction,Threat,Threat,2012,2012-06-01T00:00:00Z,title_description
+1-JsrSixCFU,2024-05-07T10:54:58Z,55,2,0,Dryocosmus_kuriphilus,Spain,Insects,alien,plaga,Post-Introduction,Invasion,Invasion,2012,2012-06-01T00:00:00Z,title_description
+0hXxoUzTd7o,2021-05-17T20:27:37Z,230,4,0,Dryocosmus_kuriphilus,Spain,Insects,alien,plagas,Post-Introduction,Invasion,Invasion,2012,2012-06-01T00:00:00Z,title_description
+0hXxoUzTd7o,2021-05-17T20:27:37Z,230,4,0,Dryocosmus_kuriphilus,Spain,Insects,alien,controlada,Post-Introduction,Detection,Detection,2012,2012-06-01T00:00:00Z,title_description
+wcEMCOyjDD4,2017-05-20T18:43:29Z,2563,26,0,Dryocosmus_kuriphilus,Spain,Insects,alien,perigo,Post-Introduction,Threat,Threat,2012,2012-06-01T00:00:00Z,title_description
+wcEMCOyjDD4,2017-05-20T18:43:29Z,2563,26,0,Dryocosmus_kuriphilus,Spain,Insects,alien,ataca,Post-Introduction,Threat,Threat,2012,2012-06-01T00:00:00Z,title_description
+KEQ4TRTr9KQ,2023-01-03T10:31:57Z,198,2,0,Elanoides_forficatus,Spain,Birds,casual,avistamiento,Post-Introduction,Detection,Detection,2010,2010-06-01T00:00:00Z,title_description
+XoXIKFte9ao,2011-09-28T02:06:21Z,1224,10,4,Eupsittula_pertinax,Spain,Birds,alien,cara,Post-Introduction,eCommerce,eCommerce,2011,2011-06-01T00:00:00Z,title_description
+qk3WMm7grpQ,2011-06-19T23:09:17Z,13307,46,10,Glycaspis_brimblecombei,Spain,Insects,established,plaga,Post-Introduction,Invasion,Invasion,2007,2007-06-01T00:00:00Z,title_description
+NnRbU1O3kD4,2024-10-23T11:00:32Z,1414,42,9,Glycaspis_brimblecombei,Spain,Insects,established,plaga,Post-Introduction,Invasion,Invasion,2007,2007-06-01T00:00:00Z,title_description
+UL5nryggmdg,2014-06-22T22:52:22Z,849,3,3,Glycaspis_brimblecombei,Spain,Insects,established,plaga,Post-Introduction,Invasion,Invasion,2007,2007-06-01T00:00:00Z,title_description
+wU2H3vtHvVo,2014-06-28T11:03:00Z,790,1,0,Glycaspis_brimblecombei,Spain,Insects,established,plaga,Post-Introduction,Invasion,Invasion,2007,2007-06-01T00:00:00Z,title_description
+ralk5HYpaOQ,2020-04-26T13:42:59Z,1369,41,3,Graptemys_pseudogeographica,Portugal,Herptiles,established,vendidas,Post-Introduction,eCommerce,eCommerce,2013,2013-06-01T00:00:00Z,title_description
+ralk5HYpaOQ,2020-04-26T13:42:59Z,1369,41,3,Graptemys_pseudogeographica,Portugal,Herptiles,established,mascota,Post-Introduction,eCommerce,eCommerce,2013,2013-06-01T00:00:00Z,title_description
+sqye4P0Rygs,2016-04-10T09:16:41Z,12471,117,60,Graptemys_pseudogeographica,Portugal,Herptiles,established,aquario,Post-Introduction,eCommerce,eCommerce,2013,2013-06-01T00:00:00Z,title_description
+12TLxE23c6A,2015-12-19T17:51:09Z,6605,67,22,Graptemys_pseudogeographica,Portugal,Herptiles,established,aquario,Post-Introduction,eCommerce,eCommerce,2013,2013-06-01T00:00:00Z,title_description
+YnDVnmEW0OQ,2023-08-23T09:22:49Z,550,21,10,Grus_canadensis,Spain,Birds,casual,vistas,Post-Introduction,Detection,Detection,2011,2011-06-01T00:00:00Z,title_description
+dFFQ59PgD88,2024-11-10T23:07:54Z,0,0,0,Grus_canadensis,Spain,Birds,casual,extincao,Post-Introduction,Threat,Threat,2011,2011-06-01T00:00:00Z,title_description
+vd0w5Wygx90,2020-02-28T22:43:26Z,1079,12,1,Haemorhous_mexicanus,Spain,Birds,casual,vista,Post-Introduction,Detection,Detection,2016,2016-06-01T00:00:00Z,title_description
+fr95jnH6R1o,2024-02-26T17:00:35Z,753,9,0,Haemorhous_mexicanus,Spain,Birds,casual,reciente,Post-Introduction,Detection,Detection,2016,2016-06-01T00:00:00Z,title_description
+IQLtlpFlIN4,2011-06-09T18:04:49Z,1168,3,0,Haliaeetus_leucocephalus,Spain,Birds,casual,cetreria,Post-Introduction,eCommerce,eCommerce,2008,2008-06-01T00:00:00Z,title_description
+5BQ4PL_N7Qs,2017-06-06T09:55:50Z,1486,18,1,Haliaeetus_leucocephalus,Spain,Birds,casual,cetreria,Post-Introduction,eCommerce,eCommerce,2008,2008-06-01T00:00:00Z,title_description
+skeg2txR0JM,2024-07-21T19:20:00Z,10216,115,0,Haliaeetus_leucocephalus,Spain,Birds,casual,capturar,Post-Introduction,Detection,Detection,2008,2008-06-01T00:00:00Z,title_description
+pZZrhVBWM7M,2024-12-27T14:00:52Z,43,1,0,Haliaeetus_leucocephalus,Spain,Birds,casual,jaula,Post-Introduction,eCommerce,eCommerce,2008,2008-06-01T00:00:00Z,title_description
+rbuzhusFvS8,2018-01-10T09:53:54Z,26,0,0,Haliaeetus_leucocephalus,Spain,Birds,casual,peligro,Post-Introduction,Threat,Threat,2008,2008-06-01T00:00:00Z,title_description
+rbuzhusFvS8,2018-01-10T09:53:54Z,26,0,0,Haliaeetus_leucocephalus,Spain,Birds,casual,extincion,Post-Introduction,Threat,Threat,2008,2008-06-01T00:00:00Z,title_description
+G2XOcQ1SrQI,2020-12-28T20:19:35Z,348,17,30,Haliaeetus_leucocephalus,Spain,Birds,casual,avistamiento,Post-Introduction,Detection,Detection,2008,2008-06-01T00:00:00Z,title_description
+HXljKweTo6w,2024-10-15T13:08:25Z,4399,121,11,Halyomorpha_halys,Spain,Insects,alien,plagas,Post-Introduction,Invasion,Invasion,2016,2016-09-01T00:00:00Z,title_description
+HXljKweTo6w,2024-10-15T13:08:25Z,4399,121,11,Halyomorpha_halys,Spain,Insects,alien,plaga,Post-Introduction,Invasion,Invasion,2016,2016-09-01T00:00:00Z,title_description
+HXljKweTo6w,2024-10-15T13:08:25Z,4399,121,11,Halyomorpha_halys,Spain,Insects,alien,establecido,Post-Introduction,Invasion,Invasion,2016,2016-09-01T00:00:00Z,title_description
+XEUr2wOpUio,2022-11-04T16:57:36Z,2122,13,1,Halyomorpha_halys,Spain,Insects,alien,invasora,Post-Introduction,Invasion,Invasion,2016,2016-09-01T00:00:00Z,title_description
+wSN81sDFgBw,2021-02-24T09:52:28Z,4643,39,5,Halyomorpha_halys,Spain,Insects,alien,plaga,Post-Introduction,Invasion,Invasion,2016,2016-09-01T00:00:00Z,title_description
+goCEJHq6ndk,2011-11-30T15:13:50Z,16240,33,23,Halyomorpha_halys,Spain,Insects,alien,plaga,Pre-Introduction,Invasion,Invasion,2016,2016-09-01T00:00:00Z,title_description
+4v4zHvXwhvw,2020-08-20T19:18:46Z,312,5,0,Halyomorpha_halys,Spain,Insects,alien,seguimiento,Post-Introduction,Detection,Detection,2016,2016-09-01T00:00:00Z,title_description
+4v4zHvXwhvw,2020-08-20T19:18:46Z,312,5,0,Halyomorpha_halys,Spain,Insects,alien,invasoras,Post-Introduction,Invasion,Invasion,2016,2016-09-01T00:00:00Z,title_description
+4v4zHvXwhvw,2020-08-20T19:18:46Z,312,5,0,Halyomorpha_halys,Spain,Insects,alien,invasora,Post-Introduction,Invasion,Invasion,2016,2016-09-01T00:00:00Z,title_description
+BN0yxZozaXU,2019-09-16T08:51:09Z,251,2,0,Halyomorpha_halys,Spain,Insects,alien,control,Post-Introduction,Detection,Detection,2016,2016-09-01T00:00:00Z,title_description
+BN0yxZozaXU,2019-09-16T08:51:09Z,251,2,0,Halyomorpha_halys,Spain,Insects,alien,control,Post-Introduction,Detection,Detection,2016,2016-09-01T00:00:00Z,title_description
+BN0yxZozaXU,2019-09-16T08:51:09Z,251,2,0,Halyomorpha_halys,Spain,Insects,alien,plagas,Post-Introduction,Invasion,Invasion,2016,2016-09-01T00:00:00Z,title_description
+EyY0ctHlcBQ,2021-11-12T12:27:11Z,24975,98,17,Halyomorpha_halys,Spain,Insects,alien,plaga,Post-Introduction,Invasion,Invasion,2016,2016-09-01T00:00:00Z,title_description
+ilqk3EGfEvM,2025-04-22T18:00:52Z,8277,171,7,Lagocephalus_sceleratus,Spain,Fishes,uncertain,peligroso,Post-Introduction,Threat,Threat,2014,2014-06-01T00:00:00Z,title_description
+ilqk3EGfEvM,2025-04-22T18:00:52Z,8277,171,7,Lagocephalus_sceleratus,Spain,Fishes,uncertain,toxico,Post-Introduction,Threat,Threat,2014,2014-06-01T00:00:00Z,title_description
+ilqk3EGfEvM,2025-04-22T18:00:52Z,8277,171,7,Lagocephalus_sceleratus,Spain,Fishes,uncertain,invasor,Post-Introduction,Invasion,Invasion,2014,2014-06-01T00:00:00Z,title_description
+ilqk3EGfEvM,2025-04-22T18:00:52Z,8277,171,7,Lagocephalus_sceleratus,Spain,Fishes,uncertain,peligrosa,Post-Introduction,Threat,Threat,2014,2014-06-01T00:00:00Z,title_description
+m5SFQpQpaEU,2025-05-14T09:00:56Z,1564,26,2,Lasius_neglectus,Andorra,Insects,established,invasoras,Post-Introduction,Invasion,Invasion,2012,2012-06-01T00:00:00Z,title_description
+m5SFQpQpaEU,2025-05-14T09:00:56Z,1564,26,2,Lasius_neglectus,Andorra,Insects,established,invasoras,Post-Introduction,Invasion,Invasion,2012,2012-06-01T00:00:00Z,title_description
+-K9e4dc1EEU,2019-09-20T21:13:26Z,93,1,0,Lepisiota_capensis,Canary Islands,Insects,established,adopcion,Post-Introduction,eCommerce,eCommerce,2014,2014-06-01T00:00:00Z,title_description
+-K9e4dc1EEU,2019-09-20T21:13:26Z,93,1,0,Lepisiota_capensis,Canary Islands,Insects,established,adoptar,Post-Introduction,eCommerce,eCommerce,2014,2014-06-01T00:00:00Z,title_description
+Cd4xw_fv87U,2018-09-20T06:32:42Z,4304,24,0,Leptoglossus_occidentalis,Portugal,Insects,alien,plaga,Post-Introduction,Invasion,Invasion,2010,2010-06-01T00:00:00Z,title_description
+Cd4xw_fv87U,2018-09-20T06:32:42Z,4304,24,0,Leptoglossus_occidentalis,Portugal,Insects,alien,reciente,Post-Introduction,Detection,Detection,2010,2010-06-01T00:00:00Z,title_description
+Cd4xw_fv87U,2018-09-20T06:32:42Z,4304,24,0,Leptoglossus_occidentalis,Portugal,Insects,alien,plaga,Post-Introduction,Invasion,Invasion,2010,2010-06-01T00:00:00Z,title_description
+XiAJ5d6ZBkA,2020-05-23T16:20:21Z,280,4,2,Leptoglossus_occidentalis,Portugal,Insects,alien,invasoras,Post-Introduction,Invasion,Invasion,2010,2010-06-01T00:00:00Z,title_description
+FDBd741PDa0,2024-03-09T18:39:22Z,1745,19,3,Leptoglossus_occidentalis,Portugal,Insects,alien,avistado,Post-Introduction,Detection,Detection,2010,2010-06-01T00:00:00Z,title_description
+DreHJnrpMIY,2023-03-06T15:00:17Z,59,0,0,Leptoglossus_occidentalis,Portugal,Insects,alien,control,Post-Introduction,Detection,Detection,2010,2010-06-01T00:00:00Z,title_description
+C1Dbud_KWHY,2024-07-29T18:00:05Z,455,8,0,Leptoglossus_occidentalis,Portugal,Insects,alien,invasor,Post-Introduction,Invasion,Invasion,2010,2010-06-01T00:00:00Z,title_description
+r0Bjt_XZxTQ,2020-05-29T19:26:15Z,2849,305,38,Leuciscus_aspius,Spain,Fishes,established,aparecido,Post-Introduction,Detection,Detection,2017,2017-07-20T00:00:00Z,title_description
+V_Sk8rBFVW0,2023-02-17T20:35:09Z,425,8,2,Leuciscus_aspius,Spain,Fishes,established,capturar,Post-Introduction,Detection,Detection,2017,2017-07-20T00:00:00Z,title_description
+HMtrKa0gC3A,2014-11-17T12:54:52Z,428,3,0,Leuciscus_aspius,Spain,Fishes,established,descubiertos,Pre-Introduction,Detection,Detection,2017,2017-07-20T00:00:00Z,title_description
+AgNAPTFK9A4,2015-07-21T14:58:23Z,1777,11,0,Lonchura_oryzivora,Portugal,Birds,alien,jaula,Post-Introduction,eCommerce,eCommerce,2010,2010-06-01T00:00:00Z,title_description
+R6I8cvxCu3M,2017-11-27T14:57:58Z,1234,22,5,Mauremys_reevesii,Spain,Herptiles,alien,acuario,Post-Introduction,eCommerce,eCommerce,2016,2016-04-05T00:00:00Z,title_description
+OwqvlI_ERwI,2018-07-01T11:19:26Z,494,10,2,Mauremys_reevesii,Spain,Herptiles,alien,acuario,Post-Introduction,eCommerce,eCommerce,2016,2016-04-05T00:00:00Z,title_description
+iq6-OPf92J4,2017-12-10T07:57:54Z,4780,23,4,Mauremys_sinensis,Spain,Herptiles,alien,terrario,Post-Introduction,eCommerce,eCommerce,2014,2014-10-10T00:00:00Z,title_description
+9hdvtuo_8ZM,2023-05-24T21:54:15Z,149,5,0,Mauremys_sinensis,Spain,Herptiles,alien,exotica,Post-Introduction,Invasion,Invasion,2014,2014-10-10T00:00:00Z,title_description
+GWdFKd9DYsU,2013-11-12T08:47:33Z,14909,24,2,Mnemiopsis_leidyi,Spain,Non-arthropod invertebrates,established,invasor,Post-Introduction,Invasion,Invasion,2009,2009-06-01T00:00:00Z,title_description
+MUnpO3K8n7M,2016-07-30T23:19:43Z,224,1,1,Mnemiopsis_leidyi,Spain,Non-arthropod invertebrates,established,aparicion,Post-Introduction,Detection,Detection,2009,2009-06-01T00:00:00Z,title_description
+pVPfgp1ivRo,2025-05-30T18:30:18Z,21,4,0,Mnemiopsis_leidyi,Spain,Non-arthropod invertebrates,established,invasora,Post-Introduction,Invasion,Invasion,2009,2009-06-01T00:00:00Z,title_description
+MSTFzMW5ESI,2021-01-28T21:43:25Z,442,11,1,Paratrechina_jaegerskioeldi,Portugal,Insects,established,manejo,Post-Introduction,Detection,Detection,2012,2012-06-01T00:00:00Z,title_description
+MSTFzMW5ESI,2021-01-28T21:43:25Z,442,11,1,Paratrechina_jaegerskioeldi,Portugal,Insects,established,invasora,Post-Introduction,Invasion,Invasion,2012,2012-06-01T00:00:00Z,title_description
+MSTFzMW5ESI,2021-01-28T21:43:25Z,442,11,1,Paratrechina_jaegerskioeldi,Portugal,Insects,established,nativa,Post-Introduction,Invasion,Invasion,2012,2012-06-01T00:00:00Z,title_description
+iQpwfAFZKak,2019-06-27T14:42:38Z,2514,72,28,Paratrechina_jaegerskioeldi,Portugal,Insects,established,encontre,Post-Introduction,Detection,Detection,2012,2012-06-01T00:00:00Z,title_description
+euF72VR0F8U,2008-02-17T20:35:20Z,1286,4,0,Pelodiscus_sinensis,Portugal,Herptiles,alien,acuario,Pre-Introduction,eCommerce,eCommerce,2019,2019-06-01T00:00:00Z,title_description
+euF72VR0F8U,2008-02-17T20:35:20Z,1286,4,0,Pelodiscus_sinensis,Portugal,Herptiles,alien,acuario,Pre-Introduction,eCommerce,eCommerce,2019,2019-06-01T00:00:00Z,title_description
+elWQy4ImUCg,2019-05-09T09:22:53Z,1571,19,2,Perca_fluviatilis,Portugal,Fishes,established,captura,Post-Introduction,Detection,Detection,2015,2015-06-01T00:00:00Z,title_description
+a5JAOUJ1Ujs,2019-09-24T20:09:55Z,559,19,6,Perca_fluviatilis,Portugal,Fishes,established,capturas,Post-Introduction,Detection,Detection,2015,2015-06-01T00:00:00Z,title_description
+0BKICkbDmt0,2020-05-01T15:13:54Z,211,7,0,Perca_fluviatilis,Portugal,Fishes,established,captura,Post-Introduction,Detection,Detection,2015,2015-06-01T00:00:00Z,title_description
+Ql0JfyKW_SM,2020-09-25T13:00:33Z,275,8,4,Perca_fluviatilis,Portugal,Fishes,established,encontramos,Post-Introduction,Detection,Detection,2015,2015-06-01T00:00:00Z,title_description
+b4it_OvDQf0,2022-07-05T20:02:21Z,106,1,0,Pheidole_indica,Portugal,Insects,established,ataca,Post-Introduction,Threat,Threat,2012,2012-06-01T00:00:00Z,title_description
+IPv2OH48cSA,2023-07-18T16:00:20Z,63085,2473,126,Phthorimaea_absoluta,Spain,Insects,established,controlar,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+IPv2OH48cSA,2023-07-18T16:00:20Z,63085,2473,126,Phthorimaea_absoluta,Spain,Insects,established,controlar,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+IPv2OH48cSA,2023-07-18T16:00:20Z,63085,2473,126,Phthorimaea_absoluta,Spain,Insects,established,dinero,Post-Introduction,eCommerce,eCommerce,2006,2006-06-01T00:00:00Z,title_description
+TTCIw5oMlLg,2017-07-27T10:15:07Z,2942,52,25,Phthorimaea_absoluta,Spain,Insects,established,ataca,Post-Introduction,Threat,Threat,2006,2006-06-01T00:00:00Z,title_description
+tUtRA84dGUY,2020-09-02T17:16:40Z,3609,15,,Phthorimaea_absoluta,Spain,Insects,established,control,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+Xl-u5NVlyhU,2013-12-10T10:09:24Z,43956,387,13,Phthorimaea_absoluta,Spain,Insects,established,plaga,Post-Introduction,Invasion,Invasion,2006,2006-06-01T00:00:00Z,title_description
+_w6Wm6ialcA,2017-05-17T10:58:45Z,98606,784,39,Phthorimaea_absoluta,Spain,Insects,established,trampa,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+_w6Wm6ialcA,2017-05-17T10:58:45Z,98606,784,39,Phthorimaea_absoluta,Spain,Insects,established,plaga,Post-Introduction,Invasion,Invasion,2006,2006-06-01T00:00:00Z,title_description
+_w6Wm6ialcA,2017-05-17T10:58:45Z,98606,784,39,Phthorimaea_absoluta,Spain,Insects,established,plaga,Post-Introduction,Invasion,Invasion,2006,2006-06-01T00:00:00Z,title_description
+-SVs0s1cq50,2025-06-14T04:31:07Z,1721,56,25,Phthorimaea_absoluta,Spain,Insects,established,control,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+-SVs0s1cq50,2025-06-14T04:31:07Z,1721,56,25,Phthorimaea_absoluta,Spain,Insects,established,trampas,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+-SVs0s1cq50,2025-06-14T04:31:07Z,1721,56,25,Phthorimaea_absoluta,Spain,Insects,established,trampas,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+OXBmJKYB8ac,2021-11-10T16:30:02Z,1941,83,149,Phthorimaea_absoluta,Spain,Insects,established,plaga,Post-Introduction,Invasion,Invasion,2006,2006-06-01T00:00:00Z,title_description
+bEXFWYs38Uc,2024-04-16T10:44:21Z,376,5,0,Phthorimaea_absoluta,Spain,Insects,established,manejo,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+0_s6ub-z-pw,2024-05-18T12:00:03Z,237906,3037,188,Phthorimaea_absoluta,Spain,Insects,established,plaga,Post-Introduction,Invasion,Invasion,2006,2006-06-01T00:00:00Z,title_description
+0_s6ub-z-pw,2024-05-18T12:00:03Z,237906,3037,188,Phthorimaea_absoluta,Spain,Insects,established,plaga,Post-Introduction,Invasion,Invasion,2006,2006-06-01T00:00:00Z,title_description
+b0L4hXmhGGE,2015-08-18T04:30:00Z,226350,3598,166,Phthorimaea_absoluta,Spain,Insects,established,trampa,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+KuBwQ994u8c,2019-02-25T10:30:57Z,31912,186,12,Phthorimaea_absoluta,Spain,Insects,established,trampas,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+HrOhzTaFSNc,2019-03-04T17:01:32Z,11404,55,4,Phthorimaea_absoluta,Spain,Insects,established,trampa,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+HrOhzTaFSNc,2019-03-04T17:01:32Z,11404,55,4,Phthorimaea_absoluta,Spain,Insects,established,trampas,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+NCib-HiHq00,2023-08-11T13:13:01Z,40088,461,2,Phthorimaea_absoluta,Spain,Insects,established,trampa,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+jhZEIJ8dFmQ,2021-06-19T16:02:51Z,373381,6319,739,Phthorimaea_absoluta,Spain,Insects,established,plaga,Post-Introduction,Invasion,Invasion,2006,2006-06-01T00:00:00Z,title_description
+isL-JaHv6_I,2021-03-05T18:01:10Z,5228,36,0,Phthorimaea_absoluta,Spain,Insects,established,control,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+l2RpW8btCVA,2025-07-02T18:00:06Z,19149,367,7,Phthorimaea_absoluta,Spain,Insects,established,trampas,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+hz11wrowc2s,2022-01-18T16:14:00Z,2496,25,0,Phthorimaea_absoluta,Spain,Insects,established,controlar,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+hz11wrowc2s,2022-01-18T16:14:00Z,2496,25,0,Phthorimaea_absoluta,Spain,Insects,established,plaga,Post-Introduction,Invasion,Invasion,2006,2006-06-01T00:00:00Z,title_description
+hz11wrowc2s,2022-01-18T16:14:00Z,2496,25,0,Phthorimaea_absoluta,Spain,Insects,established,trampa,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+p0uSiiKlBKs,2018-10-11T13:24:28Z,29931,220,3,Phthorimaea_absoluta,Spain,Insects,established,control,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+p0uSiiKlBKs,2018-10-11T13:24:28Z,29931,220,3,Phthorimaea_absoluta,Spain,Insects,established,plagas,Post-Introduction,Invasion,Invasion,2006,2006-06-01T00:00:00Z,title_description
+5ajqVCsoDtA,2024-04-15T14:58:20Z,2125,32,0,Phthorimaea_absoluta,Spain,Insects,established,control,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+CWYC1rpVH2o,2020-08-25T11:34:48Z,563,1,,Phthorimaea_absoluta,Spain,Insects,established,trampa,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+CWYC1rpVH2o,2020-08-25T11:34:48Z,563,1,,Phthorimaea_absoluta,Spain,Insects,established,trampa,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+CWYC1rpVH2o,2020-08-25T11:34:48Z,563,1,,Phthorimaea_absoluta,Spain,Insects,established,capturas,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+a_41FW-4gqw,2019-08-07T07:14:55Z,15729,,,Phthorimaea_absoluta,Spain,Insects,established,control,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+a_41FW-4gqw,2019-08-07T07:14:55Z,15729,,,Phthorimaea_absoluta,Spain,Insects,established,control,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+-XcL0qcDJAg,2024-04-15T14:56:45Z,5119,116,0,Phthorimaea_absoluta,Spain,Insects,established,control,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+-XcL0qcDJAg,2024-04-15T14:56:45Z,5119,116,0,Phthorimaea_absoluta,Spain,Insects,established,controlada,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+jFTODiz7VHQ,2013-10-15T12:12:45Z,41580,153,8,Phthorimaea_absoluta,Spain,Insects,established,plaga,Post-Introduction,Invasion,Invasion,2006,2006-06-01T00:00:00Z,title_description
+ej1hjKT1QtM,2025-05-20T14:22:10Z,22,1,0,Phthorimaea_absoluta,Spain,Insects,established,controlar,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+ej1hjKT1QtM,2025-05-20T14:22:10Z,22,1,0,Phthorimaea_absoluta,Spain,Insects,established,plaga,Post-Introduction,Invasion,Invasion,2006,2006-06-01T00:00:00Z,title_description
+tcTKbk65Da4,2025-06-28T10:25:32Z,3743,191,6,Phthorimaea_absoluta,Spain,Insects,established,ataca,Post-Introduction,Threat,Threat,2006,2006-06-01T00:00:00Z,title_description
+tcTKbk65Da4,2025-06-28T10:25:32Z,3743,191,6,Phthorimaea_absoluta,Spain,Insects,established,plagas,Post-Introduction,Invasion,Invasion,2006,2006-06-01T00:00:00Z,title_description
+tcTKbk65Da4,2025-06-28T10:25:32Z,3743,191,6,Phthorimaea_absoluta,Spain,Insects,established,alerta,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+tcTKbk65Da4,2025-06-28T10:25:32Z,3743,191,6,Phthorimaea_absoluta,Spain,Insects,established,plaga,Post-Introduction,Invasion,Invasion,2006,2006-06-01T00:00:00Z,title_description
+dficjE4eWqs,2025-07-04T17:45:02Z,7135,184,1,Phthorimaea_absoluta,Spain,Insects,established,trampas,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+z1buHXWCf4U,2019-05-21T10:46:46Z,1090,6,1,Phthorimaea_absoluta,Spain,Insects,established,plaga,Post-Introduction,Invasion,Invasion,2006,2006-06-01T00:00:00Z,title_description
+z1buHXWCf4U,2019-05-21T10:46:46Z,1090,6,1,Phthorimaea_absoluta,Spain,Insects,established,plaga,Post-Introduction,Invasion,Invasion,2006,2006-06-01T00:00:00Z,title_description
+z1buHXWCf4U,2019-05-21T10:46:46Z,1090,6,1,Phthorimaea_absoluta,Spain,Insects,established,afectando,Post-Introduction,Invasion,Invasion,2006,2006-06-01T00:00:00Z,title_description
+VGhuH6LnEDg,2019-08-07T11:36:22Z,175,,,Phthorimaea_absoluta,Spain,Insects,established,control,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+VGhuH6LnEDg,2019-08-07T11:36:22Z,175,,,Phthorimaea_absoluta,Spain,Insects,established,control,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+J2ChF36-TnE,2025-08-04T09:52:49Z,544,4,0,Phthorimaea_absoluta,Spain,Insects,established,manejo,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+J2ChF36-TnE,2025-08-04T09:52:49Z,544,4,0,Phthorimaea_absoluta,Spain,Insects,established,manejo,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+Vj5nwPGsW-c,2024-06-22T11:48:15Z,47,1,0,Phthorimaea_absoluta,Spain,Insects,established,trampas,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+Vj5nwPGsW-c,2024-06-22T11:48:15Z,47,1,0,Phthorimaea_absoluta,Spain,Insects,established,trampas,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+k2RDZjd0q_M,2024-04-28T19:39:28Z,481,8,0,Phthorimaea_absoluta,Spain,Insects,established,trampa,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+k2RDZjd0q_M,2024-04-28T19:39:28Z,481,8,0,Phthorimaea_absoluta,Spain,Insects,established,plaga,Post-Introduction,Invasion,Invasion,2006,2006-06-01T00:00:00Z,title_description
+lBuMrdotZfY,2019-07-01T10:34:19Z,321,1,0,Phthorimaea_absoluta,Spain,Insects,established,danina,Post-Introduction,Threat,Threat,2006,2006-06-01T00:00:00Z,title_description
+bOj20vKsuxI,2025-07-06T06:06:22Z,1678,53,10,Phthorimaea_absoluta,Spain,Insects,established,extincion,Post-Introduction,Threat,Threat,2006,2006-06-01T00:00:00Z,title_description
+r_LQMoDAAHs,2021-02-18T10:56:30Z,476,9,0,Phthorimaea_absoluta,Spain,Insects,established,control,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+elKk2jK395w,2019-08-16T10:21:29Z,430,19,8,Phthorimaea_absoluta,Spain,Insects,established,control,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+elKk2jK395w,2019-08-16T10:21:29Z,430,19,8,Phthorimaea_absoluta,Spain,Insects,established,control,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+2dOeCJih1hI,2010-05-13T17:23:14Z,4712,1,0,Phthorimaea_absoluta,Spain,Insects,established,capturas,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+QWWwThyTt7k,2019-05-21T15:07:03Z,24,1,0,Phthorimaea_absoluta,Spain,Insects,established,plaga,Post-Introduction,Invasion,Invasion,2006,2006-06-01T00:00:00Z,title_description
+SoHV1YzAzNo,2024-07-04T16:30:55Z,1673,23,0,Phthorimaea_absoluta,Spain,Insects,established,trampas,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+SoHV1YzAzNo,2024-07-04T16:30:55Z,1673,23,0,Phthorimaea_absoluta,Spain,Insects,established,trampa,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+ekm2p1V3j68,2021-10-29T10:07:03Z,35,1,0,Phthorimaea_absoluta,Spain,Insects,established,alerta,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+ekm2p1V3j68,2021-10-29T10:07:03Z,35,1,0,Phthorimaea_absoluta,Spain,Insects,established,deteccion,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+bAsaLpowKxw,2022-04-28T16:00:52Z,1689,65,22,Pionites_melanocephalus,Spain,Birds,alien,encontramos,Post-Introduction,Detection,Detection,2007,2007-06-01T00:00:00Z,title_description
+bAsaLpowKxw,2022-04-28T16:00:52Z,1689,65,22,Pionites_melanocephalus,Spain,Birds,alien,encontrado,Post-Introduction,Detection,Detection,2007,2007-06-01T00:00:00Z,title_description
+U7iDuqWUfs4,2018-12-23T13:07:20Z,18035,272,29,Platycerium_bifurcatum,Madeira,Plants,established,exotica,Post-Introduction,Invasion,Invasion,2017,2017-06-01T00:00:00Z,title_description
+njaaxyvNXek,2024-11-18T12:31:16Z,4820,90,3,Platycerium_bifurcatum,Madeira,Plants,established,terrario,Post-Introduction,eCommerce,eCommerce,2017,2017-06-01T00:00:00Z,title_description
+d-VectV2fgY,2011-10-14T12:05:27Z,34766,102,26,Pomacea_maculata,Spain,Non-arthropod invertebrates,established,acuario,Post-Introduction,eCommerce,eCommerce,2009,2009-06-01T00:00:00Z,title_description
+-0oIGA4zRQU,2017-08-10T18:47:48Z,1341,15,1,Pomacea_maculata,Spain,Non-arthropod invertebrates,established,presente,Post-Introduction,Invasion,Invasion,2009,2009-06-01T00:00:00Z,title_description
+sqYiv37pwm0,2015-11-03T13:19:27Z,3323,28,0,Pomacea_maculata,Spain,Non-arthropod invertebrates,established,control,Post-Introduction,Detection,Detection,2009,2009-06-01T00:00:00Z,title_description
+sqYiv37pwm0,2015-11-03T13:19:27Z,3323,28,0,Pomacea_maculata,Spain,Non-arthropod invertebrates,established,control,Post-Introduction,Detection,Detection,2009,2009-06-01T00:00:00Z,title_description
+fimszSPphyc,2014-09-10T16:41:36Z,3844,37,3,Pomacea_maculata,Spain,Non-arthropod invertebrates,established,presente,Post-Introduction,Invasion,Invasion,2009,2009-06-01T00:00:00Z,title_description
+fimszSPphyc,2014-09-10T16:41:36Z,3844,37,3,Pomacea_maculata,Spain,Non-arthropod invertebrates,established,peligro,Post-Introduction,Threat,Threat,2009,2009-06-01T00:00:00Z,title_description
+RdRk-oBkOPM,2017-07-31T11:57:29Z,686,10,0,Pomacea_maculata,Spain,Non-arthropod invertebrates,established,presente,Post-Introduction,Invasion,Invasion,2009,2009-06-01T00:00:00Z,title_description
+RdRk-oBkOPM,2017-07-31T11:57:29Z,686,10,0,Pomacea_maculata,Spain,Non-arthropod invertebrates,established,peligro,Post-Introduction,Threat,Threat,2009,2009-06-01T00:00:00Z,title_description
+wCy5NhYmqDU,2014-10-07T22:49:15Z,14898,242,17,Primolius_maracana,Spain,Birds,alien,mascota,Post-Introduction,eCommerce,eCommerce,2007,2007-06-01T00:00:00Z,title_description
+oqIf4tBuj5k,2012-04-13T15:01:38Z,14225,18,9,Psephotus_haematonotus,Spain,Birds,alien,compre,Post-Introduction,eCommerce,eCommerce,2006,2006-06-01T00:00:00Z,title_description
+sHxbwGRHzPI,2020-05-03T13:26:04Z,1341,32,17,Pseudemys_concinna,Portugal,Herptiles,established,compre,Post-Introduction,eCommerce,eCommerce,2013,2013-06-01T00:00:00Z,title_description
+B4SwPxa-2_w,2017-04-19T14:23:00Z,1543,12,0,Pseudemys_concinna,Portugal,Herptiles,established,invasora,Post-Introduction,Invasion,Invasion,2013,2013-06-01T00:00:00Z,title_description
+93XTzhHBz7s,2017-05-02T17:28:54Z,898,14,0,Pseudemys_concinna,Portugal,Herptiles,established,invasora,Post-Introduction,Invasion,Invasion,2013,2013-06-01T00:00:00Z,title_description
+83UjNhcLq8k,2017-09-04T00:11:34Z,169,3,0,Pseudemys_concinna,Portugal,Herptiles,established,aquisicao,Post-Introduction,eCommerce,eCommerce,2013,2013-06-01T00:00:00Z,title_description
+cTANOn_aVuY,2021-07-23T11:34:19Z,955,16,6,Pseudemys_peninsularis,Spain,Herptiles,alien,eei,Post-Introduction,Invasion,Invasion,2020,2020-06-01T00:00:00Z,title_description
+YaYTDhTFr_0,2015-10-07T15:30:10Z,369744,4095,364,Psittacus_erithacus,Portugal,Birds,casual,descuento,Post-Introduction,eCommerce,eCommerce,2014,2014-06-01T00:00:00Z,title_description
+ve_UW4u-RHo,2025-05-11T22:00:56Z,1524,47,3,Psittacus_erithacus,Portugal,Birds,casual,mascota,Post-Introduction,eCommerce,eCommerce,2014,2014-06-01T00:00:00Z,title_description
+7t4r_3k7mzY,2025-05-16T12:00:14Z,1093,32,1,Psittacus_erithacus,Portugal,Birds,casual,mascota,Post-Introduction,eCommerce,eCommerce,2014,2014-06-01T00:00:00Z,title_description
+oz9VoapIkHM,2025-01-20T19:00:36Z,227971,14214,393,Psittacus_erithacus,Portugal,Birds,casual,adoptes,Post-Introduction,eCommerce,eCommerce,2014,2014-06-01T00:00:00Z,title_description
+V0aHZf3SzME,2015-04-17T03:24:41Z,226,6,0,Psittacus_erithacus,Portugal,Birds,casual,tienda,Post-Introduction,eCommerce,eCommerce,2014,2014-06-01T00:00:00Z,title_description
+-fLrXe3cbG4,2023-11-19T17:00:00Z,260,3,0,Psittacus_erithacus,Portugal,Birds,casual,mascota,Post-Introduction,eCommerce,eCommerce,2014,2014-06-01T00:00:00Z,title_description
+EuYxJg3G1i8,2025-05-14T11:30:24Z,2148,69,3,Psittacus_erithacus,Portugal,Birds,casual,mascota,Post-Introduction,eCommerce,eCommerce,2014,2014-06-01T00:00:00Z,title_description
+zRj7sn0hkas,2025-05-11T11:30:48Z,2247,59,1,Psittacus_erithacus,Portugal,Birds,casual,mascota,Post-Introduction,eCommerce,eCommerce,2014,2014-06-01T00:00:00Z,title_description
+v3bsGsHgKuM,2025-05-13T20:00:41Z,1692,25,1,Psittacus_erithacus,Portugal,Birds,casual,mascota,Post-Introduction,eCommerce,eCommerce,2014,2014-06-01T00:00:00Z,title_description
+0Plw17UNEn0,2012-01-16T17:31:07Z,3841,6,2,Psittacus_erithacus,Portugal,Birds,casual,capturado,Pre-Introduction,Detection,Detection,2014,2014-06-01T00:00:00Z,title_description
+0Plw17UNEn0,2012-01-16T17:31:07Z,3841,6,2,Psittacus_erithacus,Portugal,Birds,casual,compre,Pre-Introduction,eCommerce,eCommerce,2014,2014-06-01T00:00:00Z,title_description
+0Plw17UNEn0,2012-01-16T17:31:07Z,3841,6,2,Psittacus_erithacus,Portugal,Birds,casual,tienda,Pre-Introduction,eCommerce,eCommerce,2014,2014-06-01T00:00:00Z,title_description
+SRidzSSbdHU,2018-08-27T10:42:34Z,106644,2056,,Psittacus_erithacus,Portugal,Birds,casual,mascota,Post-Introduction,eCommerce,eCommerce,2014,2014-06-01T00:00:00Z,title_description
+KJDtlJBCQpc,2011-07-21T10:31:40Z,74316,272,,Psittacus_erithacus,Portugal,Birds,casual,comprar,Pre-Introduction,eCommerce,eCommerce,2014,2014-06-01T00:00:00Z,title_description
+R10Qgq9MNgI,2020-04-24T19:11:42Z,8662,264,37,Psittacus_erithacus,Portugal,Birds,casual,tienda,Post-Introduction,eCommerce,eCommerce,2014,2014-06-01T00:00:00Z,title_description
+WOYJsnkxlAM,2016-09-16T16:35:48Z,7476,38,12,Psittacus_erithacus,Portugal,Birds,casual,venta,Post-Introduction,eCommerce,eCommerce,2014,2014-06-01T00:00:00Z,title_description
+WOYJsnkxlAM,2016-09-16T16:35:48Z,7476,38,12,Psittacus_erithacus,Portugal,Birds,casual,pajareria,Post-Introduction,eCommerce,eCommerce,2014,2014-06-01T00:00:00Z,title_description
+JQsj7TpP6T0,2010-12-01T02:41:29Z,27875,29,5,Psittacus_erithacus,Portugal,Birds,casual,jaula,Pre-Introduction,eCommerce,eCommerce,2014,2014-06-01T00:00:00Z,title_description
+pIEg3vZPxd8,2022-10-17T21:24:44Z,4717,125,0,Psittacus_erithacus,Portugal,Birds,casual,ataca,Post-Introduction,Threat,Threat,2014,2014-06-01T00:00:00Z,title_description
+sohv2Et0qYU,2022-08-14T17:19:22Z,422,9,4,Psittacus_erithacus,Portugal,Birds,casual,compra,Post-Introduction,eCommerce,eCommerce,2014,2014-06-01T00:00:00Z,title_description
+Lni-8JM8N1o,2011-06-28T18:44:30Z,232662,939,56,Psittacus_erithacus,Portugal,Birds,casual,jaula,Pre-Introduction,eCommerce,eCommerce,2014,2014-06-01T00:00:00Z,title_description
+LRVvRk0isuQ,2018-01-30T19:44:24Z,60,4,0,Psittacus_erithacus,Portugal,Birds,casual,costo,Post-Introduction,eCommerce,eCommerce,2014,2014-06-01T00:00:00Z,title_description
+_EMlRcFmRSk,2011-12-12T15:22:53Z,60,0,0,Psittacus_erithacus,Portugal,Birds,casual,jaula,Pre-Introduction,eCommerce,eCommerce,2014,2014-06-01T00:00:00Z,title_description
+fQjJXiVlwTk,2025-07-31T11:05:04Z,1152,13,0,Psittacus_erithacus,Portugal,Birds,casual,exotica,Post-Introduction,Invasion,Invasion,2014,2014-06-01T00:00:00Z,title_description
+sMEMsIUvwUU,2021-08-26T14:23:39Z,2855,30,0,Rapana_venosa,Spain,Non-arthropod invertebrates,uncertain,invasora,Post-Introduction,Invasion,Invasion,2007,2007-03-15T00:00:00Z,title_description
+uPHLfr8AKpc,2021-07-27T18:25:57Z,186,4,0,Reticulitermes_flavipes,Canary Islands,Insects,alien,control,Post-Introduction,Detection,Detection,2010,2010-06-01T00:00:00Z,title_description
+sEOvaJkLpv8,2021-05-31T14:00:31Z,1183,33,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasion,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+sEOvaJkLpv8,2021-05-31T14:00:31Z,1183,33,0,Rugulopteryx_okamurae,Spain,Plants,alien,afectando,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+oZa_yUbxsRY,2023-08-31T16:00:29Z,1134,67,40,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+oZa_yUbxsRY,2023-08-31T16:00:29Z,1134,67,40,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+7ms1mJknIaw,2025-08-09T14:04:39Z,2521,7,2,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+wckzsUNqQa0,2025-05-18T07:15:12Z,56,2,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasion,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+po0oPyayV7g,2020-06-21T13:38:17Z,4320,49,18,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+po0oPyayV7g,2020-06-21T13:38:17Z,4320,49,18,Rugulopteryx_okamurae,Spain,Plants,alien,amenaza,Post-Introduction,Threat,Threat,2015,2015-06-01T00:00:00Z,title_description
+po0oPyayV7g,2020-06-21T13:38:17Z,4320,49,18,Rugulopteryx_okamurae,Spain,Plants,alien,captura,Post-Introduction,Detection,Detection,2015,2015-06-01T00:00:00Z,title_description
+oTpRxDBcTVk,2024-09-12T14:40:05Z,1147,29,1,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+rSqr7Cph8Y0,2019-07-31T18:59:19Z,323,2,2,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+rSqr7Cph8Y0,2019-07-31T18:59:19Z,323,2,2,Rugulopteryx_okamurae,Spain,Plants,alien,invasion,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+Shq1KrxFc_E,2025-07-30T11:30:17Z,27,0,0,Rugulopteryx_okamurae,Spain,Plants,alien,invade,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+Shq1KrxFc_E,2025-07-30T11:30:17Z,27,0,0,Rugulopteryx_okamurae,Spain,Plants,alien,invade,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+O8Lli3uiOxU,2025-07-29T12:04:43Z,708,2,0,Rugulopteryx_okamurae,Spain,Plants,alien,invade,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+O8Lli3uiOxU,2025-07-29T12:04:43Z,708,2,0,Rugulopteryx_okamurae,Spain,Plants,alien,invade,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+7SIk7nuy2n0,2023-09-01T12:22:40Z,24,1,0,Rugulopteryx_okamurae,Spain,Plants,alien,expansion,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+7qrRSIQnBCc,2019-09-17T15:52:32Z,1013,3,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+qnfcgSVktu4,2024-09-05T10:00:53Z,2166,84,2,Rugulopteryx_okamurae,Spain,Plants,alien,alerta,Post-Introduction,Detection,Detection,2015,2015-06-01T00:00:00Z,title_description
+qnfcgSVktu4,2024-09-05T10:00:53Z,2166,84,2,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+qnfcgSVktu4,2024-09-05T10:00:53Z,2166,84,2,Rugulopteryx_okamurae,Spain,Plants,alien,amenaza,Post-Introduction,Threat,Threat,2015,2015-06-01T00:00:00Z,title_description
+yG6531ZXd6s,2020-07-03T13:10:20Z,26,0,,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+yG6531ZXd6s,2020-07-03T13:10:20Z,26,0,,Rugulopteryx_okamurae,Spain,Plants,alien,visto,Post-Introduction,Detection,Detection,2015,2015-06-01T00:00:00Z,title_description
+yG6531ZXd6s,2020-07-03T13:10:20Z,26,0,,Rugulopteryx_okamurae,Spain,Plants,alien,invade,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+Z7P8mPXSQGY,2025-06-05T11:47:29Z,314,3,0,Rugulopteryx_okamurae,Spain,Plants,alien,invade,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+Z7P8mPXSQGY,2025-06-05T11:47:29Z,314,3,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasion,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+mao9iAlqHxg,2020-02-03T11:01:07Z,1748,27,,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+0ktsEYweINg,2024-04-28T05:30:00Z,322,,,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+0ktsEYweINg,2024-04-28T05:30:00Z,322,,,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+QbM_iMdDOoU,2025-08-08T13:50:52Z,2775,31,10,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+qe0WL6806gE,2025-06-11T12:28:38Z,25,0,1,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+Gt8wiQr8HlQ,2020-06-24T12:34:11Z,10,0,,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+Gt8wiQr8HlQ,2020-06-24T12:34:11Z,10,0,,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+3HyFv78-Rl0,2019-09-06T12:07:00Z,35,0,,Rugulopteryx_okamurae,Spain,Plants,alien,exotica,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+3HyFv78-Rl0,2019-09-06T12:07:00Z,35,0,,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+-bymTGm-sEo,2019-09-20T12:17:58Z,18,0,,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+WY_IxuwpW1A,2024-08-04T10:00:28Z,14662,423,74,Rugulopteryx_okamurae,Spain,Plants,alien,alerta,Post-Introduction,Detection,Detection,2015,2015-06-01T00:00:00Z,title_description
+WY_IxuwpW1A,2024-08-04T10:00:28Z,14662,423,74,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+WY_IxuwpW1A,2024-08-04T10:00:28Z,14662,423,74,Rugulopteryx_okamurae,Spain,Plants,alien,invade,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+WY_IxuwpW1A,2024-08-04T10:00:28Z,14662,423,74,Rugulopteryx_okamurae,Spain,Plants,alien,amenaza,Post-Introduction,Threat,Threat,2015,2015-06-01T00:00:00Z,title_description
+ZN8YyKhoLwc,2020-12-06T06:40:21Z,81,0,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+RKuaJSa0Omw,2021-04-13T10:42:52Z,24,0,,Rugulopteryx_okamurae,Spain,Plants,alien,invasion,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+RKuaJSa0Omw,2021-04-13T10:42:52Z,24,0,,Rugulopteryx_okamurae,Spain,Plants,alien,invasion,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+vZFblsxFkGE,2025-07-26T10:06:12Z,393,3,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasion,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+KUWZx5_n7Vg,2025-07-28T16:30:40Z,816,2,0,Rugulopteryx_okamurae,Spain,Plants,alien,alerta,Post-Introduction,Detection,Detection,2015,2015-06-01T00:00:00Z,title_description
+KUWZx5_n7Vg,2025-07-28T16:30:40Z,816,2,0,Rugulopteryx_okamurae,Spain,Plants,alien,invade,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+KUWZx5_n7Vg,2025-07-28T16:30:40Z,816,2,0,Rugulopteryx_okamurae,Spain,Plants,alien,amenaza,Post-Introduction,Threat,Threat,2015,2015-06-01T00:00:00Z,title_description
+zXEjZUzniS0,2023-10-24T14:29:11Z,113,1,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+0kuWXgC2ENU,2025-08-10T14:00:01Z,2230,42,3,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+0kuWXgC2ENU,2025-08-10T14:00:01Z,2230,42,3,Rugulopteryx_okamurae,Spain,Plants,alien,euros,Post-Introduction,eCommerce,eCommerce,2015,2015-06-01T00:00:00Z,title_description
+0kuWXgC2ENU,2025-08-10T14:00:01Z,2230,42,3,Rugulopteryx_okamurae,Spain,Plants,alien,colonizacion,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+A8xU-u9JisU,2021-07-30T16:57:11Z,135,1,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+A8xU-u9JisU,2021-07-30T16:57:11Z,135,1,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+SfUE1GDggLk,2019-09-05T12:26:56Z,9,0,,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+U4J8oEBhRHE,2019-06-14T14:08:22Z,1260,5,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+U4J8oEBhRHE,2019-06-14T14:08:22Z,1260,5,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasion,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+lbrE-0xafok,2019-10-10T09:42:40Z,1501,20,,Rugulopteryx_okamurae,Spain,Plants,alien,invasoras,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+lbrE-0xafok,2019-10-10T09:42:40Z,1501,20,,Rugulopteryx_okamurae,Spain,Plants,alien,proliferacion,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+qPCwT4VwGnE,2021-05-04T09:44:07Z,7,0,,Rugulopteryx_okamurae,Spain,Plants,alien,proliferacion,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+YBY91aSFA74,2019-07-22T12:54:29Z,13,0,,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+aktr5on5aio,2021-04-22T11:37:13Z,11,0,,Rugulopteryx_okamurae,Spain,Plants,alien,amenaza,Post-Introduction,Threat,Threat,2015,2015-06-01T00:00:00Z,title_description
+HuDvbVX61gA,2023-11-02T08:43:52Z,414,11,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+jxUWodoIlXk,2020-07-27T09:31:04Z,253,14,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasion,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+jxUWodoIlXk,2020-07-27T09:31:04Z,253,14,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasion,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+eqxAlluZM78,2019-09-17T16:31:50Z,19,0,0,Rugulopteryx_okamurae,Spain,Plants,alien,visto,Post-Introduction,Detection,Detection,2015,2015-06-01T00:00:00Z,title_description
+eqxAlluZM78,2019-09-17T16:31:50Z,19,0,0,Rugulopteryx_okamurae,Spain,Plants,alien,capturas,Post-Introduction,Detection,Detection,2015,2015-06-01T00:00:00Z,title_description
+Eiziw7KsqQE,2021-04-08T12:11:17Z,16,0,,Rugulopteryx_okamurae,Spain,Plants,alien,euros,Post-Introduction,eCommerce,eCommerce,2015,2015-06-01T00:00:00Z,title_description
+4aZ4eanqoxI,2024-09-10T10:00:04Z,1938,83,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+4aZ4eanqoxI,2024-09-10T10:00:04Z,1938,83,0,Rugulopteryx_okamurae,Spain,Plants,alien,amenaza,Post-Introduction,Threat,Threat,2015,2015-06-01T00:00:00Z,title_description
+rtal6VvFLCM,2024-09-06T10:01:02Z,4106,127,7,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+rtal6VvFLCM,2024-09-06T10:01:02Z,4106,127,7,Rugulopteryx_okamurae,Spain,Plants,alien,amenaza,Post-Introduction,Threat,Threat,2015,2015-06-01T00:00:00Z,title_description
+pRLfhWW6NPw,2021-06-14T11:00:17Z,8231,41,,Rugulopteryx_okamurae,Spain,Plants,alien,peligro,Post-Introduction,Threat,Threat,2015,2015-06-01T00:00:00Z,title_description
+mEeIh6tNWpU,2021-04-29T12:23:24Z,5,0,,Rugulopteryx_okamurae,Spain,Plants,alien,proliferacion,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+7cUogd7khVM,2024-09-11T10:00:06Z,1494,44,3,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+7cUogd7khVM,2024-09-11T10:00:06Z,1494,44,3,Rugulopteryx_okamurae,Spain,Plants,alien,amenaza,Post-Introduction,Threat,Threat,2015,2015-06-01T00:00:00Z,title_description
+FJtRqdjCub0,2022-06-08T10:22:47Z,6,0,,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+FJtRqdjCub0,2022-06-08T10:22:47Z,6,0,,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+yRPRZJ5_3TU,2021-07-06T12:21:50Z,21,0,,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+QxulW77G_B8,2024-09-04T10:00:22Z,1474,82,1,Rugulopteryx_okamurae,Spain,Plants,alien,alerta,Post-Introduction,Detection,Detection,2015,2015-06-01T00:00:00Z,title_description
+QxulW77G_B8,2024-09-04T10:00:22Z,1474,82,1,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+QxulW77G_B8,2024-09-04T10:00:22Z,1474,82,1,Rugulopteryx_okamurae,Spain,Plants,alien,amenaza,Post-Introduction,Threat,Threat,2015,2015-06-01T00:00:00Z,title_description
+Ar0Wme-EiYc,2024-09-07T10:00:18Z,18133,231,4,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+Ar0Wme-EiYc,2024-09-07T10:00:18Z,18133,231,4,Rugulopteryx_okamurae,Spain,Plants,alien,amenaza,Post-Introduction,Threat,Threat,2015,2015-06-01T00:00:00Z,title_description
+gpbAmfYv-0w,2025-07-26T12:50:34Z,1,0,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+JfGt1Z3ipzQ,2024-11-06T11:12:52Z,103,1,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+JfGt1Z3ipzQ,2024-11-06T11:12:52Z,103,1,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasion,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+zXeNfpMuQ-w,2021-04-29T12:12:10Z,57,2,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+zXeNfpMuQ-w,2021-04-29T12:12:10Z,57,2,0,Rugulopteryx_okamurae,Spain,Plants,alien,vector,Post-Introduction,Threat,Threat,2015,2015-06-01T00:00:00Z,title_description
+zXeNfpMuQ-w,2021-04-29T12:12:10Z,57,2,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+Kv6UIGkNt5c,2024-01-12T17:00:13Z,80,10,8,Rugulopteryx_okamurae,Spain,Plants,alien,amenaza,Post-Introduction,Threat,Threat,2015,2015-06-01T00:00:00Z,title_description
+Kv6UIGkNt5c,2024-01-12T17:00:13Z,80,10,8,Rugulopteryx_okamurae,Spain,Plants,alien,amenaza,Post-Introduction,Threat,Threat,2015,2015-06-01T00:00:00Z,title_description
+Kv6UIGkNt5c,2024-01-12T17:00:13Z,80,10,8,Rugulopteryx_okamurae,Spain,Plants,alien,amenaza,Post-Introduction,Threat,Threat,2015,2015-06-01T00:00:00Z,title_description
+J7YlnHQzu_A,2025-08-11T15:37:16Z,1621,35,14,Rugulopteryx_okamurae,Spain,Plants,alien,invasoras,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+J7YlnHQzu_A,2025-08-11T15:37:16Z,1621,35,14,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+cqDuk55vT5w,2024-09-12T11:29:08Z,1063,2,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+cqDuk55vT5w,2024-09-12T11:29:08Z,1063,2,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+h5WZL72C34Y,2021-05-27T14:09:04Z,21,0,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+RfpSq1ct8zU,2025-07-16T14:41:41Z,93,1,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+ANdDqCA46Lg,2020-01-21T11:56:27Z,42,0,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+ANdDqCA46Lg,2020-01-21T11:56:27Z,42,0,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+ANdDqCA46Lg,2020-01-21T11:56:27Z,42,0,0,Rugulopteryx_okamurae,Spain,Plants,alien,competencia,Post-Introduction,Threat,Threat,2015,2015-06-01T00:00:00Z,title_description
+bN2JWJVoTi8,2019-10-30T19:38:34Z,30,0,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+2MFXlCqWCLI,2019-06-21T07:26:30Z,372,4,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+1dCHTtNl3XQ,2019-10-30T19:39:59Z,16,0,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+1d-OKX3wnmM,2019-10-30T19:42:59Z,36,0,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+Jp2f6x28Lu0,2019-10-30T19:36:17Z,55,0,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+bT3FujhNdho,2019-10-30T19:45:03Z,32,0,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+0Jyo_wpJZYc,2019-09-16T19:27:32Z,31,0,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+JACMNkYHmic,2023-07-18T16:40:58Z,1014,15,2,Rugulopteryx_okamurae,Spain,Plants,alien,invasion,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+rzcUxWxl9S4,2019-11-04T11:00:07Z,897,,,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+rzcUxWxl9S4,2019-11-04T11:00:07Z,897,,,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+qGn3DB4EJgg,2021-06-20T12:00:21Z,519,9,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasion,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+qGn3DB4EJgg,2021-06-20T12:00:21Z,519,9,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasion,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+g9JQBNlVZiw,2022-06-24T12:17:34Z,132,1,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasoras,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+lbbXkweyvz0,2025-06-15T16:20:32Z,216,2,1,Rugulopteryx_okamurae,Spain,Plants,alien,invasion,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+lbbXkweyvz0,2025-06-15T16:20:32Z,216,2,1,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+x647Jo_MfoI,2019-11-26T08:27:11Z,6098,82,,Rugulopteryx_okamurae,Spain,Plants,alien,invasoras,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+IBQ4ehvk2Jg,2023-07-19T21:36:02Z,5773,50,6,Rugulopteryx_okamurae,Spain,Plants,alien,invasion,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+eA4zL5v5DUM,2024-06-11T12:32:52Z,199,1,0,Rugulopteryx_okamurae,Spain,Plants,alien,expansion,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+eA4zL5v5DUM,2024-06-11T12:32:52Z,199,1,0,Rugulopteryx_okamurae,Spain,Plants,alien,afectando,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+39qmezbJ2aw,2024-05-13T11:14:28Z,35,0,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasoras,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+GWDT7hWvPwQ,2025-02-07T18:36:22Z,356,22,,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+WRkv5Qwei1E,2024-11-17T09:07:39Z,78,1,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasoras,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+ll4KOOJI-Tc,2025-08-16T19:26:23Z,2,0,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasoras,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+-heCRkxXS44,2025-07-18T11:30:21Z,55,1,0,Rugulopteryx_okamurae,Spain,Plants,alien,proliferacion,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+8G3m25J_-VE,2025-08-08T17:15:32Z,658,6,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+8G3m25J_-VE,2025-08-08T17:15:32Z,658,6,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+Do-k9FdE89o,2023-09-29T06:27:46Z,3521,33,6,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+Do-k9FdE89o,2023-09-29T06:27:46Z,3521,33,6,Rugulopteryx_okamurae,Spain,Plants,alien,exotica,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+Do-k9FdE89o,2023-09-29T06:27:46Z,3521,33,6,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+CZBxY8cW1b0,2024-02-06T10:25:44Z,194,0,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+aUSTZzoOh2E,2025-02-16T08:11:42Z,81,0,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasoras,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+aUSTZzoOh2E,2025-02-16T08:11:42Z,81,0,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasoras,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+J9RxUrIYddQ,2025-04-02T17:11:21Z,36,0,0,Rugulopteryx_okamurae,Spain,Plants,alien,control,Post-Introduction,Detection,Detection,2015,2015-06-01T00:00:00Z,title_description
+J9RxUrIYddQ,2025-04-02T17:11:21Z,36,0,0,Rugulopteryx_okamurae,Spain,Plants,alien,control,Post-Introduction,Detection,Detection,2015,2015-06-01T00:00:00Z,title_description
+b3mT5JdqYrg,2021-11-05T10:30:17Z,111,2,,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+b3mT5JdqYrg,2021-11-05T10:30:17Z,111,2,,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+cTWzG1EFEZs,2025-03-22T12:50:25Z,89,6,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+unHrZaQJCJc,2025-04-02T18:23:27Z,99,0,0,Rugulopteryx_okamurae,Spain,Plants,alien,control,Post-Introduction,Detection,Detection,2015,2015-06-01T00:00:00Z,title_description
+unHrZaQJCJc,2025-04-02T18:23:27Z,99,0,0,Rugulopteryx_okamurae,Spain,Plants,alien,control,Post-Introduction,Detection,Detection,2015,2015-06-01T00:00:00Z,title_description
+unHrZaQJCJc,2025-04-02T18:23:27Z,99,0,0,Rugulopteryx_okamurae,Spain,Plants,alien,control,Post-Introduction,Detection,Detection,2015,2015-06-01T00:00:00Z,title_description
+1fUYpITmLHM,2020-06-25T12:13:38Z,97,2,,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+1RiPUgXrR9k,2020-12-01T13:47:29Z,116,0,,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+Kp95pPz0AWM,2021-04-12T14:02:28Z,849,1,,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+Kp95pPz0AWM,2021-04-12T14:02:28Z,849,1,,Rugulopteryx_okamurae,Spain,Plants,alien,detectada,Post-Introduction,Detection,Detection,2015,2015-06-01T00:00:00Z,title_description
+Kp95pPz0AWM,2021-04-12T14:02:28Z,849,1,,Rugulopteryx_okamurae,Spain,Plants,alien,amenaza,Post-Introduction,Threat,Threat,2015,2015-06-01T00:00:00Z,title_description
+1fFastMpjhc,2022-02-28T21:07:11Z,215,5,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+gkUQub5ygzk,2023-01-25T09:26:20Z,74,0,0,Rugulopteryx_okamurae,Spain,Plants,alien,monitoreo,Post-Introduction,Detection,Detection,2015,2015-06-01T00:00:00Z,title_description
+gkUQub5ygzk,2023-01-25T09:26:20Z,74,0,0,Rugulopteryx_okamurae,Spain,Plants,alien,oferta,Post-Introduction,eCommerce,eCommerce,2015,2015-06-01T00:00:00Z,title_description
+gn6llI3y2N8,2025-04-02T18:24:02Z,179,2,0,Rugulopteryx_okamurae,Spain,Plants,alien,control,Post-Introduction,Detection,Detection,2015,2015-06-01T00:00:00Z,title_description
+gn6llI3y2N8,2025-04-02T18:24:02Z,179,2,0,Rugulopteryx_okamurae,Spain,Plants,alien,control,Post-Introduction,Detection,Detection,2015,2015-06-01T00:00:00Z,title_description
+-u3l1e9NLjQ,2024-07-30T21:37:57Z,55,1,0,Rugulopteryx_okamurae,Spain,Plants,alien,ataca,Post-Introduction,Threat,Threat,2015,2015-06-01T00:00:00Z,title_description
+-u3l1e9NLjQ,2024-07-30T21:37:57Z,55,1,0,Rugulopteryx_okamurae,Spain,Plants,alien,ataca,Post-Introduction,Threat,Threat,2015,2015-06-01T00:00:00Z,title_description
+1-oZxbec8_8,2025-04-02T18:31:52Z,63,0,0,Rugulopteryx_okamurae,Spain,Plants,alien,control,Post-Introduction,Detection,Detection,2015,2015-06-01T00:00:00Z,title_description
+1-oZxbec8_8,2025-04-02T18:31:52Z,63,0,0,Rugulopteryx_okamurae,Spain,Plants,alien,control,Post-Introduction,Detection,Detection,2015,2015-06-01T00:00:00Z,title_description
+IRkLEOQBq_4,2023-08-23T13:09:12Z,181,8,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+IRkLEOQBq_4,2023-08-23T13:09:12Z,181,8,0,Rugulopteryx_okamurae,Spain,Plants,alien,presente,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+IRkLEOQBq_4,2023-08-23T13:09:12Z,181,8,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+i-vB3rNox_I,2023-05-16T17:17:59Z,47,3,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+yRyypNR79_M,2019-06-10T10:02:15Z,82,2,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasion,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+yRyypNR79_M,2019-06-10T10:02:15Z,82,2,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasion,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+bTjlNEc056w,2024-03-20T16:19:51Z,38,4,1,Rugulopteryx_okamurae,Spain,Plants,alien,invasion,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+YRAa0MIVIQk,2025-06-15T17:30:49Z,204,7,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+OetG12LtFL0,2022-06-08T08:13:57Z,116,19,0,Rugulopteryx_okamurae,Spain,Plants,alien,exotica,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+OetG12LtFL0,2022-06-08T08:13:57Z,116,19,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+3gNAJrYELJI,2025-04-02T11:07:26Z,51,1,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasion,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+V4lPzbleL7M,2019-10-06T22:47:05Z,187,3,1,Rugulopteryx_okamurae,Spain,Plants,alien,invasoras,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+EX2Bdme7Ywo,2022-07-24T15:19:08Z,11188,548,79,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+EX2Bdme7Ywo,2022-07-24T15:19:08Z,11188,548,79,Rugulopteryx_okamurae,Spain,Plants,alien,ataca,Post-Introduction,Threat,Threat,2015,2015-06-01T00:00:00Z,title_description
+EX2Bdme7Ywo,2022-07-24T15:19:08Z,11188,548,79,Rugulopteryx_okamurae,Spain,Plants,alien,propagar,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+VKnKrInPTnE,2021-01-22T08:08:53Z,1210,4,0,Rugulopteryx_okamurae,Spain,Plants,alien,controlar,Post-Introduction,Detection,Detection,2015,2015-06-01T00:00:00Z,title_description
+VKnKrInPTnE,2021-01-22T08:08:53Z,1210,4,0,Rugulopteryx_okamurae,Spain,Plants,alien,expansion,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+VKnKrInPTnE,2021-01-22T08:08:53Z,1210,4,0,Rugulopteryx_okamurae,Spain,Plants,alien,deteccion,Post-Introduction,Detection,Detection,2015,2015-06-01T00:00:00Z,title_description
+Ld-UnVNq6BY,2022-12-01T14:01:02Z,95,0,0,Rugulopteryx_okamurae,Spain,Plants,alien,expansion,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+Ld-UnVNq6BY,2022-12-01T14:01:02Z,95,0,0,Rugulopteryx_okamurae,Spain,Plants,alien,deteccion,Post-Introduction,Detection,Detection,2015,2015-06-01T00:00:00Z,title_description
+GfzWQTzTEWM,2021-04-30T10:10:22Z,115,2,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+GfzWQTzTEWM,2021-04-30T10:10:22Z,115,2,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasion,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+KRCcdAldgj4,2019-07-26T19:39:30Z,96,1,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+9fQbjnDwngU,2023-11-03T07:29:13Z,559,8,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+9fQbjnDwngU,2023-11-03T07:29:13Z,559,8,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+uSrx1hxl66g,2024-08-13T21:13:01Z,26,0,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+uSrx1hxl66g,2024-08-13T21:13:01Z,26,0,0,Rugulopteryx_okamurae,Spain,Plants,alien,plaga,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+jHm4JeODrGk,2025-06-05T10:05:08Z,26,3,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasion,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+h2TJOgjE8z8,2022-07-04T11:41:41Z,25,0,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasion,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+2mRNCUNTP4k,2025-07-28T10:06:17Z,186,0,0,Rugulopteryx_okamurae,Spain,Plants,alien,proliferacion,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+2mRNCUNTP4k,2025-07-28T10:06:17Z,186,0,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+KGTWXgiGEAQ,2019-06-29T17:53:14Z,148,2,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+W9ozjDkD5AA,2021-05-07T07:14:55Z,40,0,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+W9ozjDkD5AA,2021-05-07T07:14:55Z,40,0,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasion,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+W9ozjDkD5AA,2021-05-07T07:14:55Z,40,0,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+fXgImarFs54,2021-11-09T08:17:36Z,44,0,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasion,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+fXgImarFs54,2021-11-09T08:17:36Z,44,0,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+fXgImarFs54,2021-11-09T08:17:36Z,44,0,0,Rugulopteryx_okamurae,Spain,Plants,alien,colonizacion,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+jUi35VrXxfM,2025-05-10T07:57:44Z,104,7,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+jUi35VrXxfM,2025-05-10T07:57:44Z,104,7,0,Rugulopteryx_okamurae,Spain,Plants,alien,amenaza,Post-Introduction,Threat,Threat,2015,2015-06-01T00:00:00Z,title_description
+iIuusyuSx58,2022-02-18T03:15:26Z,1148,29,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+dQfgmayPbX4,2025-07-26T11:10:10Z,22,0,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasao,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+dQfgmayPbX4,2025-07-26T11:10:10Z,22,0,0,Rugulopteryx_okamurae,Spain,Plants,alien,ameaca,Post-Introduction,Threat,Threat,2015,2015-06-01T00:00:00Z,title_description
+dQfgmayPbX4,2025-07-26T11:10:10Z,22,0,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasao,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+dQfgmayPbX4,2025-07-26T11:10:10Z,22,0,0,Rugulopteryx_okamurae,Spain,Plants,alien,ameaca,Post-Introduction,Threat,Threat,2015,2015-06-01T00:00:00Z,title_description
+dQfgmayPbX4,2025-07-26T11:10:10Z,22,0,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+YUPD_WJt0iU,2022-07-06T07:31:29Z,20,0,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasion,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+_fhJyNDo5dE,2022-08-21T15:48:02Z,2215,,,Rugulopteryx_okamurae,Spain,Plants,alien,invasoras,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+TCp9bzz6dBU,2025-07-26T11:06:01Z,16,0,2,Rugulopteryx_okamurae,Spain,Plants,alien,invasao,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+TCp9bzz6dBU,2025-07-26T11:06:01Z,16,0,2,Rugulopteryx_okamurae,Spain,Plants,alien,ameaca,Post-Introduction,Threat,Threat,2015,2015-06-01T00:00:00Z,title_description
+TCp9bzz6dBU,2025-07-26T11:06:01Z,16,0,2,Rugulopteryx_okamurae,Spain,Plants,alien,invasao,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+TCp9bzz6dBU,2025-07-26T11:06:01Z,16,0,2,Rugulopteryx_okamurae,Spain,Plants,alien,ameaca,Post-Introduction,Threat,Threat,2015,2015-06-01T00:00:00Z,title_description
+jA83q5HoWus,2024-08-08T23:35:12Z,122,2,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasion,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+ukCDugtumtI,2025-06-04T13:12:41Z,101,0,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+VVM5c3IDw10,2025-02-20T12:35:22Z,140,5,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasoras,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+VVM5c3IDw10,2025-02-20T12:35:22Z,140,5,0,Rugulopteryx_okamurae,Spain,Plants,alien,amenaza,Post-Introduction,Threat,Threat,2015,2015-06-01T00:00:00Z,title_description
+VVM5c3IDw10,2025-02-20T12:35:22Z,140,5,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasion,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+k944L4ZzHDU,2021-05-27T14:13:17Z,122,1,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+quue0aRMQUE,2021-05-25T12:30:34Z,2139,552,57,Rugulopteryx_okamurae,Spain,Plants,alien,control,Post-Introduction,Detection,Detection,2015,2015-06-01T00:00:00Z,title_description
+lj6OsU-wR54,2025-08-16T19:29:02Z,0,0,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+tQHhyLdBzMc,2025-08-16T19:18:03Z,2,0,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasion,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+tQHhyLdBzMc,2025-08-16T19:18:03Z,2,0,0,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+tQHhyLdBzMc,2025-08-16T19:18:03Z,2,0,0,Rugulopteryx_okamurae,Spain,Plants,alien,afectando,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+mvalGL2RNBQ,2023-03-28T14:38:03Z,,,,Rugulopteryx_okamurae,Spain,Plants,alien,invasora,Post-Introduction,Invasion,Invasion,2015,2015-06-01T00:00:00Z,title_description
+6VRQSAX4ZDE,2025-07-24T10:02:47Z,3982,95,8,Scyphophorus_acupunctatus,Spain,Insects,established,plaga,Post-Introduction,Invasion,Invasion,2007,2007-06-01T00:00:00Z,title_description
+SoqD6DjYVKA,2016-04-09T17:28:47Z,1450,6,0,Scyphophorus_acupunctatus,Spain,Insects,established,captura,Post-Introduction,Detection,Detection,2007,2007-06-01T00:00:00Z,title_description
+rJFqS9iFUDA,2014-04-03T10:00:36Z,1890,5,0,Scyphophorus_acupunctatus,Spain,Insects,established,exotico,Post-Introduction,Invasion,Invasion,2007,2007-06-01T00:00:00Z,title_description
+rJFqS9iFUDA,2014-04-03T10:00:36Z,1890,5,0,Scyphophorus_acupunctatus,Spain,Insects,established,invade,Post-Introduction,Invasion,Invasion,2007,2007-06-01T00:00:00Z,title_description
+IA5FwWN7Ef8,2021-03-09T07:02:52Z,102115,2290,81,Spodoptera_frugiperda,Canary Islands,Insects,alien,trampa,Post-Introduction,Detection,Detection,2020,2020-07-01T00:00:00Z,title_description
+IA5FwWN7Ef8,2021-03-09T07:02:52Z,102115,2290,81,Spodoptera_frugiperda,Canary Islands,Insects,alien,trampas,Post-Introduction,Detection,Detection,2020,2020-07-01T00:00:00Z,title_description
+Jq46qTs_O2A,2024-03-15T12:33:06Z,45,9,0,Spodoptera_frugiperda,Canary Islands,Insects,alien,pragas,Post-Introduction,Invasion,Invasion,2020,2020-07-01T00:00:00Z,title_description
+Jq46qTs_O2A,2024-03-15T12:33:06Z,45,9,0,Spodoptera_frugiperda,Canary Islands,Insects,alien,praga,Post-Introduction,Invasion,Invasion,2020,2020-07-01T00:00:00Z,title_description
+3Xx8lz8D71g,2023-08-24T09:47:00Z,2151,19,0,Spodoptera_frugiperda,Canary Islands,Insects,alien,pragas,Post-Introduction,Invasion,Invasion,2020,2020-07-01T00:00:00Z,title_description
+3Xx8lz8D71g,2023-08-24T09:47:00Z,2151,19,0,Spodoptera_frugiperda,Canary Islands,Insects,alien,pragas,Post-Introduction,Invasion,Invasion,2020,2020-07-01T00:00:00Z,title_description
+mk3ZbfXGwus,2020-03-20T16:41:53Z,1547,87,29,Synoicus_chinensis,Spain,Birds,alien,encontrado,Post-Introduction,Detection,Detection,2006,2006-06-01T00:00:00Z,title_description
+iZCCmQzyArU,2020-12-05T17:32:28Z,1009,30,3,Testudo_marginata,Spain,Herptiles,established,terrario,Post-Introduction,eCommerce,eCommerce,2017,2017-06-01T00:00:00Z,title_description
+BeBPNrPYTcM,2015-01-29T09:09:36Z,339,1,0,Testudo_marginata,Spain,Herptiles,established,tienda,Pre-Introduction,eCommerce,eCommerce,2017,2017-06-01T00:00:00Z,title_description
+BeBPNrPYTcM,2015-01-29T09:09:36Z,339,1,0,Testudo_marginata,Spain,Herptiles,established,tienda,Pre-Introduction,eCommerce,eCommerce,2017,2017-06-01T00:00:00Z,title_description
+BeBPNrPYTcM,2015-01-29T09:09:36Z,339,1,0,Testudo_marginata,Spain,Herptiles,established,venta,Pre-Introduction,eCommerce,eCommerce,2017,2017-06-01T00:00:00Z,title_description
+3e1nSjNURM4,2012-10-16T15:09:53Z,195,3,0,Testudo_marginata,Spain,Herptiles,established,terrario,Pre-Introduction,eCommerce,eCommerce,2017,2017-06-01T00:00:00Z,title_description
+Kf7U0xXgfyU,2024-09-25T11:34:01Z,246,3,0,Tobamovirus_fructirugosum,Spain,"Bacteria, Viruses, Fungi",alien,control,Post-Introduction,Detection,Detection,2019,2019-10-01T00:00:00Z,title_description
+Kf7U0xXgfyU,2024-09-25T11:34:01Z,246,3,0,Tobamovirus_fructirugosum,Spain,"Bacteria, Viruses, Fungi",alien,manejo,Post-Introduction,Detection,Detection,2019,2019-10-01T00:00:00Z,title_description
+Kf7U0xXgfyU,2024-09-25T11:34:01Z,246,3,0,Tobamovirus_fructirugosum,Spain,"Bacteria, Viruses, Fungi",alien,manejo,Post-Introduction,Detection,Detection,2019,2019-10-01T00:00:00Z,title_description
+gjF7EOsd9Js,2024-09-25T11:33:51Z,203,0,0,Tobamovirus_fructirugosum,Spain,"Bacteria, Viruses, Fungi",alien,control,Post-Introduction,Detection,Detection,2019,2019-10-01T00:00:00Z,title_description
+fU9PPDFvsDc,2019-12-18T17:41:51Z,1853,15,,Tobamovirus_fructirugosum,Spain,"Bacteria, Viruses, Fungi",alien,amenaza,Post-Introduction,Threat,Threat,2019,2019-10-01T00:00:00Z,title_description
+5ffXaJX9rm4,2024-09-25T11:34:11Z,147,0,0,Tobamovirus_fructirugosum,Spain,"Bacteria, Viruses, Fungi",alien,control,Post-Introduction,Detection,Detection,2019,2019-10-01T00:00:00Z,title_description
+5ffXaJX9rm4,2024-09-25T11:34:11Z,147,0,0,Tobamovirus_fructirugosum,Spain,"Bacteria, Viruses, Fungi",alien,manejo,Post-Introduction,Detection,Detection,2019,2019-10-01T00:00:00Z,title_description
+kFaHB8XO5PQ,2020-10-11T09:02:42Z,1572,41,4,Tobamovirus_fructirugosum,Spain,"Bacteria, Viruses, Fungi",alien,amenaza,Post-Introduction,Threat,Threat,2019,2019-10-01T00:00:00Z,title_description
+gMql4LgMG04,2024-09-25T11:34:43Z,163,1,0,Tobamovirus_fructirugosum,Spain,"Bacteria, Viruses, Fungi",alien,control,Post-Introduction,Detection,Detection,2019,2019-10-01T00:00:00Z,title_description
+5A773I6g13s,2021-10-01T10:01:27Z,128,0,0,Tobamovirus_fructirugosum,Spain,"Bacteria, Viruses, Fungi",alien,deteccion,Post-Introduction,Detection,Detection,2019,2019-10-01T00:00:00Z,title_description
+b7ER1Lp12oM,2024-09-25T11:34:35Z,356,5,0,Tobamovirus_fructirugosum,Spain,"Bacteria, Viruses, Fungi",alien,control,Post-Introduction,Detection,Detection,2019,2019-10-01T00:00:00Z,title_description
+Agu2kF1QkbU,2024-09-25T11:34:25Z,115,1,0,Tobamovirus_fructirugosum,Spain,"Bacteria, Viruses, Fungi",alien,control,Post-Introduction,Detection,Detection,2019,2019-10-01T00:00:00Z,title_description
+Agu2kF1QkbU,2024-09-25T11:34:25Z,115,1,0,Tobamovirus_fructirugosum,Spain,"Bacteria, Viruses, Fungi",alien,vista,Post-Introduction,Detection,Detection,2019,2019-10-01T00:00:00Z,title_description
+UNjUGrTG26w,2024-09-25T11:33:40Z,204,1,0,Tobamovirus_fructirugosum,Spain,"Bacteria, Viruses, Fungi",alien,control,Post-Introduction,Detection,Detection,2019,2019-10-01T00:00:00Z,title_description
+NrQCYWpR0iw,2024-11-29T12:27:21Z,461,6,1,Tomato_leaf_curl_New_Delhi_virus,Spain,"Bacteria, Viruses, Fungi",alien,cara,Post-Introduction,eCommerce,eCommerce,2012,2012-06-01T00:00:00Z,title_description
+5qv1wLqdDJ8,2020-11-25T18:46:26Z,960,22,21,Varanus_exanthematicus,Spain,Herptiles,uncertain,mascota,Post-Introduction,eCommerce,eCommerce,2011,2011-06-01T00:00:00Z,title_description
+5qv1wLqdDJ8,2020-11-25T18:46:26Z,960,22,21,Varanus_exanthematicus,Spain,Herptiles,uncertain,exotica,Post-Introduction,Invasion,Invasion,2011,2011-06-01T00:00:00Z,title_description
+RyVDXf2xC14,2011-06-28T19:34:27Z,698,1,0,Varanus_exanthematicus,Spain,Herptiles,uncertain,terrario,Post-Introduction,eCommerce,eCommerce,2011,2011-06-01T00:00:00Z,title_description
+GVNjD6NQU8M,2025-03-07T11:00:19Z,67,1,,Vespa_orientalis,Spain,Insects,alien,exotica,Post-Introduction,Invasion,Invasion,2012,2012-06-01T00:00:00Z,title_description
+GVNjD6NQU8M,2025-03-07T11:00:19Z,67,1,,Vespa_orientalis,Spain,Insects,alien,invasora,Post-Introduction,Invasion,Invasion,2012,2012-06-01T00:00:00Z,title_description
+rAV7-u6JzEw,2025-07-30T11:37:26Z,666,25,8,Vespa_orientalis,Spain,Insects,alien,encontrado,Post-Introduction,Detection,Detection,2012,2012-06-01T00:00:00Z,title_description
+Gp53O84N6do,2024-09-11T06:14:48Z,1533,20,8,Vespa_orientalis,Spain,Insects,alien,invasora,Post-Introduction,Invasion,Invasion,2012,2012-06-01T00:00:00Z,title_description
+Gp53O84N6do,2024-09-11T06:14:48Z,1533,20,8,Vespa_orientalis,Spain,Insects,alien,amenaza,Post-Introduction,Threat,Threat,2012,2012-06-01T00:00:00Z,title_description
+FwzQIEwOQqE,2024-10-15T12:17:37Z,5325,12,0,Vespa_orientalis,Spain,Insects,alien,plaga,Post-Introduction,Invasion,Invasion,2012,2012-06-01T00:00:00Z,title_description
+4go51B0IayM,2025-02-25T17:00:10Z,2133,88,1,Vespa_orientalis,Spain,Insects,alien,peligroso,Post-Introduction,Threat,Threat,2012,2012-06-01T00:00:00Z,title_description
+AZJmY1h21hw,2022-05-26T12:02:59Z,637,12,0,Vespa_orientalis,Spain,Insects,alien,invasor,Post-Introduction,Invasion,Invasion,2012,2012-06-01T00:00:00Z,title_description
+mlfqHAiQWBA,2025-07-09T14:10:40Z,49,1,1,Vespa_orientalis,Spain,Insects,alien,invasion,Post-Introduction,Invasion,Invasion,2012,2012-06-01T00:00:00Z,title_description
+VIUWhYgQ4s4,2024-11-28T07:02:22Z,26,0,0,Vespa_orientalis,Spain,Insects,alien,control,Post-Introduction,Detection,Detection,2012,2012-06-01T00:00:00Z,title_description
+VIUWhYgQ4s4,2024-11-28T07:02:22Z,26,0,0,Vespa_orientalis,Spain,Insects,alien,control,Post-Introduction,Detection,Detection,2012,2012-06-01T00:00:00Z,title_description
+VIUWhYgQ4s4,2024-11-28T07:02:22Z,26,0,0,Vespa_orientalis,Spain,Insects,alien,expansion,Post-Introduction,Invasion,Invasion,2012,2012-06-01T00:00:00Z,title_description
+fxfCF2lO8BI,2023-08-30T21:28:55Z,1100,5,0,Vespa_orientalis,Spain,Insects,alien,invade,Post-Introduction,Invasion,Invasion,2012,2012-06-01T00:00:00Z,title_description
+fxfCF2lO8BI,2023-08-30T21:28:55Z,1100,5,0,Vespa_orientalis,Spain,Insects,alien,invade,Post-Introduction,Invasion,Invasion,2012,2012-06-01T00:00:00Z,title_description
+xb5ZkAfwj6g,2022-12-16T11:07:50Z,189,3,1,Vespa_orientalis,Spain,Insects,alien,invasora,Post-Introduction,Invasion,Invasion,2012,2012-06-01T00:00:00Z,title_description
+xb5ZkAfwj6g,2022-12-16T11:07:50Z,189,3,1,Vespa_orientalis,Spain,Insects,alien,alerta,Post-Introduction,Detection,Detection,2012,2012-06-01T00:00:00Z,title_description
+xb5ZkAfwj6g,2022-12-16T11:07:50Z,189,3,1,Vespa_orientalis,Spain,Insects,alien,detectado,Post-Introduction,Detection,Detection,2012,2012-06-01T00:00:00Z,title_description
+h1arvF7Mcsk,2024-05-27T15:36:47Z,1881,15,1,Vespa_orientalis,Spain,Insects,alien,invasora,Post-Introduction,Invasion,Invasion,2012,2012-06-01T00:00:00Z,title_description
+-1ge-tHp-tk,2025-04-16T18:00:00Z,1391,53,8,Vespa_orientalis,Spain,Insects,alien,trampa,Post-Introduction,Detection,Detection,2012,2012-06-01T00:00:00Z,title_description
+-1ge-tHp-tk,2025-04-16T18:00:00Z,1391,53,8,Vespa_orientalis,Spain,Insects,alien,encontramos,Post-Introduction,Detection,Detection,2012,2012-06-01T00:00:00Z,title_description
+K_8TFoCImPA,2022-05-29T06:45:02Z,834,3,0,Vespa_orientalis,Spain,Insects,alien,trampa,Post-Introduction,Detection,Detection,2012,2012-06-01T00:00:00Z,title_description
+HBRG0qJFHRs,2024-10-24T06:27:02Z,158,2,0,Vespa_orientalis,Spain,Insects,alien,invasion,Post-Introduction,Invasion,Invasion,2012,2012-06-01T00:00:00Z,title_description
+-rjRNae-YDw,2024-12-03T17:00:00Z,479,18,0,Vespa_soror,Spain,Insects,alien,alerta,Post-Introduction,Detection,Detection,2022,2022-06-01T00:00:00Z,title_description
+M22i-nwItuQ,2024-12-01T23:51:49Z,235,0,0,Vespa_soror,Spain,Insects,alien,alerta,Post-Introduction,Detection,Detection,2022,2022-06-01T00:00:00Z,title_description
+phtjLpnzgJI,2014-10-24T14:59:09Z,135978,586,51,Vespa_velutina,Portugal,Insects,established,ameaza,Post-Introduction,Threat,Threat,2011,2010-08-21T00:00:00Z,title_description
+phtjLpnzgJI,2014-10-24T14:59:09Z,135978,586,51,Vespa_velutina,Portugal,Insects,established,invasora,Post-Introduction,Invasion,Invasion,2011,2010-08-21T00:00:00Z,title_description
+1Z42LQELHMw,2017-05-24T08:23:25Z,593,1,0,Vespa_velutina,Portugal,Insects,established,control,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+RXergWrQTrU,2018-04-03T05:43:12Z,395,2,1,Vespa_velutina,Portugal,Insects,established,trampas,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+cxMP_gyXwIM,2017-06-05T14:56:43Z,1321,3,0,Vespa_velutina,Portugal,Insects,established,expansion,Post-Introduction,Invasion,Invasion,2011,2010-08-21T00:00:00Z,title_description
+cxMP_gyXwIM,2017-06-05T14:56:43Z,1321,3,0,Vespa_velutina,Portugal,Insects,established,invasora,Post-Introduction,Invasion,Invasion,2011,2010-08-21T00:00:00Z,title_description
+zpJQf2nxY2E,2016-05-30T12:10:43Z,15980,65,13,Vespa_velutina,Portugal,Insects,established,peligrosa,Post-Introduction,Threat,Threat,2011,2010-08-21T00:00:00Z,title_description
+G_jw6xy-DZ0,2022-12-22T13:48:53Z,394,9,0,Vespa_velutina,Portugal,Insects,established,invasora,Post-Introduction,Invasion,Invasion,2011,2010-08-21T00:00:00Z,title_description
+51SANioZbQI,2011-09-14T14:37:28Z,9306,27,2,Vespa_velutina,Portugal,Insects,established,peligro,Post-Introduction,Threat,Threat,2011,2010-08-21T00:00:00Z,title_description
+51SANioZbQI,2011-09-14T14:37:28Z,9306,27,2,Vespa_velutina,Portugal,Insects,established,peligrosa,Post-Introduction,Threat,Threat,2011,2010-08-21T00:00:00Z,title_description
+58Zg4rVms9M,2017-06-11T08:55:23Z,85,4,3,Vespa_velutina,Portugal,Insects,established,capturada,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+E0hfZgd_nN4,2023-12-07T10:00:19Z,4546,113,1,Vespa_velutina,Portugal,Insects,established,veneno,Post-Introduction,Threat,Threat,2011,2010-08-21T00:00:00Z,title_description
+E0hfZgd_nN4,2023-12-07T10:00:19Z,4546,113,1,Vespa_velutina,Portugal,Insects,established,veneno,Post-Introduction,Threat,Threat,2011,2010-08-21T00:00:00Z,title_description
+CRumhyBWmVU,2024-05-23T07:45:00Z,7,4,0,Vespa_velutina,Portugal,Insects,established,peligro,Post-Introduction,Threat,Threat,2011,2010-08-21T00:00:00Z,title_description
+EkmjpWMUT1o,2019-06-23T17:07:34Z,341321,3482,1270,Vespa_velutina,Portugal,Insects,established,invadir,Post-Introduction,Invasion,Invasion,2011,2010-08-21T00:00:00Z,title_description
+GOuQRURX8LY,2023-11-21T19:59:40Z,48077,932,117,Vespa_velutina,Portugal,Insects,established,plaga,Post-Introduction,Invasion,Invasion,2011,2010-08-21T00:00:00Z,title_description
+qv86iKkdjAo,2025-05-29T09:01:14Z,49197,2484,250,Vespa_velutina,Portugal,Insects,established,trampa,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+D8xF0gVkIFc,2023-09-23T14:14:46Z,70679,1758,71,Vespa_velutina,Portugal,Insects,established,trampa,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+D8xF0gVkIFc,2023-09-23T14:14:46Z,70679,1758,71,Vespa_velutina,Portugal,Insects,established,trampa,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+D8xF0gVkIFc,2023-09-23T14:14:46Z,70679,1758,71,Vespa_velutina,Portugal,Insects,established,trampa,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+WaSAfSuiruk,2024-12-19T18:37:40Z,18621,1095,4,Vespa_velutina,Portugal,Insects,established,letal,Post-Introduction,Threat,Threat,2011,2010-08-21T00:00:00Z,title_description
+WaSAfSuiruk,2024-12-19T18:37:40Z,18621,1095,4,Vespa_velutina,Portugal,Insects,established,veneno,Post-Introduction,Threat,Threat,2011,2010-08-21T00:00:00Z,title_description
+WaSAfSuiruk,2024-12-19T18:37:40Z,18621,1095,4,Vespa_velutina,Portugal,Insects,established,veneno,Post-Introduction,Threat,Threat,2011,2010-08-21T00:00:00Z,title_description
+WaSAfSuiruk,2024-12-19T18:37:40Z,18621,1095,4,Vespa_velutina,Portugal,Insects,established,peligroso,Post-Introduction,Threat,Threat,2011,2010-08-21T00:00:00Z,title_description
+gk5Doi5bH98,2021-12-13T15:53:31Z,1705,58,4,Vespa_velutina,Portugal,Insects,established,invasora,Post-Introduction,Invasion,Invasion,2011,2010-08-21T00:00:00Z,title_description
+acYv6m43Ncg,2021-08-04T17:35:47Z,12696,310,3,Vespa_velutina,Portugal,Insects,established,trampa,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+4IZIEWBDhl4,2021-08-19T18:45:23Z,3811,39,0,Vespa_velutina,Portugal,Insects,established,trampas,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+p0hZHlIJn98,2024-09-14T21:39:54Z,963,3,0,Vespa_velutina,Portugal,Insects,established,atacando,Post-Introduction,Threat,Threat,2011,2010-08-21T00:00:00Z,title_description
+p0hZHlIJn98,2024-09-14T21:39:54Z,963,3,0,Vespa_velutina,Portugal,Insects,established,atacando,Post-Introduction,Threat,Threat,2011,2010-08-21T00:00:00Z,title_description
+rsi8FmOsZSU,2025-01-09T18:04:17Z,455,4,0,Vespa_velutina,Portugal,Insects,established,identificado,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+rsi8FmOsZSU,2025-01-09T18:04:17Z,455,4,0,Vespa_velutina,Portugal,Insects,established,detectada,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+sZL6hxJWr-g,2025-04-01T10:22:18Z,550,10,1,Vespa_velutina,Portugal,Insects,established,control,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+sZL6hxJWr-g,2025-04-01T10:22:18Z,550,10,1,Vespa_velutina,Portugal,Insects,established,invasor,Post-Introduction,Invasion,Invasion,2011,2010-08-21T00:00:00Z,title_description
+kt7ksi_oAsM,2019-10-14T11:22:40Z,4858,43,4,Vespa_velutina,Portugal,Insects,established,tienda,Post-Introduction,eCommerce,eCommerce,2011,2010-08-21T00:00:00Z,title_description
+6bERpF24TkQ,2012-09-13T09:52:09Z,330,1,0,Vespa_velutina,Portugal,Insects,established,invade,Post-Introduction,Invasion,Invasion,2011,2010-08-21T00:00:00Z,title_description
+-s2Jk_3BUJ0,2016-09-07T13:11:40Z,42854,443,43,Vespa_velutina,Portugal,Insects,established,trampas,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+To9W-xnZ7RI,2022-10-10T20:57:26Z,797,15,0,Vespa_velutina,Portugal,Insects,established,atacando,Post-Introduction,Threat,Threat,2011,2010-08-21T00:00:00Z,title_description
+FFbNwTPmI_s,2021-01-06T11:05:38Z,3081,48,3,Vespa_velutina,Portugal,Insects,established,invasora,Post-Introduction,Invasion,Invasion,2011,2010-08-21T00:00:00Z,title_description
+5IB-vUG0efk,2022-11-04T11:17:52Z,4878,162,2,Vespa_velutina,Portugal,Insects,established,peligro,Post-Introduction,Threat,Threat,2011,2010-08-21T00:00:00Z,title_description
+5IB-vUG0efk,2022-11-04T11:17:52Z,4878,162,2,Vespa_velutina,Portugal,Insects,established,hallazgo,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+5IB-vUG0efk,2022-11-04T11:17:52Z,4878,162,2,Vespa_velutina,Portugal,Insects,established,peligroso,Post-Introduction,Threat,Threat,2011,2010-08-21T00:00:00Z,title_description
+ZZB6GJ5Silc,2019-09-20T19:38:46Z,398,4,3,Vespa_velutina,Portugal,Insects,established,expansion,Post-Introduction,Invasion,Invasion,2011,2010-08-21T00:00:00Z,title_description
+ioFGj7Rs0x4,2022-08-12T20:06:42Z,1730,39,1,Vespa_velutina,Portugal,Insects,established,trampa,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+ioFGj7Rs0x4,2022-08-12T20:06:42Z,1730,39,1,Vespa_velutina,Portugal,Insects,established,trampa,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+dLdj0SbAmGw,2013-02-27T21:28:55Z,15317,80,4,Vespa_velutina,Portugal,Insects,established,captura,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+dLdj0SbAmGw,2013-02-27T21:28:55Z,15317,80,4,Vespa_velutina,Portugal,Insects,established,captura,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+iBbQN0IbMFw,2018-07-19T17:30:54Z,1691,18,3,Vespa_velutina,Portugal,Insects,established,amenaza,Post-Introduction,Threat,Threat,2011,2010-08-21T00:00:00Z,title_description
+iBbQN0IbMFw,2018-07-19T17:30:54Z,1691,18,3,Vespa_velutina,Portugal,Insects,established,amenaza,Post-Introduction,Threat,Threat,2011,2010-08-21T00:00:00Z,title_description
+LHiTwT_Erd4,2016-09-08T10:27:31Z,36774,393,23,Vespa_velutina,Portugal,Insects,established,trampas,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+LHiTwT_Erd4,2016-09-08T10:27:31Z,36774,393,23,Vespa_velutina,Portugal,Insects,established,capturar,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+-pfi9WgpP5I,2020-09-17T22:51:17Z,5543,9,1,Vespa_velutina,Portugal,Insects,established,trampa,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+-pfi9WgpP5I,2020-09-17T22:51:17Z,5543,9,1,Vespa_velutina,Portugal,Insects,established,exotica,Post-Introduction,Invasion,Invasion,2011,2010-08-21T00:00:00Z,title_description
+-pfi9WgpP5I,2020-09-17T22:51:17Z,5543,9,1,Vespa_velutina,Portugal,Insects,established,invasora,Post-Introduction,Invasion,Invasion,2011,2010-08-21T00:00:00Z,title_description
+1gdN10fxh4w,2021-08-07T13:04:36Z,1717,77,8,Vespa_velutina,Portugal,Insects,established,peligro,Post-Introduction,Threat,Threat,2011,2010-08-21T00:00:00Z,title_description
+1gdN10fxh4w,2021-08-07T13:04:36Z,1717,77,8,Vespa_velutina,Portugal,Insects,established,peligro,Post-Introduction,Threat,Threat,2011,2010-08-21T00:00:00Z,title_description
+1gdN10fxh4w,2021-08-07T13:04:36Z,1717,77,8,Vespa_velutina,Portugal,Insects,established,nocivo,Post-Introduction,Threat,Threat,2011,2010-08-21T00:00:00Z,title_description
+dNz5cDZRmec,2022-11-16T14:16:36Z,37410,297,52,Vespa_velutina,Portugal,Insects,established,trampa,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+dNz5cDZRmec,2022-11-16T14:16:36Z,37410,297,52,Vespa_velutina,Portugal,Insects,established,trampas,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+xk5WCSHVjaM,2020-08-05T18:10:16Z,1901,31,5,Vespa_velutina,Portugal,Insects,established,comprar,Post-Introduction,eCommerce,eCommerce,2011,2010-08-21T00:00:00Z,title_description
+A-FamEK6zLI,2018-07-25T14:40:04Z,458,1,0,Vespa_velutina,Portugal,Insects,established,aparicion,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+aHFPSn8a_b8,2018-01-23T17:12:45Z,36781,269,42,Vespa_velutina,Portugal,Insects,established,trampa,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+4MUxKXIVdZ4,2018-03-03T20:00:30Z,2053,10,0,Vespa_velutina,Portugal,Insects,established,trampa,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+4MUxKXIVdZ4,2018-03-03T20:00:30Z,2053,10,0,Vespa_velutina,Portugal,Insects,established,trampa,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+MyOpmisPPPw,2014-11-07T10:19:36Z,11347,28,0,Vespa_velutina,Portugal,Insects,established,trampa,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+MyOpmisPPPw,2014-11-07T10:19:36Z,11347,28,0,Vespa_velutina,Portugal,Insects,established,trampa,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+-RBtQYmYb2Y,2018-02-21T19:33:33Z,24994,77,4,Vespa_velutina,Portugal,Insects,established,trampa,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+-RBtQYmYb2Y,2018-02-21T19:33:33Z,24994,77,4,Vespa_velutina,Portugal,Insects,established,introduccion,Post-Introduction,Invasion,Invasion,2011,2010-08-21T00:00:00Z,title_description
+-RBtQYmYb2Y,2018-02-21T19:33:33Z,24994,77,4,Vespa_velutina,Portugal,Insects,established,trampa,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+OP8VguxcGVs,2020-07-14T16:33:20Z,78,0,0,Vespa_velutina,Portugal,Insects,established,aparece,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+-V-GrdJ763g,2017-12-23T21:58:32Z,218,3,0,Vespa_velutina,Portugal,Insects,established,invasion,Post-Introduction,Invasion,Invasion,2011,2010-08-21T00:00:00Z,title_description
+-V-GrdJ763g,2017-12-23T21:58:32Z,218,3,0,Vespa_velutina,Portugal,Insects,established,invasion,Post-Introduction,Invasion,Invasion,2011,2010-08-21T00:00:00Z,title_description
+KeKR021fZZo,2023-08-03T21:30:09Z,11418,152,29,Vespa_velutina,Portugal,Insects,established,trampa,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+KeKR021fZZo,2023-08-03T21:30:09Z,11418,152,29,Vespa_velutina,Portugal,Insects,established,trampa,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+zTgb18KEH9c,2017-09-12T08:32:13Z,43,0,0,Vespa_velutina,Portugal,Insects,established,plaga,Post-Introduction,Invasion,Invasion,2011,2010-08-21T00:00:00Z,title_description
+JggIH_NqBC8,2020-07-23T21:24:44Z,357,25,3,Vespa_velutina,Portugal,Insects,established,plaga,Post-Introduction,Invasion,Invasion,2011,2010-08-21T00:00:00Z,title_description
+dke2ZAOwkVI,2018-09-05T13:36:22Z,148,0,0,Vespa_velutina,Portugal,Insects,established,trampa,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+DvZ_pMw_4h8,2021-02-26T22:29:23Z,841,11,2,Vespa_velutina,Portugal,Insects,established,trampa,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+DvZ_pMw_4h8,2021-02-26T22:29:23Z,841,11,2,Vespa_velutina,Portugal,Insects,established,trampa,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+DB7DsONEE6I,2021-01-03T09:10:40Z,199,3,0,Vespa_velutina,Portugal,Insects,established,deteccion,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+DB7DsONEE6I,2021-01-03T09:10:40Z,199,3,0,Vespa_velutina,Portugal,Insects,established,deteccion,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+oByEUJOElys,2019-01-02T18:21:23Z,193,3,0,Vespa_velutina,Portugal,Insects,established,trampas,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+oByEUJOElys,2019-01-02T18:21:23Z,193,3,0,Vespa_velutina,Portugal,Insects,established,capturado,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+KVBUFZ80dcM,2020-10-28T18:49:43Z,5583,62,8,Vespa_velutina,Portugal,Insects,established,trampa,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+KVBUFZ80dcM,2020-10-28T18:49:43Z,5583,62,8,Vespa_velutina,Portugal,Insects,established,trampa,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+mPxrpt5Sx7g,2023-10-13T09:32:54Z,329,20,2,Vespa_velutina,Portugal,Insects,established,aparecer,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+EyY6KodBTE0,2017-09-06T15:57:12Z,336143,2323,207,Vespa_velutina,Portugal,Insects,established,trampa,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+EyY6KodBTE0,2017-09-06T15:57:12Z,336143,2323,207,Vespa_velutina,Portugal,Insects,established,plaga,Post-Introduction,Invasion,Invasion,2011,2010-08-21T00:00:00Z,title_description
+ea1LlgZgrdY,2019-09-04T20:19:31Z,27909,117,18,Vespa_velutina,Portugal,Insects,established,ataca,Post-Introduction,Threat,Threat,2011,2010-08-21T00:00:00Z,title_description
+ea1LlgZgrdY,2019-09-04T20:19:31Z,27909,117,18,Vespa_velutina,Portugal,Insects,established,invasora,Post-Introduction,Invasion,Invasion,2011,2010-08-21T00:00:00Z,title_description
+IIsUkjurRoY,2023-12-01T14:37:44Z,451,28,5,Vespa_velutina,Portugal,Insects,established,trampa,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+IIsUkjurRoY,2023-12-01T14:37:44Z,451,28,5,Vespa_velutina,Portugal,Insects,established,trampas,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+IonZEU4limw,2024-11-14T19:30:02Z,670,35,1,Vespa_velutina,Portugal,Insects,established,peligrosa,Post-Introduction,Threat,Threat,2011,2010-08-21T00:00:00Z,title_description
+IonZEU4limw,2024-11-14T19:30:02Z,670,35,1,Vespa_velutina,Portugal,Insects,established,peligrosa,Post-Introduction,Threat,Threat,2011,2010-08-21T00:00:00Z,title_description
+7tS87EqaKCQ,2017-09-03T18:09:58Z,1358,7,3,Vespa_velutina,Portugal,Insects,established,trampas,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+YpNV9wFn3eM,2017-10-13T23:02:08Z,4454,41,1,Vespa_velutina,Portugal,Insects,established,trampa,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+rUQuKT2oQe4,2024-10-12T17:08:36Z,143,11,0,Vespa_velutina,Portugal,Insects,established,encontrado,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+0edLWEXVY60,2019-10-01T20:18:02Z,40032,124,14,Vespa_velutina,Portugal,Insects,established,armadilha,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+pCNwTCrwyTs,2023-09-02T14:00:35Z,2392,50,0,Vespa_velutina,Portugal,Insects,established,perigo,Post-Introduction,Threat,Threat,2011,2010-08-21T00:00:00Z,title_description
+pCNwTCrwyTs,2023-09-02T14:00:35Z,2392,50,0,Vespa_velutina,Portugal,Insects,established,perigo,Post-Introduction,Threat,Threat,2011,2010-08-21T00:00:00Z,title_description
+rMNsKULnkvI,2014-10-28T16:04:42Z,49,1,0,Vespa_velutina,Portugal,Insects,established,ameaca,Post-Introduction,Threat,Threat,2011,2010-08-21T00:00:00Z,title_description
+4UUCB0HUyN8,2015-07-07T17:19:14Z,718,4,0,Vespa_velutina,Portugal,Insects,established,perigo,Post-Introduction,Threat,Threat,2011,2010-08-21T00:00:00Z,title_description
+7KtLa_90YEI,2022-09-18T19:41:41Z,342,12,0,Vespa_velutina,Portugal,Insects,established,armadilha,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+2hNjDEHIqmk,2021-10-17T18:33:02Z,1489,39,0,Vespa_velutina,Portugal,Insects,established,capturada,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+2hNjDEHIqmk,2021-10-17T18:33:02Z,1489,39,0,Vespa_velutina,Portugal,Insects,established,armadilhas,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+-kuYeB2qTl4,2022-10-15T18:12:09Z,714,12,4,Vespa_velutina,Portugal,Insects,established,armadilha,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+_45XMHVEH54,2023-07-03T14:06:39Z,1470,1,0,Vespa_velutina,Portugal,Insects,established,trampas,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+_45XMHVEH54,2023-07-03T14:06:39Z,1470,1,0,Vespa_velutina,Portugal,Insects,established,trampas,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+_45XMHVEH54,2023-07-03T14:06:39Z,1470,1,0,Vespa_velutina,Portugal,Insects,established,tienda,Post-Introduction,eCommerce,eCommerce,2011,2010-08-21T00:00:00Z,title_description
+_33QU7WnpnI,2023-09-01T17:58:52Z,3773,83,41,Vespa_velutina,Portugal,Insects,established,control,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+9b5Du_UMnbs,2020-02-08T08:10:53Z,384,3,0,Vespa_velutina,Portugal,Insects,established,invasora,Post-Introduction,Invasion,Invasion,2011,2010-08-21T00:00:00Z,title_description
+zSNONsdqKS4,2021-05-06T11:12:00Z,23096,221,21,Vespa_velutina,Portugal,Insects,established,invasor,Post-Introduction,Invasion,Invasion,2011,2010-08-21T00:00:00Z,title_description
+zSNONsdqKS4,2021-05-06T11:12:00Z,23096,221,21,Vespa_velutina,Portugal,Insects,established,invasor,Post-Introduction,Invasion,Invasion,2011,2010-08-21T00:00:00Z,title_description
+xiz2AQxNB40,2015-09-11T10:36:47Z,2373,22,5,Vespa_velutina,Portugal,Insects,established,deteccion,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+xiz2AQxNB40,2015-09-11T10:36:47Z,2373,22,5,Vespa_velutina,Portugal,Insects,established,deteccion,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+bRCJpx_D1CQ,2024-01-07T10:23:31Z,28,1,0,Vespa_velutina,Portugal,Insects,established,seguimiento,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+MGHcIy-llZ4,2020-05-20T16:46:53Z,1296,17,7,Vespa_velutina,Portugal,Insects,established,trampa,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+kXSLkNGIjrs,2015-10-06T11:08:41Z,1841,2,1,Vespa_velutina,Portugal,Insects,established,detectado,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+orNFa_vM3Gc,2016-11-14T08:02:10Z,1957,11,1,Vespa_velutina,Portugal,Insects,established,control,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+-zL9qwqn12I,2020-04-28T23:04:55Z,6154,38,0,Vespa_velutina,Portugal,Insects,established,captura,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+cMt0Il8Inx4,2023-10-14T09:24:09Z,7016,78,3,Vespa_velutina,Portugal,Insects,established,exotica,Post-Introduction,Invasion,Invasion,2011,2010-08-21T00:00:00Z,title_description
+cMt0Il8Inx4,2023-10-14T09:24:09Z,7016,78,3,Vespa_velutina,Portugal,Insects,established,reciente,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+cMt0Il8Inx4,2023-10-14T09:24:09Z,7016,78,3,Vespa_velutina,Portugal,Insects,established,aparicion,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+NSqZv-ef0zo,2020-05-07T09:11:50Z,38,0,0,Vespa_velutina,Portugal,Insects,established,trampas,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+yicST4L0YkU,2016-12-08T21:03:40Z,31814,83,9,Vespa_velutina,Portugal,Insects,established,trampa,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+7xi-HT98sCg,2025-07-30T00:19:29Z,950,5,0,Vespa_velutina,Portugal,Insects,established,trampa,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+Ejc5cwIzt6A,2015-09-10T14:28:51Z,1377,3,0,Vespa_velutina,Portugal,Insects,established,atacando,Post-Introduction,Threat,Threat,2011,2010-08-21T00:00:00Z,title_description
+_vZAMWiee18,2021-10-04T14:55:45Z,350,3,0,Vespa_velutina,Portugal,Insects,established,plaga,Post-Introduction,Invasion,Invasion,2011,2010-08-21T00:00:00Z,title_description
+BWLpZtyLDws,2014-09-26T00:27:14Z,30058,77,6,Vespa_velutina,Portugal,Insects,established,trampa,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+BWLpZtyLDws,2014-09-26T00:27:14Z,30058,77,6,Vespa_velutina,Portugal,Insects,established,barato,Post-Introduction,eCommerce,eCommerce,2011,2010-08-21T00:00:00Z,title_description
+dOI1NPcXqoc,2023-07-30T18:20:51Z,507,8,3,Vespa_velutina,Portugal,Insects,established,trampas,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+dOI1NPcXqoc,2023-07-30T18:20:51Z,507,8,3,Vespa_velutina,Portugal,Insects,established,establecido,Post-Introduction,Invasion,Invasion,2011,2010-08-21T00:00:00Z,title_description
+a3uff97mg0k,2019-10-27T11:10:43Z,37065,116,13,Vespa_velutina,Portugal,Insects,established,atacando,Post-Introduction,Threat,Threat,2011,2010-08-21T00:00:00Z,title_description
+a3uff97mg0k,2019-10-27T11:10:43Z,37065,116,13,Vespa_velutina,Portugal,Insects,established,atacando,Post-Introduction,Threat,Threat,2011,2010-08-21T00:00:00Z,title_description
+GI3Yp89hKwE,2015-11-08T20:40:54Z,165,0,0,Vespa_velutina,Portugal,Insects,established,atacando,Post-Introduction,Threat,Threat,2011,2010-08-21T00:00:00Z,title_description
+mxqZQ6WedHs,2020-08-09T13:15:06Z,53,0,0,Vespa_velutina,Portugal,Insects,established,trampa,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+_rAzWNJAqEE,2021-05-09T22:25:59Z,231,6,6,Vespa_velutina,Portugal,Insects,established,avistamiento,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+_05ghdTW_lE,2020-08-11T15:43:19Z,108,2,1,Vespa_velutina,Portugal,Insects,established,plaga,Post-Introduction,Invasion,Invasion,2011,2010-08-21T00:00:00Z,title_description
+_05ghdTW_lE,2020-08-11T15:43:19Z,108,2,1,Vespa_velutina,Portugal,Insects,established,plaga,Post-Introduction,Invasion,Invasion,2011,2010-08-21T00:00:00Z,title_description
+9fuxvY7lBvk,2021-09-11T21:05:29Z,258,7,0,Vespa_velutina,Portugal,Insects,established,trampas,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+dFrLHb1KO6g,2023-09-12T11:26:50Z,68,1,0,Vespa_velutina,Portugal,Insects,established,invasora,Post-Introduction,Invasion,Invasion,2011,2010-08-21T00:00:00Z,title_description
+cLNTSHUIxtU,2023-12-28T16:01:08Z,205,2,0,Vespa_velutina,Portugal,Insects,established,controlar,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+5CMRhkVijC4,2023-04-06T13:15:01Z,172,6,2,Vespa_velutina,Portugal,Insects,established,armadilhas,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+9nu61xIRnpU,2022-02-24T12:13:53Z,201,2,0,Vespa_velutina,Portugal,Insects,established,nativa,Post-Introduction,Invasion,Invasion,2011,2010-08-21T00:00:00Z,title_description
+9nu61xIRnpU,2022-02-24T12:13:53Z,201,2,0,Vespa_velutina,Portugal,Insects,established,captura,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+ydqO1YpdixA,2021-07-26T18:44:57Z,1015,34,13,Vespa_velutina,Portugal,Insects,established,invasora,Post-Introduction,Invasion,Invasion,2011,2010-08-21T00:00:00Z,title_description
+GLv0CmVXyzc,2015-11-10T08:51:19Z,19857,72,8,Vespa_velutina,Portugal,Insects,established,contaminacion,Post-Introduction,Threat,Threat,2011,2010-08-21T00:00:00Z,title_description
+cvIZUlZjzoc,2023-05-10T20:00:17Z,495,12,0,Vespa_velutina,Portugal,Insects,established,armadilhas,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+cvIZUlZjzoc,2023-05-10T20:00:17Z,495,12,0,Vespa_velutina,Portugal,Insects,established,armadilhas,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+W3J9V4rUEaQ,2017-03-22T21:56:22Z,1377,15,1,Vespa_velutina,Portugal,Insects,established,invasion,Post-Introduction,Invasion,Invasion,2011,2010-08-21T00:00:00Z,title_description
+W3J9V4rUEaQ,2017-03-22T21:56:22Z,1377,15,1,Vespa_velutina,Portugal,Insects,established,control,Post-Introduction,Detection,Detection,2011,2010-08-21T00:00:00Z,title_description
+rE2DgMtB3VE,2024-08-06T19:30:05Z,12879,667,29,Wasmannia_auropunctata,Spain,Insects,established,invasora,Post-Introduction,Invasion,Invasion,2018,2018-05-12T00:00:00Z,title_description
+Z2qq3d_C1Zw,2025-01-20T18:00:32Z,1552,104,7,Wasmannia_auropunctata,Spain,Insects,established,alerta,Post-Introduction,Detection,Detection,2018,2018-05-12T00:00:00Z,title_description
+Z2qq3d_C1Zw,2025-01-20T18:00:32Z,1552,104,7,Wasmannia_auropunctata,Spain,Insects,established,exotica,Post-Introduction,Invasion,Invasion,2018,2018-05-12T00:00:00Z,title_description
+Z2qq3d_C1Zw,2025-01-20T18:00:32Z,1552,104,7,Wasmannia_auropunctata,Spain,Insects,established,invasora,Post-Introduction,Invasion,Invasion,2018,2018-05-12T00:00:00Z,title_description
+Z2qq3d_C1Zw,2025-01-20T18:00:32Z,1552,104,7,Wasmannia_auropunctata,Spain,Insects,established,alerta,Post-Introduction,Detection,Detection,2018,2018-05-12T00:00:00Z,title_description
+Z2qq3d_C1Zw,2025-01-20T18:00:32Z,1552,104,7,Wasmannia_auropunctata,Spain,Insects,established,exotica,Post-Introduction,Invasion,Invasion,2018,2018-05-12T00:00:00Z,title_description
+Z2qq3d_C1Zw,2025-01-20T18:00:32Z,1552,104,7,Wasmannia_auropunctata,Spain,Insects,established,peligrosa,Post-Introduction,Threat,Threat,2018,2018-05-12T00:00:00Z,title_description
+Z2qq3d_C1Zw,2025-01-20T18:00:32Z,1552,104,7,Wasmannia_auropunctata,Spain,Insects,established,invasora,Post-Introduction,Invasion,Invasion,2018,2018-05-12T00:00:00Z,title_description
+S_O9vFae6Cs,2023-02-02T11:26:37Z,204,1,0,Xylella_fastidiosa,Spain,"Bacteria, Viruses, Fungi",alien,amenaza,Post-Introduction,Threat,Threat,2016,2016-11-01T00:00:00Z,title_description
+g-XyOgYOQJw,2018-02-26T09:19:15Z,2593,8,2,Xylella_fastidiosa,Spain,"Bacteria, Viruses, Fungi",alien,plaga,Post-Introduction,Invasion,Invasion,2016,2016-11-01T00:00:00Z,title_description
+yfJqU1HcRn8,2021-06-17T08:10:24Z,246,6,0,Xylella_fastidiosa,Spain,"Bacteria, Viruses, Fungi",alien,introduccion,Post-Introduction,Invasion,Invasion,2016,2016-11-01T00:00:00Z,title_description
+l8plY-qj178,2018-10-16T15:12:45Z,2279,,,Xylella_fastidiosa,Spain,"Bacteria, Viruses, Fungi",alien,detectado,Post-Introduction,Detection,Detection,2016,2016-11-01T00:00:00Z,title_description
+Rfx559jjDQE,2018-04-17T21:58:28Z,115,0,0,Xylella_fastidiosa,Spain,"Bacteria, Viruses, Fungi",alien,detectada,Post-Introduction,Detection,Detection,2016,2016-11-01T00:00:00Z,title_description
+6m6v0mhbc7g,2019-03-12T16:15:10Z,1622,11,1,Xylella_fastidiosa,Spain,"Bacteria, Viruses, Fungi",alien,amenaza,Post-Introduction,Threat,Threat,2016,2016-11-01T00:00:00Z,title_description
+6m6v0mhbc7g,2019-03-12T16:15:10Z,1622,11,1,Xylella_fastidiosa,Spain,"Bacteria, Viruses, Fungi",alien,deteccion,Post-Introduction,Detection,Detection,2016,2016-11-01T00:00:00Z,title_description
+qb6Sb9OWWZE,2018-04-13T17:03:16Z,86,0,0,Xylella_fastidiosa,Spain,"Bacteria, Viruses, Fungi",alien,control,Post-Introduction,Detection,Detection,2016,2016-11-01T00:00:00Z,title_description
+4pFS5ltwVmc,2017-09-23T14:36:19Z,1657,27,3,Xylella_fastidiosa,Spain,"Bacteria, Viruses, Fungi",alien,amenaza,Post-Introduction,Threat,Threat,2016,2016-11-01T00:00:00Z,title_description
+HphyOP_Iv1w,2019-09-19T15:49:45Z,227,1,0,Xylella_fastidiosa,Spain,"Bacteria, Viruses, Fungi",alien,deteccion,Post-Introduction,Detection,Detection,2016,2016-11-01T00:00:00Z,title_description
+TW2rFo6JxHM,2017-09-28T09:53:58Z,187,0,,Xylella_fastidiosa,Spain,"Bacteria, Viruses, Fungi",alien,deteccion,Post-Introduction,Detection,Detection,2016,2016-11-01T00:00:00Z,title_description
+m2KiRkwK63M,2023-12-01T09:26:20Z,52,2,0,Xylella_fastidiosa,Spain,"Bacteria, Viruses, Fungi",alien,control,Post-Introduction,Detection,Detection,2016,2016-11-01T00:00:00Z,title_description
+05j1Or7IQVk,2018-06-21T07:54:08Z,2682,21,,Xylella_fastidiosa,Spain,"Bacteria, Viruses, Fungi",alien,plaga,Post-Introduction,Invasion,Invasion,2016,2016-11-01T00:00:00Z,title_description
+viYuWMawDfg,2017-07-07T10:44:51Z,5617,15,,Xylella_fastidiosa,Spain,"Bacteria, Viruses, Fungi",alien,peligrosa,Post-Introduction,Threat,Threat,2016,2016-11-01T00:00:00Z,title_description
+viYuWMawDfg,2017-07-07T10:44:51Z,5617,15,,Xylella_fastidiosa,Spain,"Bacteria, Viruses, Fungi",alien,peligrosa,Post-Introduction,Threat,Threat,2016,2016-11-01T00:00:00Z,title_description
+gZhW1bVZqxE,2015-09-10T18:03:51Z,530,2,0,Xylella_fastidiosa,Spain,"Bacteria, Viruses, Fungi",alien,contaminacion,Pre-Introduction,Threat,Threat,2016,2016-11-01T00:00:00Z,title_description
+p7F7_fNP-wg,2017-07-18T07:46:18Z,524,3,,Xylella_fastidiosa,Spain,"Bacteria, Viruses, Fungi",alien,deteccion,Post-Introduction,Detection,Detection,2016,2016-11-01T00:00:00Z,title_description
+_IwJ_rx1heQ,2018-04-18T08:54:33Z,132,1,0,Xylella_fastidiosa,Spain,"Bacteria, Viruses, Fungi",alien,detectado,Post-Introduction,Detection,Detection,2016,2016-11-01T00:00:00Z,title_description
+xO_hcnZATPE,2021-04-07T12:30:50Z,1540,20,3,Xylella_fastidiosa,Spain,"Bacteria, Viruses, Fungi",alien,vector,Post-Introduction,Threat,Threat,2016,2016-11-01T00:00:00Z,title_description
+gMWBxqjnwas,2017-06-30T17:13:07Z,1089,,,Xylella_fastidiosa,Spain,"Bacteria, Viruses, Fungi",alien,deteccion,Post-Introduction,Detection,Detection,2016,2016-11-01T00:00:00Z,title_description
+Ui-Igq0Sb9g,2018-01-08T07:46:03Z,544,2,0,Xylella_fastidiosa,Spain,"Bacteria, Viruses, Fungi",alien,control,Post-Introduction,Detection,Detection,2016,2016-11-01T00:00:00Z,title_description
+QIbiwO6j7ho,2021-07-15T06:57:56Z,180,3,0,Xylella_fastidiosa,Spain,"Bacteria, Viruses, Fungi",alien,plaga,Post-Introduction,Invasion,Invasion,2016,2016-11-01T00:00:00Z,title_description
+QIbiwO6j7ho,2021-07-15T06:57:56Z,180,3,0,Xylella_fastidiosa,Spain,"Bacteria, Viruses, Fungi",alien,plaga,Post-Introduction,Invasion,Invasion,2016,2016-11-01T00:00:00Z,title_description
+uJG6A6al2gw,2015-01-26T10:13:34Z,149,0,0,Xylella_fastidiosa,Spain,"Bacteria, Viruses, Fungi",alien,amenaza,Pre-Introduction,Threat,Threat,2016,2016-11-01T00:00:00Z,title_description
+gELI4tb9-p0,2024-08-12T17:50:27Z,907,30,0,Xylella_fastidiosa,Spain,"Bacteria, Viruses, Fungi",alien,peligro,Post-Introduction,Threat,Threat,2016,2016-11-01T00:00:00Z,title_description
+_gqVuRWWzDc,2015-02-17T09:39:56Z,89,0,0,Xylella_fastidiosa,Spain,"Bacteria, Viruses, Fungi",alien,amenaza,Pre-Introduction,Threat,Threat,2016,2016-11-01T00:00:00Z,title_description
+vgnBsqYB_zQ,2017-07-20T15:42:43Z,279,1,0,Xylella_fastidiosa,Spain,"Bacteria, Viruses, Fungi",alien,plaga,Post-Introduction,Invasion,Invasion,2016,2016-11-01T00:00:00Z,title_description
+vgnBsqYB_zQ,2017-07-20T15:42:43Z,279,1,0,Xylella_fastidiosa,Spain,"Bacteria, Viruses, Fungi",alien,controlada,Post-Introduction,Detection,Detection,2016,2016-11-01T00:00:00Z,title_description
+syppJTqj234,2024-04-24T09:03:49Z,58,0,0,Xylella_fastidiosa,Spain,"Bacteria, Viruses, Fungi",alien,plaga,Post-Introduction,Invasion,Invasion,2016,2016-11-01T00:00:00Z,title_description
+K3P7PZgZD_M,2019-09-19T15:49:45Z,224,5,0,Xylella_fastidiosa,Spain,"Bacteria, Viruses, Fungi",alien,deteccion,Post-Introduction,Detection,Detection,2016,2016-11-01T00:00:00Z,title_description
+WDffmcwsets,2023-05-18T11:27:48Z,89,,,Xylella_fastidiosa,Spain,"Bacteria, Viruses, Fungi",alien,manejo,Post-Introduction,Detection,Detection,2016,2016-11-01T00:00:00Z,title_description
+WDffmcwsets,2023-05-18T11:27:48Z,89,,,Xylella_fastidiosa,Spain,"Bacteria, Viruses, Fungi",alien,plagas,Post-Introduction,Invasion,Invasion,2016,2016-11-01T00:00:00Z,title_description
+H313dWnAYls,2019-09-25T12:57:25Z,38,1,1,Xylella_fastidiosa,Spain,"Bacteria, Viruses, Fungi",alien,control,Post-Introduction,Detection,Detection,2016,2016-11-01T00:00:00Z,title_description
+8p6fZm1oLkk,2017-03-02T12:23:25Z,7,0,0,Xylella_fastidiosa,Spain,"Bacteria, Viruses, Fungi",alien,adoptadas,Post-Introduction,eCommerce,eCommerce,2016,2016-11-01T00:00:00Z,title_description
+Y2VcXiJCWig,2019-09-19T15:49:45Z,569,5,0,Xylella_fastidiosa,Spain,"Bacteria, Viruses, Fungi",alien,deteccion,Post-Introduction,Detection,Detection,2016,2016-11-01T00:00:00Z,title_description
+AmTtHOTTenc,2023-01-16T10:29:05Z,306,4,0,Xylella_fastidiosa,Spain,"Bacteria, Viruses, Fungi",alien,perigosa,Post-Introduction,Threat,Threat,2016,2016-11-01T00:00:00Z,title_description
+AmTtHOTTenc,2023-01-16T10:29:05Z,306,4,0,Xylella_fastidiosa,Spain,"Bacteria, Viruses, Fungi",alien,ataca,Post-Introduction,Threat,Threat,2016,2016-11-01T00:00:00Z,title_description
+AmTtHOTTenc,2023-01-16T10:29:05Z,306,4,0,Xylella_fastidiosa,Spain,"Bacteria, Viruses, Fungi",alien,risco,Post-Introduction,Threat,Threat,2016,2016-11-01T00:00:00Z,title_description
+uYklTk2zlBM,2023-02-27T14:32:48Z,505,6,0,Xylella_fastidiosa,Spain,"Bacteria, Viruses, Fungi",alien,controlo,Post-Introduction,Detection,Detection,2016,2016-11-01T00:00:00Z,title_description
+uYklTk2zlBM,2023-02-27T14:32:48Z,505,6,0,Xylella_fastidiosa,Spain,"Bacteria, Viruses, Fungi",alien,identificada,Post-Introduction,Detection,Detection,2016,2016-11-01T00:00:00Z,title_description
+uYklTk2zlBM,2023-02-27T14:32:48Z,505,6,0,Xylella_fastidiosa,Spain,"Bacteria, Viruses, Fungi",alien,recentemente,Post-Introduction,Detection,Detection,2016,2016-11-01T00:00:00Z,title_description
+hM6LMZypJlc,2021-03-17T08:44:12Z,32,3,0,Xylella_fastidiosa,Spain,"Bacteria, Viruses, Fungi",alien,dispersion,Post-Introduction,Invasion,Invasion,2016,2016-11-01T00:00:00Z,title_description
+hM6LMZypJlc,2021-03-17T08:44:12Z,32,3,0,Xylella_fastidiosa,Spain,"Bacteria, Viruses, Fungi",alien,vector,Post-Introduction,Threat,Threat,2016,2016-11-01T00:00:00Z,title_description
+fDy5JE1CTho,2019-09-19T15:49:45Z,96,1,0,Xylella_fastidiosa,Spain,"Bacteria, Viruses, Fungi",alien,deteccion,Post-Introduction,Detection,Detection,2016,2016-11-01T00:00:00Z,title_description
+ZSAOzdkREHc,2023-11-29T12:35:31Z,29,0,0,Xylella_fastidiosa,Spain,"Bacteria, Viruses, Fungi",alien,deteccion,Post-Introduction,Detection,Detection,2016,2016-11-01T00:00:00Z,title_description
+HksBW5FTwIc,2019-09-25T12:25:38Z,44,0,0,Xylella_fastidiosa,Spain,"Bacteria, Viruses, Fungi",alien,expansion,Post-Introduction,Invasion,Invasion,2016,2016-11-01T00:00:00Z,title_description
+IYh9y07_OGw,2023-12-01T09:28:00Z,90,0,0,Xylella_fastidiosa,Spain,"Bacteria, Viruses, Fungi",alien,control,Post-Introduction,Detection,Detection,2016,2016-11-01T00:00:00Z,title_description
+xXvuoqzU99U,2023-05-21T15:46:43Z,1625,38,5,Zebrasoma_flavescens,Spain,Fishes,uncertain,acuario,Post-Introduction,eCommerce,eCommerce,2008,2008-06-01T00:00:00Z,title_description
+vgW4G7HGYQ4,2017-05-19T16:35:15Z,43,2,2,Zebrasoma_flavescens,Spain,Fishes,uncertain,acuario,Post-Introduction,eCommerce,eCommerce,2008,2008-06-01T00:00:00Z,title_description
+7z5B_s3A-bk,2010-02-27T05:40:35Z,864,3,0,Zebrasoma_flavescens,Spain,Fishes,uncertain,acuario,Post-Introduction,eCommerce,eCommerce,2008,2008-06-01T00:00:00Z,title_description
+tUfHmSiesqw,2017-10-30T08:35:08Z,6060,176,34,Zebrasoma_flavescens,Spain,Fishes,uncertain,acuario,Post-Introduction,eCommerce,eCommerce,2008,2008-06-01T00:00:00Z,title_description
+tUfHmSiesqw,2017-10-30T08:35:08Z,6060,176,34,Zebrasoma_flavescens,Spain,Fishes,uncertain,acuario,Post-Introduction,eCommerce,eCommerce,2008,2008-06-01T00:00:00Z,title_description
+tUfHmSiesqw,2017-10-30T08:35:08Z,6060,176,34,Zebrasoma_flavescens,Spain,Fishes,uncertain,acuario,Post-Introduction,eCommerce,eCommerce,2008,2008-06-01T00:00:00Z,title_description
+tUfHmSiesqw,2017-10-30T08:35:08Z,6060,176,34,Zebrasoma_flavescens,Spain,Fishes,uncertain,acuario,Post-Introduction,eCommerce,eCommerce,2008,2008-06-01T00:00:00Z,title_description
+9Dcqn-Xems0,2021-09-25T08:19:08Z,264,6,0,Zebrasoma_flavescens,Spain,Fishes,uncertain,tienda,Post-Introduction,eCommerce,eCommerce,2008,2008-06-01T00:00:00Z,title_description
+9Dcqn-Xems0,2021-09-25T08:19:08Z,264,6,0,Zebrasoma_flavescens,Spain,Fishes,uncertain,precio,Post-Introduction,eCommerce,eCommerce,2008,2008-06-01T00:00:00Z,title_description
+LV2RwawumF0,2015-09-26T06:48:47Z,896,0,0,Zebrasoma_flavescens,Spain,Fishes,uncertain,acuario,Post-Introduction,eCommerce,eCommerce,2008,2008-06-01T00:00:00Z,title_description
+P2P8AhN9D7E,2014-10-29T09:51:01Z,88,0,0,Zebrasoma_flavescens,Spain,Fishes,uncertain,acuarios,Post-Introduction,eCommerce,eCommerce,2008,2008-06-01T00:00:00Z,title_description
+jZbaH-16K7o,2016-07-01T15:14:23Z,244,9,2,Zebrasoma_flavescens,Spain,Fishes,uncertain,acuario,Post-Introduction,eCommerce,eCommerce,2008,2008-06-01T00:00:00Z,title_description
+2TyOkVtY-cI,2012-01-08T16:36:30Z,2475,7,1,Zebrasoma_flavescens,Spain,Fishes,uncertain,acuario,Post-Introduction,eCommerce,eCommerce,2008,2008-06-01T00:00:00Z,title_description
+GJgsCRxaCdc,2017-10-07T18:33:51Z,1233,4,0,Zebrasoma_flavescens,Spain,Fishes,uncertain,aquario,Post-Introduction,eCommerce,eCommerce,2008,2008-06-01T00:00:00Z,title_description
