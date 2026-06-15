@@ -78,3 +78,8 @@ These scripts are included for transparency. The frozen manuscript analyses use 
 ## Reproducible dataset-count summary
 
 Dataset-layer counts used in the manuscript can be regenerated with `scripts/16_dataset_summary_counts.R`, which writes `outputs/validation/dataset_layer_summary_counts.csv` and `outputs/validation/dataset_layer_summary_for_manuscript.csv`.
+
+
+## Species and search-term files
+
+Supplementary species-list and search-term inputs are stored in `data/species_input/`. See `docs/SPECIES_AND_SEARCH_TERMS_GUIDE.md` for details. These files document the curated first-record table used to define the study search scope and the ungrouped scientific/vernacular search terms used for YouTube retrieval.

@@ -2,6 +2,15 @@
 
 This folder contains the curated data files needed to reproduce the manuscript workflow and a small set of upstream preparation files that document how the candidate video pool was filtered.
 
+## `species_input/`
+
+Species-list and search-term input files:
+
+- `iberian_nns_first_records_filtered_for_search.csv`: machine-readable curated Iberian first-record table used to define the study search scope.
+- `iberian_nns_first_records_filtered_for_search.xlsx`: Excel version of the same curated table, retaining the original visual colour coding used during curation.
+- `youtube_search_terms_ungrouped.csv`: one-column list of scientific names, vernacular names, and spelling variants used as YouTube search terms.
+- `README.md`: notes on interpretation and provenance of the species/search-term files.
+
 ## `paper_input/`
 
 Main analysis inputs used directly by the scripts:
