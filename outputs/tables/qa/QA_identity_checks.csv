@@ -1,0 +1,9 @@
+LifeForm,ok_Neff,ok_invHHI,ok_Hnorm,ok_H_vegan,ok_Hnorm_vegan,ok_NeffH_vegan
+Birds,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+Herptiles,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+Fishes,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+Insects,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+Crustaceans,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+Non-arthropod invertebrates,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+Plants,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+"Bacteria, Viruses, Fungi",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
