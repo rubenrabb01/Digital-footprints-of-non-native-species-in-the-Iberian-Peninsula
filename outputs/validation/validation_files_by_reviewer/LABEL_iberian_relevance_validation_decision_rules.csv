@@ -1,4 +1,0 @@
-decision,meaning
-TRUE,"Retain: metadata indicates geotagged Iberia, Iberian uploader/channel, filmed in Iberia, or explicit reference to Iberian places/events/monitoring/trade/management/discourse."
-FALSE,"Exclude: species mention unrelated, geographic context clearly non-Iberian, not biologically/ecologically relevant, or Iberian relevance cannot be established."
-UNCERTAIN,"Use only when the record cannot be confidently retained or excluded; these records are counted separately as uncertainty, not as confirmed positives."
