@@ -1,0 +1,10 @@
+Taxonomic group,HHI,invHHInorm (0-1),H,Hnorm (0-1),Neff (1/HHI),Neff (exp(H))
+Insects,0.005,0.99773,5.751,0.958,211.5,314.5
+Herptiles,0.019,0.99168,4.269,0.944,52.4,71.5
+"Bacteria, Viruses, Fungi",0.025,0.9887,4.027,0.939,40.3,56.1
+Non-arthropod invertebrates,0.062,0.98438,2.947,0.968,16,19
+Fishes,0.036,0.98417,3.681,0.946,27.8,39.7
+Crustaceans,0.093,0.96786,2.593,0.935,10.8,13.4
+Birds,0.036,0.96751,4.789,0.84,28,120.2
+Plants,0.053,0.95773,3.811,0.847,18.9,45.2
+Total,NA,NA,NA,NA,NA,NA

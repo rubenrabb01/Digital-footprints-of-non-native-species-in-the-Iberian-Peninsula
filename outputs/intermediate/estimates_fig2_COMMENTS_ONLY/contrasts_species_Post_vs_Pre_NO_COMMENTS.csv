@@ -1,0 +1,5 @@
+time_period_pairwise,category,odds.ratio,SE,df,null,z.ratio,p.value
+(Post-Introduction) / (Pre-Introduction),Detection,2.018913647932006,1.3238630119259138,Inf,1,1.0714153118145593,0.28398273108672417
+(Post-Introduction) / (Pre-Introduction),eCommerce,0.0576207510042131,0.030613648001823215,Inf,1,-5.371534866191722,7.806926920620606e-8
+(Post-Introduction) / (Pre-Introduction),Invasion,NA,NA,NA,1,NA,NA
+(Post-Introduction) / (Pre-Introduction),Threat,0.9119960387387614,0.5168755633569517,Inf,1,-0.16253958554007378,0.8708809579606708

@@ -1,0 +1,751 @@
+video_id,TaxonName,LifeForm,PresentStatus,word,category,time_period,created_at
+video_015544,Acridotheres cristatellus,Birds,established,exotica,Invasion,Post-Introduction,2024-10-05T18:10:53Z
+video_008181,Acridotheres cristatellus,Birds,established,exotica,Invasion,Post-Introduction,2019-08-21T19:36:28Z
+video_008181,Acridotheres cristatellus,Birds,established,introduzida,Invasion,Post-Introduction,2019-08-21T19:36:28Z
+video_004480,Acridotheres cristatellus,Birds,established,exotica,Invasion,Post-Introduction,2024-08-14T17:22:07Z
+video_012517,Acridotheres cristatellus,Birds,established,exotica,Invasion,Post-Introduction,2024-08-14T17:24:40Z
+video_011966,Acridotheres cristatellus,Birds,established,exotica,Invasion,Post-Introduction,2019-05-01T19:45:38Z
+video_016293,Aedes aegypti,Insects,established,peligro,Threat,Post-Introduction,2024-09-26T14:06:21Z
+video_002322,Aedes aegypti,Insects,established,introducao,Invasion,Post-Introduction,2013-04-04T17:41:01Z
+video_002322,Aedes aegypti,Insects,established,vetor,Threat,Post-Introduction,2013-04-04T17:41:01Z
+video_002027,Aedes aegypti,Insects,established,introducao,Invasion,Post-Introduction,2013-04-04T19:55:13Z
+video_002027,Aedes aegypti,Insects,established,vetor,Threat,Post-Introduction,2013-04-04T19:55:13Z
+video_005528,Agapornis fischeri,Birds,alien,tienda,eCommerce,Post-Introduction,2020-10-03T13:00:03Z
+video_009822,Agapornis fischeri,Birds,alien,vista,Detection,Post-Introduction,2021-07-26T12:29:30Z
+video_000195,Agapornis nigrigenis,Birds,alien,jaula,eCommerce,Post-Introduction,2017-11-29T20:50:10Z
+video_012364,Amazona farinosa,Birds,alien,peligro,Threat,Post-Introduction,2014-04-26T18:13:37Z
+video_003746,Amazona ochrocephala,Birds,alien,mascota,eCommerce,Post-Introduction,2020-06-14T06:46:39Z
+video_008476,Amazona ochrocephala,Birds,alien,exotico,Invasion,Post-Introduction,2024-05-12T19:00:20Z
+video_011901,Aratinga jandaya,Birds,alien,mascota,eCommerce,Post-Introduction,2015-07-29T09:16:19Z
+video_002260,Balistoides conspicillum,Fishes,uncertain,aquario,eCommerce,Post-Introduction,2017-10-13T13:49:58Z
+video_011025,Balistoides conspicillum,Fishes,uncertain,acuario,eCommerce,Post-Introduction,2025-04-14T04:00:49Z
+video_006641,Belonochilus numenius,Insects,established,plaga,Invasion,Post-Introduction,2015-07-09T10:23:37Z
+video_006641,Belonochilus numenius,Insects,established,ataca,Threat,Post-Introduction,2015-07-09T10:23:37Z
+video_004411,Bemisia tabaci,Insects,alien,aparecer,Detection,Post-Introduction,2022-07-18T11:12:38Z
+video_010057,Bemisia tabaci,Insects,alien,aparicion,Detection,Post-Introduction,2022-10-19T06:40:47Z
+video_000661,Bemisia tabaci,Insects,alien,control,Detection,Post-Introduction,2019-01-18T23:44:12Z
+video_000661,Bemisia tabaci,Insects,alien,plagas,Invasion,Post-Introduction,2019-01-18T23:44:12Z
+video_009316,Bemisia tabaci,Insects,alien,plaga,Invasion,Post-Introduction,2020-07-14T07:07:36Z
+video_014013,Bemisia tabaci,Insects,alien,aparecer,Detection,Post-Introduction,2023-08-08T19:30:09Z
+video_005392,Bemisia tabaci,Insects,alien,trampas,Detection,Post-Introduction,2013-06-21T00:14:42Z
+video_005392,Bemisia tabaci,Insects,alien,plagas,Invasion,Post-Introduction,2013-06-21T00:14:42Z
+video_015872,Bemisia tabaci,Insects,alien,plagas,Invasion,Post-Introduction,2022-04-03T18:15:02Z
+video_011745,Bemisia tabaci,Insects,alien,plaga,Invasion,Post-Introduction,2023-07-28T22:00:15Z
+video_011745,Bemisia tabaci,Insects,alien,ataca,Threat,Post-Introduction,2023-07-28T22:00:15Z
+video_004787,Bemisia tabaci,Insects,alien,plagas,Invasion,Post-Introduction,2020-09-02T06:27:41Z
+video_013669,Bemisia tabaci,Insects,alien,plaga,Invasion,Post-Introduction,2023-03-16T19:50:16Z
+video_013669,Bemisia tabaci,Insects,alien,plagas,Invasion,Post-Introduction,2023-03-16T19:50:16Z
+video_013669,Bemisia tabaci,Insects,alien,descuento,eCommerce,Post-Introduction,2023-03-16T19:50:16Z
+video_013574,Bemisia tabaci,Insects,alien,plagas,Invasion,Post-Introduction,2019-04-25T15:58:16Z
+video_011247,Bemisia tabaci,Insects,alien,trampa,Detection,Post-Introduction,2025-06-17T07:06:08Z
+video_011247,Bemisia tabaci,Insects,alien,trampas,Detection,Post-Introduction,2025-06-17T07:06:08Z
+video_001642,Bemisia tabaci,Insects,alien,control,Detection,Post-Introduction,2016-10-13T19:01:12Z
+video_012614,Bemisia tabaci,Insects,alien,plagas,Invasion,Post-Introduction,2022-10-14T07:47:25Z
+video_006219,Bemisia tabaci,Insects,alien,trampa,Detection,Post-Introduction,2023-07-14T12:11:49Z
+video_005419,Bemisia tabaci,Insects,alien,trampa,Detection,Post-Introduction,2012-03-29T17:16:03Z
+video_005419,Bemisia tabaci,Insects,alien,plagas,Invasion,Post-Introduction,2012-03-29T17:16:03Z
+video_001869,Bemisia tabaci,Insects,alien,controlar,Detection,Post-Introduction,2015-05-22T21:58:57Z
+video_001869,Bemisia tabaci,Insects,alien,plagas,Invasion,Post-Introduction,2015-05-22T21:58:57Z
+video_001869,Bemisia tabaci,Insects,alien,trampas,Detection,Post-Introduction,2015-05-22T21:58:57Z
+video_013843,Bemisia tabaci,Insects,alien,control,Detection,Post-Introduction,2024-12-02T12:23:13Z
+video_013843,Bemisia tabaci,Insects,alien,plaga,Invasion,Post-Introduction,2024-12-02T12:23:13Z
+video_012696,Bemisia tabaci,Insects,alien,plagas,Invasion,Post-Introduction,2022-05-25T22:21:15Z
+video_004946,Bemisia tabaci,Insects,alien,trampas,Detection,Post-Introduction,2023-06-21T05:13:31Z
+video_004946,Bemisia tabaci,Insects,alien,plagas,Invasion,Post-Introduction,2023-06-21T05:13:31Z
+video_000858,Bemisia tabaci,Insects,alien,control,Detection,Post-Introduction,2020-10-15T20:16:57Z
+video_012096,Bemisia tabaci,Insects,alien,plagas,Invasion,Post-Introduction,2018-06-21T16:00:03Z
+video_000905,Bemisia tabaci,Insects,alien,plaga,Invasion,Post-Introduction,2018-06-08T01:19:37Z
+video_000930,Bemisia tabaci,Insects,alien,plagas,Invasion,Post-Introduction,2020-07-09T12:40:13Z
+video_016865,Branta canadensis,Birds,established,peligroso,Threat,Post-Introduction,2022-05-08T11:19:04Z
+video_016465,Branta canadensis,Birds,established,nativa,Invasion,Post-Introduction,2024-02-24T15:00:54Z
+video_016465,Branta canadensis,Birds,established,introduzida,Invasion,Post-Introduction,2024-02-24T15:00:54Z
+video_009308,Bursaphelenchus xylophilus,Non-arthropod invertebrates,established,control,Detection,Post-Introduction,2023-08-24T13:00:33Z
+video_009308,Bursaphelenchus xylophilus,Non-arthropod invertebrates,established,nocivo,Threat,Post-Introduction,2023-08-24T13:00:33Z
+video_009263,Bursaphelenchus xylophilus,Non-arthropod invertebrates,established,praga,Invasion,Post-Introduction,2010-05-11T16:19:54Z
+video_006589,Caloenas nicobarica,Birds,casual,exotica,Invasion,Post-Introduction,2024-10-06T21:34:22Z
+video_007463,Caracara plancus,Birds,casual,avistamiento,Detection,Post-Introduction,2024-03-06T22:01:42Z
+video_011330,Caracara plancus,Birds,casual,avistamiento,Detection,Post-Introduction,2024-02-07T17:51:59Z
+video_006562,Caracara plancus,Birds,casual,avistamiento,Detection,Post-Introduction,2024-01-11T23:33:32Z
+video_014126,Caracara plancus,Birds,casual,avistamiento,Detection,Post-Introduction,2023-11-27T22:19:32Z
+video_016920,Ceratitis capitata,Insects,established,trampa,Detection,Post-Introduction,2021-11-13T11:00:34Z
+video_000957,Ceratitis capitata,Insects,established,control,Detection,Post-Introduction,2024-03-26T12:13:34Z
+video_000957,Ceratitis capitata,Insects,established,monitoreo,Detection,Post-Introduction,2024-03-26T12:13:34Z
+video_000957,Ceratitis capitata,Insects,established,trampa,Detection,Post-Introduction,2024-03-26T12:13:34Z
+video_003968,Ceratitis capitata,Insects,established,trampa,Detection,Post-Introduction,2019-12-19T22:03:56Z
+video_012807,Ceratitis capitata,Insects,established,plaga,Invasion,Post-Introduction,2021-10-28T11:36:46Z
+video_004688,Ceratitis capitata,Insects,established,plagas,Invasion,Post-Introduction,2022-11-01T11:30:07Z
+video_003439,Ceratitis capitata,Insects,established,armadilha,Detection,Post-Introduction,2025-08-01T11:15:18Z
+video_003439,Ceratitis capitata,Insects,established,capturar,Detection,Post-Introduction,2025-08-01T11:15:18Z
+video_002323,Ceratitis capitata,Insects,established,plaga,Invasion,Post-Introduction,2024-07-16T19:00:04Z
+video_002323,Ceratitis capitata,Insects,established,peligrosa,Threat,Post-Introduction,2024-07-16T19:00:04Z
+video_004490,Ceratitis capitata,Insects,established,trampas,Detection,Post-Introduction,2019-07-24T15:18:05Z
+video_001950,Ceratitis capitata,Insects,established,manejo,Detection,Post-Introduction,2024-07-22T16:51:06Z
+video_001950,Ceratitis capitata,Insects,established,plaga,Invasion,Post-Introduction,2024-07-22T16:51:06Z
+video_016678,Ceratitis capitata,Insects,established,trampas,Detection,Post-Introduction,2011-08-23T00:03:44Z
+video_017018,Ceratitis capitata,Insects,established,plaga,Invasion,Post-Introduction,2017-06-16T18:14:43Z
+video_017018,Ceratitis capitata,Insects,established,plagues,Invasion,Post-Introduction,2017-06-16T18:14:43Z
+video_010705,Ceratitis capitata,Insects,established,mercado,eCommerce,Post-Introduction,2024-01-24T19:34:15Z
+video_015845,Cherax quadricarinatus,Crustaceans,alien,acuario,eCommerce,Post-Introduction,2016-10-04T17:47:41Z
+video_010302,Cherax quadricarinatus,Crustaceans,alien,aquario,eCommerce,Post-Introduction,2014-01-05T19:13:06Z
+video_010302,Cherax quadricarinatus,Crustaceans,alien,capturados,Detection,Post-Introduction,2014-01-05T19:13:06Z
+video_011764,Cherax quadricarinatus,Crustaceans,alien,acuario,eCommerce,Post-Introduction,2019-10-14T18:38:55Z
+video_008657,Cherax quadricarinatus,Crustaceans,alien,mascota,eCommerce,Post-Introduction,2025-03-08T17:00:36Z
+video_017053,Cherax quadricarinatus,Crustaceans,alien,acuario,eCommerce,Pre-Introduction,2008-09-28T21:57:15Z
+video_016640,Cherax quadricarinatus,Crustaceans,alien,acuario,eCommerce,Post-Introduction,2021-01-24T21:14:03Z
+video_006008,Chloephaga picta,Birds,casual,registro,Detection,Post-Introduction,2022-05-27T13:33:52Z
+video_008130,Columbina talpacoti,Birds,casual,avistamiento,Detection,Post-Introduction,2024-03-06T22:59:52Z
+video_011696,Corvus albus,Birds,alien,avistamiento,Detection,Post-Introduction,2025-07-23T09:09:12Z
+video_011696,Corvus albus,Birds,alien,observado,Detection,Post-Introduction,2025-07-23T09:09:12Z
+video_000059,Cydalima perspectalis,Insects,established,exotica,Invasion,Post-Introduction,2022-01-24T08:50:57Z
+video_000059,Cydalima perspectalis,Insects,established,invasora,Invasion,Post-Introduction,2022-01-24T08:50:57Z
+video_005003,Cydalima perspectalis,Insects,established,plaga,Invasion,Post-Introduction,2015-04-29T18:43:54Z
+video_002182,Cydalima perspectalis,Insects,established,invasora,Invasion,Post-Introduction,2019-10-04T11:11:14Z
+video_002182,Cydalima perspectalis,Insects,established,amenaza,Threat,Post-Introduction,2019-10-04T11:11:14Z
+video_016511,Cydalima perspectalis,Insects,established,observada,Detection,Post-Introduction,2018-08-22T10:35:53Z
+video_001410,Cydalima perspectalis,Insects,established,invasores,Invasion,Post-Introduction,2024-04-18T07:10:01Z
+video_016087,Delottococcus aberiae,Insects,alien,control,Detection,Post-Introduction,2021-05-18T07:30:54Z
+video_008544,Delottococcus aberiae,Insects,alien,control,Detection,Post-Introduction,2023-03-16T12:14:58Z
+video_009465,Delottococcus aberiae,Insects,alien,afectando,Invasion,Post-Introduction,2020-06-14T20:17:38Z
+video_000645,Delottococcus aberiae,Insects,alien,control,Detection,Post-Introduction,2021-09-22T07:27:11Z
+video_009102,Delottococcus aberiae,Insects,alien,plaga,Invasion,Post-Introduction,2023-03-09T08:34:52Z
+video_000849,Delottococcus aberiae,Insects,alien,proliferacion,Invasion,Post-Introduction,2021-07-19T09:30:33Z
+video_006885,Delottococcus aberiae,Insects,alien,controlar,Detection,Post-Introduction,2021-08-30T06:23:27Z
+video_006885,Delottococcus aberiae,Insects,alien,control,Detection,Post-Introduction,2021-08-30T06:23:27Z
+video_009448,Delottococcus aberiae,Insects,alien,control,Detection,Post-Introduction,2021-05-06T10:31:55Z
+video_009448,Delottococcus aberiae,Insects,alien,plagas,Invasion,Post-Introduction,2021-05-06T10:31:55Z
+video_009613,Delottococcus aberiae,Insects,alien,plaga,Invasion,Post-Introduction,2021-08-22T04:41:39Z
+video_014673,Delottococcus aberiae,Insects,alien,plaga,Invasion,Post-Introduction,2022-04-06T10:00:24Z
+video_014673,Delottococcus aberiae,Insects,alien,expansion,Invasion,Post-Introduction,2022-04-06T10:00:24Z
+video_014673,Delottococcus aberiae,Insects,alien,visto,Detection,Post-Introduction,2022-04-06T10:00:24Z
+video_014673,Delottococcus aberiae,Insects,alien,control,Detection,Post-Introduction,2022-04-06T10:00:24Z
+video_003552,Delottococcus aberiae,Insects,alien,plaga,Invasion,Post-Introduction,2020-06-17T10:00:11Z
+video_010681,Delottococcus aberiae,Insects,alien,plagas,Invasion,Post-Introduction,2025-06-02T14:00:54Z
+video_009729,Delottococcus aberiae,Insects,alien,plaga,Invasion,Post-Introduction,2022-03-30T12:00:32Z
+video_003906,Delottococcus aberiae,Insects,alien,plaga,Invasion,Post-Introduction,2020-06-26T10:46:39Z
+video_014056,Delottococcus aberiae,Insects,alien,control,Detection,Post-Introduction,2020-07-21T12:12:10Z
+video_008690,Delottococcus aberiae,Insects,alien,trampa,Detection,Post-Introduction,2021-06-14T10:05:26Z
+video_010186,Delottococcus aberiae,Insects,alien,plagas,Invasion,Post-Introduction,2021-05-14T08:42:36Z
+video_010186,Delottococcus aberiae,Insects,alien,amenaza,Threat,Post-Introduction,2021-05-14T08:42:36Z
+video_013474,Diadema antillarum,Non-arthropod invertebrates,alien,presente,Invasion,Post-Introduction,2015-09-20T13:24:52Z
+video_002796,Diadema antillarum,Non-arthropod invertebrates,alien,amenaza,Threat,Post-Introduction,2021-09-07T14:19:29Z
+video_004098,Drosophila suzukii,Insects,alien,invasora,Invasion,Post-Introduction,2012-03-15T15:51:49Z
+video_004098,Drosophila suzukii,Insects,alien,invasion,Invasion,Post-Introduction,2012-03-15T15:51:49Z
+video_003003,Drosophila suzukii,Insects,alien,captura,Detection,Post-Introduction,2013-07-11T14:49:47Z
+video_000540,Drosophila suzukii,Insects,alien,plaga,Invasion,Post-Introduction,2017-11-25T21:14:49Z
+video_000540,Drosophila suzukii,Insects,alien,control,Detection,Post-Introduction,2017-11-25T21:14:49Z
+video_007085,Dryocosmus kuriphilus,Insects,alien,expansion,Invasion,Post-Introduction,2017-10-23T21:22:26Z
+video_003299,Dryocosmus kuriphilus,Insects,alien,controlada,Detection,Post-Introduction,2022-05-26T15:48:53Z
+video_010519,Dryocosmus kuriphilus,Insects,alien,peligro,Threat,Post-Introduction,2021-06-11T16:00:02Z
+video_010519,Dryocosmus kuriphilus,Insects,alien,plaga,Invasion,Post-Introduction,2021-06-11T16:00:02Z
+video_005900,Dryocosmus kuriphilus,Insects,alien,comprar,eCommerce,Post-Introduction,2020-04-20T06:01:56Z
+video_000781,Dryocosmus kuriphilus,Insects,alien,control,Detection,Post-Introduction,2019-11-29T10:17:10Z
+video_005436,Dryocosmus kuriphilus,Insects,alien,plaga,Invasion,Post-Introduction,2019-05-15T18:46:12Z
+video_006522,Dryocosmus kuriphilus,Insects,alien,control,Detection,Post-Introduction,2019-11-29T10:10:15Z
+video_000550,Dryocosmus kuriphilus,Insects,alien,plaga,Invasion,Post-Introduction,2014-10-07T07:41:40Z
+video_000550,Dryocosmus kuriphilus,Insects,alien,amenaza,Threat,Post-Introduction,2014-10-07T07:41:40Z
+video_014379,Dryocosmus kuriphilus,Insects,alien,expansion,Invasion,Post-Introduction,2015-04-22T17:58:15Z
+video_014379,Dryocosmus kuriphilus,Insects,alien,plaga,Invasion,Post-Introduction,2015-04-22T17:58:15Z
+video_007601,Dryocosmus kuriphilus,Insects,alien,plagas,Invasion,Post-Introduction,2025-05-26T09:00:11Z
+video_015661,Dryocosmus kuriphilus,Insects,alien,seguimiento,Detection,Post-Introduction,2021-07-13T07:00:12Z
+video_015661,Dryocosmus kuriphilus,Insects,alien,plaga,Invasion,Post-Introduction,2021-07-13T07:00:12Z
+video_015661,Dryocosmus kuriphilus,Insects,alien,observado,Detection,Post-Introduction,2021-07-13T07:00:12Z
+video_001181,Dryocosmus kuriphilus,Insects,alien,control,Detection,Post-Introduction,2021-04-24T22:20:26Z
+video_009138,Dryocosmus kuriphilus,Insects,alien,plagas,Invasion,Post-Introduction,2021-04-12T20:23:55Z
+video_009138,Dryocosmus kuriphilus,Insects,alien,controlada,Detection,Post-Introduction,2021-04-12T20:23:55Z
+video_013402,Dryocosmus kuriphilus,Insects,alien,pandemia,Threat,Post-Introduction,2021-05-31T20:46:36Z
+video_000535,Dryocosmus kuriphilus,Insects,alien,plaga,Invasion,Post-Introduction,2024-05-07T10:54:58Z
+video_000460,Dryocosmus kuriphilus,Insects,alien,plagas,Invasion,Post-Introduction,2021-05-17T20:27:37Z
+video_000460,Dryocosmus kuriphilus,Insects,alien,controlada,Detection,Post-Introduction,2021-05-17T20:27:37Z
+video_016223,Dryocosmus kuriphilus,Insects,alien,perigo,Threat,Post-Introduction,2017-05-20T18:43:29Z
+video_016223,Dryocosmus kuriphilus,Insects,alien,ataca,Threat,Post-Introduction,2017-05-20T18:43:29Z
+video_005715,Elanoides forficatus,Birds,casual,avistamiento,Detection,Post-Introduction,2023-01-03T10:31:57Z
+video_009395,Eupsittula pertinax,Birds,alien,cara,eCommerce,Post-Introduction,2011-09-28T02:06:21Z
+video_014659,Glycaspis brimblecombei,Insects,established,plaga,Invasion,Post-Introduction,2011-06-19T23:09:17Z
+video_006654,Glycaspis brimblecombei,Insects,established,plaga,Invasion,Post-Introduction,2024-10-23T11:00:32Z
+video_008441,Glycaspis brimblecombei,Insects,established,plaga,Invasion,Post-Introduction,2014-06-22T22:52:22Z
+video_016179,Glycaspis brimblecombei,Insects,established,plaga,Invasion,Post-Introduction,2014-06-28T11:03:00Z
+video_014861,Graptemys pseudogeographica,Herptiles,established,vendidas,eCommerce,Post-Introduction,2020-04-26T13:42:59Z
+video_014861,Graptemys pseudogeographica,Herptiles,established,mascota,eCommerce,Post-Introduction,2020-04-26T13:42:59Z
+video_015202,Graptemys pseudogeographica,Herptiles,established,aquario,eCommerce,Post-Introduction,2016-04-10T09:16:41Z
+video_000548,Graptemys pseudogeographica,Herptiles,established,aquario,eCommerce,Post-Introduction,2015-12-19T17:51:09Z
+video_009670,Grus canadensis,Birds,casual,vistas,Detection,Post-Introduction,2023-08-23T09:22:49Z
+video_011123,Grus canadensis,Birds,casual,extincao,Threat,Post-Introduction,2024-11-10T23:07:54Z
+video_015965,Haemorhous mexicanus,Birds,casual,vista,Detection,Post-Introduction,2020-02-28T22:43:26Z
+video_011797,Haemorhous mexicanus,Birds,casual,reciente,Detection,Post-Introduction,2024-02-26T17:00:35Z
+video_005236,Haliaeetus leucocephalus,Birds,casual,cetreria,eCommerce,Post-Introduction,2011-06-09T18:04:49Z
+video_001702,Haliaeetus leucocephalus,Birds,casual,cetreria,eCommerce,Post-Introduction,2017-06-06T09:55:50Z
+video_015174,Haliaeetus leucocephalus,Birds,casual,capturar,Detection,Post-Introduction,2024-07-21T19:20:00Z
+video_014365,Haliaeetus leucocephalus,Birds,casual,jaula,eCommerce,Post-Introduction,2024-12-27T14:00:52Z
+video_014869,Haliaeetus leucocephalus,Birds,casual,peligro,Threat,Post-Introduction,2018-01-10T09:53:54Z
+video_014869,Haliaeetus leucocephalus,Birds,casual,extincion,Threat,Post-Introduction,2018-01-10T09:53:54Z
+video_004588,Haliaeetus leucocephalus,Birds,casual,avistamiento,Detection,Post-Introduction,2020-12-28T20:19:35Z
+video_005001,Halyomorpha halys,Insects,alien,plagas,Invasion,Post-Introduction,2024-10-15T13:08:25Z
+video_005001,Halyomorpha halys,Insects,alien,plaga,Invasion,Post-Introduction,2024-10-15T13:08:25Z
+video_005001,Halyomorpha halys,Insects,alien,establecido,Invasion,Post-Introduction,2024-10-15T13:08:25Z
+video_009229,Halyomorpha halys,Insects,alien,invasora,Invasion,Post-Introduction,2022-11-04T16:57:36Z
+video_016172,Halyomorpha halys,Insects,alien,plaga,Invasion,Post-Introduction,2021-02-24T09:52:28Z
+video_012054,Halyomorpha halys,Insects,alien,plaga,Invasion,Pre-Introduction,2011-11-30T15:13:50Z
+video_001617,Halyomorpha halys,Insects,alien,seguimiento,Detection,Post-Introduction,2020-08-20T19:18:46Z
+video_001617,Halyomorpha halys,Insects,alien,invasoras,Invasion,Post-Introduction,2020-08-20T19:18:46Z
+video_001617,Halyomorpha halys,Insects,alien,invasora,Invasion,Post-Introduction,2020-08-20T19:18:46Z
+video_003379,Halyomorpha halys,Insects,alien,control,Detection,Post-Introduction,2019-09-16T08:51:09Z
+video_003379,Halyomorpha halys,Insects,alien,plagas,Invasion,Post-Introduction,2019-09-16T08:51:09Z
+video_004285,Halyomorpha halys,Insects,alien,plaga,Invasion,Post-Introduction,2021-11-12T12:27:11Z
+video_012553,Lagocephalus sceleratus,Fishes,uncertain,peligroso,Threat,Post-Introduction,2025-04-22T18:00:52Z
+video_012553,Lagocephalus sceleratus,Fishes,uncertain,toxico,Threat,Post-Introduction,2025-04-22T18:00:52Z
+video_012553,Lagocephalus sceleratus,Fishes,uncertain,invasor,Invasion,Post-Introduction,2025-04-22T18:00:52Z
+video_012553,Lagocephalus sceleratus,Fishes,uncertain,peligrosa,Threat,Post-Introduction,2025-04-22T18:00:52Z
+video_013432,Lasius neglectus,Insects,established,invasoras,Invasion,Post-Introduction,2025-05-14T09:00:56Z
+video_000082,Lepisiota capensis,Insects,established,adopcion,eCommerce,Post-Introduction,2019-09-20T21:13:26Z
+video_000082,Lepisiota capensis,Insects,established,adoptar,eCommerce,Post-Introduction,2019-09-20T21:13:26Z
+video_003701,Leptoglossus occidentalis,Insects,alien,plaga,Invasion,Post-Introduction,2018-09-20T06:32:42Z
+video_003701,Leptoglossus occidentalis,Insects,alien,reciente,Detection,Post-Introduction,2018-09-20T06:32:42Z
+video_009365,Leptoglossus occidentalis,Insects,alien,invasoras,Invasion,Post-Introduction,2020-05-23T16:20:21Z
+video_004351,Leptoglossus occidentalis,Insects,alien,avistado,Detection,Post-Introduction,2024-03-09T18:39:22Z
+video_004014,Leptoglossus occidentalis,Insects,alien,control,Detection,Post-Introduction,2023-03-06T15:00:17Z
+video_003538,Leptoglossus occidentalis,Insects,alien,invasor,Invasion,Post-Introduction,2024-07-29T18:00:05Z
+video_014710,Leuciscus aspius,Fishes,established,aparecido,Detection,Post-Introduction,2020-05-29T19:26:15Z
+video_008798,Leuciscus aspius,Fishes,established,capturar,Detection,Post-Introduction,2023-02-17T20:35:09Z
+video_004963,Leuciscus aspius,Fishes,established,descubiertos,Detection,Pre-Introduction,2014-11-17T12:54:52Z
+video_003192,Lonchura oryzivora,Birds,alien,jaula,eCommerce,Post-Introduction,2015-07-21T14:58:23Z
+video_007557,Mauremys reevesii,Herptiles,alien,acuario,eCommerce,Post-Introduction,2017-11-27T14:57:58Z
+video_006937,Mauremys reevesii,Herptiles,alien,acuario,eCommerce,Post-Introduction,2018-07-01T11:19:26Z
+video_012569,Mauremys sinensis,Herptiles,alien,terrario,eCommerce,Post-Introduction,2017-12-10T07:57:54Z
+video_002932,Mauremys sinensis,Herptiles,alien,exotica,Invasion,Post-Introduction,2023-05-24T21:54:15Z
+video_004719,Mnemiopsis leidyi,Non-arthropod invertebrates,established,invasor,Invasion,Post-Introduction,2013-11-12T08:47:33Z
+video_006319,Mnemiopsis leidyi,Non-arthropod invertebrates,established,aparicion,Detection,Post-Introduction,2016-07-30T23:19:43Z
+video_014352,Mnemiopsis leidyi,Non-arthropod invertebrates,established,invasora,Invasion,Post-Introduction,2025-05-30T18:30:18Z
+video_006309,Paratrechina jaegerskioeldi,Insects,established,manejo,Detection,Post-Introduction,2021-01-28T21:43:25Z
+video_006309,Paratrechina jaegerskioeldi,Insects,established,invasora,Invasion,Post-Introduction,2021-01-28T21:43:25Z
+video_006309,Paratrechina jaegerskioeldi,Insects,established,nativa,Invasion,Post-Introduction,2021-01-28T21:43:25Z
+video_012470,Paratrechina jaegerskioeldi,Insects,established,encontre,Detection,Post-Introduction,2019-06-27T14:42:38Z
+video_011561,Pelodiscus sinensis,Herptiles,alien,acuario,eCommerce,Pre-Introduction,2008-02-17T20:35:20Z
+video_011518,Perca fluviatilis,Fishes,established,captura,Detection,Post-Introduction,2019-05-09T09:22:53Z
+video_010293,Perca fluviatilis,Fishes,established,capturas,Detection,Post-Introduction,2019-09-24T20:09:55Z
+video_000305,Perca fluviatilis,Fishes,established,captura,Detection,Post-Introduction,2020-05-01T15:13:54Z
+video_007453,Perca fluviatilis,Fishes,established,encontramos,Detection,Post-Introduction,2020-09-25T13:00:33Z
+video_010544,Pheidole indica,Insects,established,ataca,Threat,Post-Introduction,2022-07-05T20:02:21Z
+video_005234,Phthorimaea absoluta,Insects,established,controlar,Detection,Post-Introduction,2023-07-18T16:00:20Z
+video_005234,Phthorimaea absoluta,Insects,established,dinero,eCommerce,Post-Introduction,2023-07-18T16:00:20Z
+video_008202,Phthorimaea absoluta,Insects,established,ataca,Threat,Post-Introduction,2017-07-27T10:15:07Z
+video_015374,Phthorimaea absoluta,Insects,established,control,Detection,Post-Introduction,2020-09-02T17:16:40Z
+video_009377,Phthorimaea absoluta,Insects,established,plaga,Invasion,Post-Introduction,2013-12-10T10:09:24Z
+video_010258,Phthorimaea absoluta,Insects,established,trampa,Detection,Post-Introduction,2017-05-17T10:58:45Z
+video_010258,Phthorimaea absoluta,Insects,established,plaga,Invasion,Post-Introduction,2017-05-17T10:58:45Z
+video_000107,Phthorimaea absoluta,Insects,established,control,Detection,Post-Introduction,2025-06-14T04:31:07Z
+video_000107,Phthorimaea absoluta,Insects,established,trampas,Detection,Post-Introduction,2025-06-14T04:31:07Z
+video_006841,Phthorimaea absoluta,Insects,established,plaga,Invasion,Post-Introduction,2021-11-10T16:30:02Z
+video_010587,Phthorimaea absoluta,Insects,established,manejo,Detection,Post-Introduction,2024-04-16T10:44:21Z
+video_000426,Phthorimaea absoluta,Insects,established,plaga,Invasion,Post-Introduction,2024-05-18T12:00:03Z
+video_010528,Phthorimaea absoluta,Insects,established,trampa,Detection,Post-Introduction,2015-08-18T04:30:00Z
+video_005889,Phthorimaea absoluta,Insects,established,trampas,Detection,Post-Introduction,2019-02-25T10:30:57Z
+video_005089,Phthorimaea absoluta,Insects,established,trampa,Detection,Post-Introduction,2019-03-04T17:01:32Z
+video_005089,Phthorimaea absoluta,Insects,established,trampas,Detection,Post-Introduction,2019-03-04T17:01:32Z
+video_006510,Phthorimaea absoluta,Insects,established,trampa,Detection,Post-Introduction,2023-08-11T13:13:01Z
+video_012787,Phthorimaea absoluta,Insects,established,plaga,Invasion,Post-Introduction,2021-06-19T16:02:51Z
+video_012579,Phthorimaea absoluta,Insects,established,control,Detection,Post-Introduction,2021-03-05T18:01:10Z
+video_013154,Phthorimaea absoluta,Insects,established,trampas,Detection,Post-Introduction,2025-07-02T18:00:06Z
+video_012355,Phthorimaea absoluta,Insects,established,controlar,Detection,Post-Introduction,2022-01-18T16:14:00Z
+video_012355,Phthorimaea absoluta,Insects,established,plaga,Invasion,Post-Introduction,2022-01-18T16:14:00Z
+video_012355,Phthorimaea absoluta,Insects,established,trampa,Detection,Post-Introduction,2022-01-18T16:14:00Z
+video_014218,Phthorimaea absoluta,Insects,established,control,Detection,Post-Introduction,2018-10-11T13:24:28Z
+video_014218,Phthorimaea absoluta,Insects,established,plagas,Invasion,Post-Introduction,2018-10-11T13:24:28Z
+video_001828,Phthorimaea absoluta,Insects,established,control,Detection,Post-Introduction,2024-04-15T14:58:20Z
+video_003672,Phthorimaea absoluta,Insects,established,trampa,Detection,Post-Introduction,2020-08-25T11:34:48Z
+video_003672,Phthorimaea absoluta,Insects,established,capturas,Detection,Post-Introduction,2020-08-25T11:34:48Z
+video_010422,Phthorimaea absoluta,Insects,established,control,Detection,Post-Introduction,2019-08-07T07:14:55Z
+video_000128,Phthorimaea absoluta,Insects,established,control,Detection,Post-Introduction,2024-04-15T14:56:45Z
+video_000128,Phthorimaea absoluta,Insects,established,controlada,Detection,Post-Introduction,2024-04-15T14:56:45Z
+video_012664,Phthorimaea absoluta,Insects,established,plaga,Invasion,Post-Introduction,2013-10-15T12:12:45Z
+video_011507,Phthorimaea absoluta,Insects,established,controlar,Detection,Post-Introduction,2025-05-20T14:22:10Z
+video_011507,Phthorimaea absoluta,Insects,established,plaga,Invasion,Post-Introduction,2025-05-20T14:22:10Z
+video_015409,Phthorimaea absoluta,Insects,established,ataca,Threat,Post-Introduction,2025-06-28T10:25:32Z
+video_015409,Phthorimaea absoluta,Insects,established,plagas,Invasion,Post-Introduction,2025-06-28T10:25:32Z
+video_015409,Phthorimaea absoluta,Insects,established,alerta,Detection,Post-Introduction,2025-06-28T10:25:32Z
+video_015409,Phthorimaea absoluta,Insects,established,plaga,Invasion,Post-Introduction,2025-06-28T10:25:32Z
+video_011235,Phthorimaea absoluta,Insects,established,trampas,Detection,Post-Introduction,2025-07-04T17:45:02Z
+video_016837,Phthorimaea absoluta,Insects,established,plaga,Invasion,Post-Introduction,2019-05-21T10:46:46Z
+video_016837,Phthorimaea absoluta,Insects,established,afectando,Invasion,Post-Introduction,2019-05-21T10:46:46Z
+video_008700,Phthorimaea absoluta,Insects,established,control,Detection,Post-Introduction,2019-08-07T11:36:22Z
+video_005388,Phthorimaea absoluta,Insects,established,manejo,Detection,Post-Introduction,2025-08-04T09:52:49Z
+video_008851,Phthorimaea absoluta,Insects,established,trampas,Detection,Post-Introduction,2024-06-22T11:48:15Z
+video_012879,Phthorimaea absoluta,Insects,established,trampa,Detection,Post-Introduction,2024-04-28T19:39:28Z
+video_012879,Phthorimaea absoluta,Insects,established,plaga,Invasion,Post-Introduction,2024-04-28T19:39:28Z
+video_013194,Phthorimaea absoluta,Insects,established,danina,Threat,Post-Introduction,2019-07-01T10:34:19Z
+video_010635,Phthorimaea absoluta,Insects,established,extincion,Threat,Post-Introduction,2025-07-06T06:06:22Z
+video_014856,Phthorimaea absoluta,Insects,established,control,Detection,Post-Introduction,2021-02-18T10:56:30Z
+video_011516,Phthorimaea absoluta,Insects,established,control,Detection,Post-Introduction,2019-08-16T10:21:29Z
+video_000983,Phthorimaea absoluta,Insects,established,capturas,Detection,Post-Introduction,2010-05-13T17:23:14Z
+video_007387,Phthorimaea absoluta,Insects,established,plaga,Invasion,Post-Introduction,2019-05-21T15:07:03Z
+video_008017,Phthorimaea absoluta,Insects,established,trampas,Detection,Post-Introduction,2024-07-04T16:30:55Z
+video_008017,Phthorimaea absoluta,Insects,established,trampa,Detection,Post-Introduction,2024-07-04T16:30:55Z
+video_011514,Phthorimaea absoluta,Insects,established,alerta,Detection,Post-Introduction,2021-10-29T10:07:03Z
+video_011514,Phthorimaea absoluta,Insects,established,deteccion,Detection,Post-Introduction,2021-10-29T10:07:03Z
+video_010571,Pionites melanocephalus,Birds,alien,encontramos,Detection,Post-Introduction,2022-04-28T16:00:52Z
+video_010571,Pionites melanocephalus,Birds,alien,encontrado,Detection,Post-Introduction,2022-04-28T16:00:52Z
+video_008384,Platycerium bifurcatum,Plants,established,exotica,Invasion,Post-Introduction,2018-12-23T13:07:20Z
+video_013866,Platycerium bifurcatum,Plants,established,terrario,eCommerce,Post-Introduction,2024-11-18T12:31:16Z
+video_011060,Pomacea maculata,Non-arthropod invertebrates,established,acuario,eCommerce,Post-Introduction,2011-10-14T12:05:27Z
+video_000011,Pomacea maculata,Non-arthropod invertebrates,established,presente,Invasion,Post-Introduction,2017-08-10T18:47:48Z
+video_015201,Pomacea maculata,Non-arthropod invertebrates,established,control,Detection,Post-Introduction,2015-11-03T13:19:27Z
+video_011768,Pomacea maculata,Non-arthropod invertebrates,established,presente,Invasion,Post-Introduction,2014-09-10T16:41:36Z
+video_011768,Pomacea maculata,Non-arthropod invertebrates,established,peligro,Threat,Post-Introduction,2014-09-10T16:41:36Z
+video_007697,Pomacea maculata,Non-arthropod invertebrates,established,presente,Invasion,Post-Introduction,2017-07-31T11:57:29Z
+video_007697,Pomacea maculata,Non-arthropod invertebrates,established,peligro,Threat,Post-Introduction,2017-07-31T11:57:29Z
+video_016111,Primolius maracana,Birds,alien,mascota,eCommerce,Post-Introduction,2014-10-07T22:49:15Z
+video_014167,Psephotus haematonotus,Birds,alien,compre,eCommerce,Post-Introduction,2012-04-13T15:01:38Z
+video_015052,Pseudemys concinna,Herptiles,established,compre,eCommerce,Post-Introduction,2020-05-03T13:26:04Z
+video_003307,Pseudemys concinna,Herptiles,established,invasora,Invasion,Post-Introduction,2017-04-19T14:23:00Z
+video_002753,Pseudemys concinna,Herptiles,established,invasora,Invasion,Post-Introduction,2017-05-02T17:28:54Z
+video_002480,Pseudemys concinna,Herptiles,established,aquisicao,eCommerce,Post-Introduction,2017-09-04T00:11:34Z
+video_010923,Pseudemys peninsularis,Herptiles,alien,eei,Invasion,Post-Introduction,2021-07-23T11:34:19Z
+video_009611,Psittacus erithacus,Birds,casual,descuento,eCommerce,Post-Introduction,2015-10-07T15:30:10Z
+video_015972,Psittacus erithacus,Birds,casual,mascota,eCommerce,Post-Introduction,2025-05-11T22:00:56Z
+video_002430,Psittacus erithacus,Birds,casual,mascota,eCommerce,Post-Introduction,2025-05-16T12:00:14Z
+video_014204,Psittacus erithacus,Birds,casual,adoptes,eCommerce,Post-Introduction,2025-01-20T19:00:36Z
+video_008627,Psittacus erithacus,Birds,casual,tienda,eCommerce,Post-Introduction,2015-04-17T03:24:41Z
+video_000166,Psittacus erithacus,Birds,casual,mascota,eCommerce,Post-Introduction,2023-11-19T17:00:00Z
+video_004271,Psittacus erithacus,Birds,casual,mascota,eCommerce,Post-Introduction,2025-05-14T11:30:24Z
+video_016946,Psittacus erithacus,Birds,casual,mascota,eCommerce,Post-Introduction,2025-05-11T11:30:48Z
+video_015798,Psittacus erithacus,Birds,casual,mascota,eCommerce,Post-Introduction,2025-05-13T20:00:41Z
+video_000374,Psittacus erithacus,Birds,casual,capturado,Detection,Pre-Introduction,2012-01-16T17:31:07Z
+video_000374,Psittacus erithacus,Birds,casual,compre,eCommerce,Pre-Introduction,2012-01-16T17:31:07Z
+video_000374,Psittacus erithacus,Birds,casual,tienda,eCommerce,Pre-Introduction,2012-01-16T17:31:07Z
+video_007900,Psittacus erithacus,Birds,casual,mascota,eCommerce,Post-Introduction,2018-08-27T10:42:34Z
+video_005731,Psittacus erithacus,Birds,casual,comprar,eCommerce,Pre-Introduction,2011-07-21T10:31:40Z
+video_007535,Psittacus erithacus,Birds,casual,tienda,eCommerce,Post-Introduction,2020-04-24T19:11:42Z
+video_009023,Psittacus erithacus,Birds,casual,venta,eCommerce,Post-Introduction,2016-09-16T16:35:48Z
+video_009023,Psittacus erithacus,Birds,casual,pajareria,eCommerce,Post-Introduction,2016-09-16T16:35:48Z
+video_005485,Psittacus erithacus,Birds,casual,jaula,eCommerce,Pre-Introduction,2010-12-01T02:41:29Z
+video_014301,Psittacus erithacus,Birds,casual,ataca,Threat,Post-Introduction,2022-10-17T21:24:44Z
+video_015195,Psittacus erithacus,Birds,casual,compra,eCommerce,Post-Introduction,2022-08-14T17:19:22Z
+video_006133,Psittacus erithacus,Birds,casual,jaula,eCommerce,Pre-Introduction,2011-06-28T18:44:30Z
+video_006044,Psittacus erithacus,Birds,casual,costo,eCommerce,Post-Introduction,2018-01-30T19:44:24Z
+video_010068,Psittacus erithacus,Birds,casual,jaula,eCommerce,Pre-Introduction,2011-12-12T15:22:53Z
+video_011691,Psittacus erithacus,Birds,casual,exotica,Invasion,Post-Introduction,2025-07-31T11:05:04Z
+video_015075,Rapana venosa,Non-arthropod invertebrates,uncertain,invasora,Invasion,Post-Introduction,2021-08-26T14:23:39Z
+video_015612,Reticulitermes flavipes,Insects,alien,control,Detection,Post-Introduction,2021-07-27T18:25:57Z
+video_015039,Rugulopteryx okamurae,Plants,alien,invasion,Invasion,Post-Introduction,2021-05-31T14:00:31Z
+video_015039,Rugulopteryx okamurae,Plants,alien,afectando,Invasion,Post-Introduction,2021-05-31T14:00:31Z
+video_014106,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2023-08-31T16:00:29Z
+video_002407,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2025-08-09T14:04:39Z
+video_016226,Rugulopteryx okamurae,Plants,alien,invasion,Invasion,Post-Introduction,2025-05-18T07:15:12Z
+video_014425,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2020-06-21T13:38:17Z
+video_014425,Rugulopteryx okamurae,Plants,alien,amenaza,Threat,Post-Introduction,2020-06-21T13:38:17Z
+video_014425,Rugulopteryx okamurae,Plants,alien,captura,Detection,Post-Introduction,2020-06-21T13:38:17Z
+video_014072,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2024-09-12T14:40:05Z
+video_014834,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2019-07-31T18:59:19Z
+video_014834,Rugulopteryx okamurae,Plants,alien,invasion,Invasion,Post-Introduction,2019-07-31T18:59:19Z
+video_007984,Rugulopteryx okamurae,Plants,alien,invade,Invasion,Post-Introduction,2025-07-30T11:30:17Z
+video_006748,Rugulopteryx okamurae,Plants,alien,invade,Invasion,Post-Introduction,2025-07-29T12:04:43Z
+video_002310,Rugulopteryx okamurae,Plants,alien,expansion,Invasion,Post-Introduction,2023-09-01T12:22:40Z
+video_002419,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2019-09-17T15:52:32Z
+video_014674,Rugulopteryx okamurae,Plants,alien,alerta,Detection,Post-Introduction,2024-09-05T10:00:53Z
+video_014674,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2024-09-05T10:00:53Z
+video_014674,Rugulopteryx okamurae,Plants,alien,amenaza,Threat,Post-Introduction,2024-09-05T10:00:53Z
+video_016630,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2020-07-03T13:10:20Z
+video_016630,Rugulopteryx okamurae,Plants,alien,visto,Detection,Post-Introduction,2020-07-03T13:10:20Z
+video_016630,Rugulopteryx okamurae,Plants,alien,invade,Invasion,Post-Introduction,2020-07-03T13:10:20Z
+video_009755,Rugulopteryx okamurae,Plants,alien,invade,Invasion,Post-Introduction,2025-06-05T11:47:29Z
+video_009755,Rugulopteryx okamurae,Plants,alien,invasion,Invasion,Post-Introduction,2025-06-05T11:47:29Z
+video_013555,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2020-02-03T11:01:07Z
+video_000471,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2024-04-28T05:30:00Z
+video_007414,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2025-08-08T13:50:52Z
+video_014631,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2025-06-11T12:28:38Z
+video_004810,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2020-06-24T12:34:11Z
+video_001176,Rugulopteryx okamurae,Plants,alien,exotica,Invasion,Post-Introduction,2019-09-06T12:07:00Z
+video_001176,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2019-09-06T12:07:00Z
+video_000150,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2019-09-20T12:17:58Z
+video_009062,Rugulopteryx okamurae,Plants,alien,alerta,Detection,Post-Introduction,2024-08-04T10:00:28Z
+video_009062,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2024-08-04T10:00:28Z
+video_009062,Rugulopteryx okamurae,Plants,alien,invade,Invasion,Post-Introduction,2024-08-04T10:00:28Z
+video_009062,Rugulopteryx okamurae,Plants,alien,amenaza,Threat,Post-Introduction,2024-08-04T10:00:28Z
+video_009817,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2020-12-06T06:40:21Z
+video_007613,Rugulopteryx okamurae,Plants,alien,invasion,Invasion,Post-Introduction,2021-04-13T10:42:52Z
+video_015939,Rugulopteryx okamurae,Plants,alien,invasion,Invasion,Post-Introduction,2025-07-26T10:06:12Z
+video_005781,Rugulopteryx okamurae,Plants,alien,alerta,Detection,Post-Introduction,2025-07-28T16:30:40Z
+video_005781,Rugulopteryx okamurae,Plants,alien,invade,Invasion,Post-Introduction,2025-07-28T16:30:40Z
+video_005781,Rugulopteryx okamurae,Plants,alien,amenaza,Threat,Post-Introduction,2025-07-28T16:30:40Z
+video_016970,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2023-10-24T14:29:11Z
+video_000472,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2025-08-10T14:00:01Z
+video_000472,Rugulopteryx okamurae,Plants,alien,euros,eCommerce,Post-Introduction,2025-08-10T14:00:01Z
+video_000472,Rugulopteryx okamurae,Plants,alien,colonizacion,Invasion,Post-Introduction,2025-08-10T14:00:01Z
+video_003059,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2021-07-30T16:57:11Z
+video_007976,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2019-09-05T12:26:56Z
+video_008369,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2019-06-14T14:08:22Z
+video_008369,Rugulopteryx okamurae,Plants,alien,invasion,Invasion,Post-Introduction,2019-06-14T14:08:22Z
+video_013309,Rugulopteryx okamurae,Plants,alien,invasoras,Invasion,Post-Introduction,2019-10-10T09:42:40Z
+video_013309,Rugulopteryx okamurae,Plants,alien,proliferacion,Invasion,Post-Introduction,2019-10-10T09:42:40Z
+video_014569,Rugulopteryx okamurae,Plants,alien,proliferacion,Invasion,Post-Introduction,2021-05-04T09:44:07Z
+video_009488,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2019-07-22T12:54:29Z
+video_010463,Rugulopteryx okamurae,Plants,alien,amenaza,Threat,Post-Introduction,2021-04-22T11:37:13Z
+video_005101,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2023-11-02T08:43:52Z
+video_012855,Rugulopteryx okamurae,Plants,alien,invasion,Invasion,Post-Introduction,2020-07-27T09:31:04Z
+video_011544,Rugulopteryx okamurae,Plants,alien,visto,Detection,Post-Introduction,2019-09-17T16:31:50Z
+video_011544,Rugulopteryx okamurae,Plants,alien,capturas,Detection,Post-Introduction,2019-09-17T16:31:50Z
+video_004231,Rugulopteryx okamurae,Plants,alien,euros,eCommerce,Post-Introduction,2021-04-08T12:11:17Z
+video_001527,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2024-09-10T10:00:04Z
+video_001527,Rugulopteryx okamurae,Plants,alien,amenaza,Threat,Post-Introduction,2024-09-10T10:00:04Z
+video_014942,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2024-09-06T10:01:02Z
+video_014942,Rugulopteryx okamurae,Plants,alien,amenaza,Threat,Post-Introduction,2024-09-06T10:01:02Z
+video_014336,Rugulopteryx okamurae,Plants,alien,peligro,Threat,Post-Introduction,2021-06-14T11:00:17Z
+video_013464,Rugulopteryx okamurae,Plants,alien,proliferacion,Invasion,Post-Introduction,2021-04-29T12:23:24Z
+video_002352,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2024-09-11T10:00:06Z
+video_002352,Rugulopteryx okamurae,Plants,alien,amenaza,Threat,Post-Introduction,2024-09-11T10:00:06Z
+video_004385,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2022-06-08T10:22:47Z
+video_016670,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2021-07-06T12:21:50Z
+video_007514,Rugulopteryx okamurae,Plants,alien,alerta,Detection,Post-Introduction,2024-09-04T10:00:22Z
+video_007514,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2024-09-04T10:00:22Z
+video_007514,Rugulopteryx okamurae,Plants,alien,amenaza,Threat,Post-Introduction,2024-09-04T10:00:22Z
+video_003232,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2024-09-07T10:00:18Z
+video_003232,Rugulopteryx okamurae,Plants,alien,amenaza,Threat,Post-Introduction,2024-09-07T10:00:18Z
+video_012059,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2025-07-26T12:50:34Z
+video_005547,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2024-11-06T11:12:52Z
+video_005547,Rugulopteryx okamurae,Plants,alien,invasion,Invasion,Post-Introduction,2024-11-06T11:12:52Z
+video_016971,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2021-04-29T12:12:10Z
+video_016971,Rugulopteryx okamurae,Plants,alien,vector,Threat,Post-Introduction,2021-04-29T12:12:10Z
+video_005893,Rugulopteryx okamurae,Plants,alien,amenaza,Threat,Post-Introduction,2024-01-12T17:00:13Z
+video_005411,Rugulopteryx okamurae,Plants,alien,invasoras,Invasion,Post-Introduction,2025-08-11T15:37:16Z
+video_005411,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2025-08-11T15:37:16Z
+video_011026,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2024-09-12T11:29:08Z
+video_012121,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2021-05-27T14:09:04Z
+video_007712,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2025-07-16T14:41:41Z
+video_003119,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2020-01-21T11:56:27Z
+video_003119,Rugulopteryx okamurae,Plants,alien,competencia,Threat,Post-Introduction,2020-01-21T11:56:27Z
+video_010624,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2019-10-30T19:38:34Z
+video_000916,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2019-06-21T07:26:30Z
+video_000720,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2019-10-30T19:39:59Z
+video_000718,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2019-10-30T19:42:59Z
+video_005585,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2019-10-30T19:36:17Z
+video_010655,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2019-10-30T19:45:03Z
+video_000344,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2019-09-16T19:27:32Z
+video_005418,Rugulopteryx okamurae,Plants,alien,invasion,Invasion,Post-Introduction,2023-07-18T16:40:58Z
+video_014974,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2019-11-04T11:00:07Z
+video_014534,Rugulopteryx okamurae,Plants,alien,invasion,Invasion,Post-Introduction,2021-06-20T12:00:21Z
+video_011891,Rugulopteryx okamurae,Plants,alien,invasoras,Invasion,Post-Introduction,2022-06-24T12:17:34Z
+video_013307,Rugulopteryx okamurae,Plants,alien,invasion,Invasion,Post-Introduction,2025-06-15T16:20:32Z
+video_013307,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2025-06-15T16:20:32Z
+video_016324,Rugulopteryx okamurae,Plants,alien,invasoras,Invasion,Post-Introduction,2019-11-26T08:27:11Z
+video_005180,Rugulopteryx okamurae,Plants,alien,invasion,Invasion,Post-Introduction,2023-07-19T21:36:02Z
+video_011359,Rugulopteryx okamurae,Plants,alien,expansion,Invasion,Post-Introduction,2024-06-11T12:32:52Z
+video_011359,Rugulopteryx okamurae,Plants,alien,afectando,Invasion,Post-Introduction,2024-06-11T12:32:52Z
+video_001139,Rugulopteryx okamurae,Plants,alien,invasoras,Invasion,Post-Introduction,2024-05-13T11:14:28Z
+video_004717,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2025-02-07T18:36:22Z
+video_009031,Rugulopteryx okamurae,Plants,alien,invasoras,Invasion,Post-Introduction,2024-11-17T09:07:39Z
+video_013357,Rugulopteryx okamurae,Plants,alien,invasoras,Invasion,Post-Introduction,2025-08-16T19:26:23Z
+video_000176,Rugulopteryx okamurae,Plants,alien,proliferacion,Invasion,Post-Introduction,2025-07-18T11:30:21Z
+video_002541,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2025-08-08T17:15:32Z
+video_003990,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2023-09-29T06:27:46Z
+video_003990,Rugulopteryx okamurae,Plants,alien,exotica,Invasion,Post-Introduction,2023-09-29T06:27:46Z
+video_003687,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2024-02-06T10:25:44Z
+video_010394,Rugulopteryx okamurae,Plants,alien,invasoras,Invasion,Post-Introduction,2025-02-16T08:11:42Z
+video_005414,Rugulopteryx okamurae,Plants,alien,control,Detection,Post-Introduction,2025-04-02T17:11:21Z
+video_010540,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2021-11-05T10:30:17Z
+video_010925,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2025-03-22T12:50:25Z
+video_015727,Rugulopteryx okamurae,Plants,alien,control,Detection,Post-Introduction,2025-04-02T18:23:27Z
+video_000733,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2020-06-25T12:13:38Z
+video_000659,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2020-12-01T13:47:29Z
+video_005870,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2021-04-12T14:02:28Z
+video_005870,Rugulopteryx okamurae,Plants,alien,detectada,Detection,Post-Introduction,2021-04-12T14:02:28Z
+video_005870,Rugulopteryx okamurae,Plants,alien,amenaza,Threat,Post-Introduction,2021-04-12T14:02:28Z
+video_000731,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2022-02-28T21:07:11Z
+video_012038,Rugulopteryx okamurae,Plants,alien,monitoreo,Detection,Post-Introduction,2023-01-25T09:26:20Z
+video_012038,Rugulopteryx okamurae,Plants,alien,oferta,eCommerce,Post-Introduction,2023-01-25T09:26:20Z
+video_012050,Rugulopteryx okamurae,Plants,alien,control,Detection,Post-Introduction,2025-04-02T18:24:02Z
+video_000232,Rugulopteryx okamurae,Plants,alien,ataca,Threat,Post-Introduction,2024-07-30T21:37:57Z
+video_000539,Rugulopteryx okamurae,Plants,alien,control,Detection,Post-Introduction,2025-04-02T18:31:52Z
+video_005240,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2023-08-23T13:09:12Z
+video_005240,Rugulopteryx okamurae,Plants,alien,presente,Invasion,Post-Introduction,2023-08-23T13:09:12Z
+video_012360,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2023-05-16T17:17:59Z
+video_016673,Rugulopteryx okamurae,Plants,alien,invasion,Invasion,Post-Introduction,2019-06-10T10:02:15Z
+video_010659,Rugulopteryx okamurae,Plants,alien,invasion,Invasion,Post-Introduction,2024-03-20T16:19:51Z
+video_009564,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2025-06-15T17:30:49Z
+video_006870,Rugulopteryx okamurae,Plants,alien,exotica,Invasion,Post-Introduction,2022-06-08T08:13:57Z
+video_006870,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2022-06-08T08:13:57Z
+video_001287,Rugulopteryx okamurae,Plants,alien,invasion,Invasion,Post-Introduction,2025-04-02T11:07:26Z
+video_008652,Rugulopteryx okamurae,Plants,alien,invasoras,Invasion,Post-Introduction,2019-10-06T22:47:05Z
+video_004175,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2022-07-24T15:19:08Z
+video_004175,Rugulopteryx okamurae,Plants,alien,ataca,Threat,Post-Introduction,2022-07-24T15:19:08Z
+video_004175,Rugulopteryx okamurae,Plants,alien,propagar,Invasion,Post-Introduction,2022-07-24T15:19:08Z
+video_008726,Rugulopteryx okamurae,Plants,alien,controlar,Detection,Post-Introduction,2021-01-22T08:08:53Z
+video_008726,Rugulopteryx okamurae,Plants,alien,expansion,Invasion,Post-Introduction,2021-01-22T08:08:53Z
+video_008726,Rugulopteryx okamurae,Plants,alien,deteccion,Detection,Post-Introduction,2021-01-22T08:08:53Z
+video_006091,Rugulopteryx okamurae,Plants,alien,expansion,Invasion,Post-Introduction,2022-12-01T14:01:02Z
+video_006091,Rugulopteryx okamurae,Plants,alien,deteccion,Detection,Post-Introduction,2022-12-01T14:01:02Z
+video_004761,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2021-04-30T10:10:22Z
+video_004761,Rugulopteryx okamurae,Plants,alien,invasion,Invasion,Post-Introduction,2021-04-30T10:10:22Z
+video_005764,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2019-07-26T19:39:30Z
+video_002923,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2023-11-03T07:29:13Z
+video_015633,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2024-08-13T21:13:01Z
+video_015633,Rugulopteryx okamurae,Plants,alien,plaga,Invasion,Post-Introduction,2024-08-13T21:13:01Z
+video_012673,Rugulopteryx okamurae,Plants,alien,invasion,Invasion,Post-Introduction,2025-06-05T10:05:08Z
+video_012108,Rugulopteryx okamurae,Plants,alien,invasion,Invasion,Post-Introduction,2022-07-04T11:41:41Z
+video_001036,Rugulopteryx okamurae,Plants,alien,proliferacion,Invasion,Post-Introduction,2025-07-28T10:06:17Z
+video_001036,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2025-07-28T10:06:17Z
+video_005724,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2019-06-29T17:53:14Z
+video_008947,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2021-05-07T07:14:55Z
+video_008947,Rugulopteryx okamurae,Plants,alien,invasion,Invasion,Post-Introduction,2021-05-07T07:14:55Z
+video_011722,Rugulopteryx okamurae,Plants,alien,invasion,Invasion,Post-Introduction,2021-11-09T08:17:36Z
+video_011722,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2021-11-09T08:17:36Z
+video_011722,Rugulopteryx okamurae,Plants,alien,colonizacion,Invasion,Post-Introduction,2021-11-09T08:17:36Z
+video_012725,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2025-05-10T07:57:44Z
+video_012725,Rugulopteryx okamurae,Plants,alien,amenaza,Threat,Post-Introduction,2025-05-10T07:57:44Z
+video_012434,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2022-02-18T03:15:26Z
+video_011176,Rugulopteryx okamurae,Plants,alien,invasao,Invasion,Post-Introduction,2025-07-26T11:10:10Z
+video_011176,Rugulopteryx okamurae,Plants,alien,ameaca,Threat,Post-Introduction,2025-07-26T11:10:10Z
+video_011176,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2025-07-26T11:10:10Z
+video_009577,Rugulopteryx okamurae,Plants,alien,invasion,Invasion,Post-Introduction,2022-07-06T07:31:29Z
+video_010182,Rugulopteryx okamurae,Plants,alien,invasoras,Invasion,Post-Introduction,2022-08-21T15:48:02Z
+video_008118,Rugulopteryx okamurae,Plants,alien,invasao,Invasion,Post-Introduction,2025-07-26T11:06:01Z
+video_008118,Rugulopteryx okamurae,Plants,alien,ameaca,Threat,Post-Introduction,2025-07-26T11:06:01Z
+video_012650,Rugulopteryx okamurae,Plants,alien,invasion,Invasion,Post-Introduction,2024-08-08T23:35:12Z
+video_015719,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2025-06-04T13:12:41Z
+video_008775,Rugulopteryx okamurae,Plants,alien,invasoras,Invasion,Post-Introduction,2025-02-20T12:35:22Z
+video_008775,Rugulopteryx okamurae,Plants,alien,amenaza,Threat,Post-Introduction,2025-02-20T12:35:22Z
+video_008775,Rugulopteryx okamurae,Plants,alien,invasion,Invasion,Post-Introduction,2025-02-20T12:35:22Z
+video_012897,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2021-05-27T14:13:17Z
+video_014689,Rugulopteryx okamurae,Plants,alien,control,Detection,Post-Introduction,2021-05-25T12:30:34Z
+video_013345,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2025-08-16T19:29:02Z
+video_015350,Rugulopteryx okamurae,Plants,alien,invasion,Invasion,Post-Introduction,2025-08-16T19:18:03Z
+video_015350,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2025-08-16T19:18:03Z
+video_015350,Rugulopteryx okamurae,Plants,alien,afectando,Invasion,Post-Introduction,2025-08-16T19:18:03Z
+video_013639,Rugulopteryx okamurae,Plants,alien,invasora,Invasion,Post-Introduction,2023-03-28T14:38:03Z
+video_002070,Scyphophorus acupunctatus,Insects,established,plaga,Invasion,Post-Introduction,2025-07-24T10:02:47Z
+video_008020,Scyphophorus acupunctatus,Insects,established,captura,Detection,Post-Introduction,2016-04-09T17:28:47Z
+video_014781,Scyphophorus acupunctatus,Insects,established,exotico,Invasion,Post-Introduction,2014-04-03T10:00:36Z
+video_014781,Scyphophorus acupunctatus,Insects,established,invade,Invasion,Post-Introduction,2014-04-03T10:00:36Z
+video_005169,Spodoptera frugiperda,Insects,alien,trampa,Detection,Post-Introduction,2021-03-09T07:02:52Z
+video_005169,Spodoptera frugiperda,Insects,alien,trampas,Detection,Post-Introduction,2021-03-09T07:02:52Z
+video_005588,Spodoptera frugiperda,Insects,alien,pragas,Invasion,Post-Introduction,2024-03-15T12:33:06Z
+video_005588,Spodoptera frugiperda,Insects,alien,praga,Invasion,Post-Introduction,2024-03-15T12:33:06Z
+video_001239,Spodoptera frugiperda,Insects,alien,pragas,Invasion,Post-Introduction,2023-08-24T09:47:00Z
+video_013600,Synoicus chinensis,Birds,alien,encontrado,Detection,Post-Introduction,2020-03-20T16:41:53Z
+video_012504,Testudo marginata,Herptiles,established,terrario,eCommerce,Post-Introduction,2020-12-05T17:32:28Z
+video_003446,Testudo marginata,Herptiles,established,tienda,eCommerce,Pre-Introduction,2015-01-29T09:09:36Z
+video_003446,Testudo marginata,Herptiles,established,venta,eCommerce,Pre-Introduction,2015-01-29T09:09:36Z
+video_001275,Testudo marginata,Herptiles,established,terrario,eCommerce,Pre-Introduction,2012-10-16T15:09:53Z
+video_005835,Tobamovirus fructirugosum,"Bacteria, Viruses, Fungi",alien,control,Detection,Post-Introduction,2024-09-25T11:34:01Z
+video_005835,Tobamovirus fructirugosum,"Bacteria, Viruses, Fungi",alien,manejo,Detection,Post-Introduction,2024-09-25T11:34:01Z
+video_012030,Tobamovirus fructirugosum,"Bacteria, Viruses, Fungi",alien,control,Detection,Post-Introduction,2024-09-25T11:33:51Z
+video_011711,Tobamovirus fructirugosum,"Bacteria, Viruses, Fungi",alien,amenaza,Threat,Post-Introduction,2019-12-18T17:41:51Z
+video_001848,Tobamovirus fructirugosum,"Bacteria, Viruses, Fungi",alien,control,Detection,Post-Introduction,2024-09-25T11:34:11Z
+video_001848,Tobamovirus fructirugosum,"Bacteria, Viruses, Fungi",alien,manejo,Detection,Post-Introduction,2024-09-25T11:34:11Z
+video_012930,Tobamovirus fructirugosum,"Bacteria, Viruses, Fungi",alien,amenaza,Threat,Post-Introduction,2020-10-11T09:02:42Z
+video_011936,Tobamovirus fructirugosum,"Bacteria, Viruses, Fungi",alien,control,Detection,Post-Introduction,2024-09-25T11:34:43Z
+video_001694,Tobamovirus fructirugosum,"Bacteria, Viruses, Fungi",alien,deteccion,Detection,Post-Introduction,2021-10-01T10:01:27Z
+video_010552,Tobamovirus fructirugosum,"Bacteria, Viruses, Fungi",alien,control,Detection,Post-Introduction,2024-09-25T11:34:35Z
+video_003193,Tobamovirus fructirugosum,"Bacteria, Viruses, Fungi",alien,control,Detection,Post-Introduction,2024-09-25T11:34:25Z
+video_003193,Tobamovirus fructirugosum,"Bacteria, Viruses, Fungi",alien,vista,Detection,Post-Introduction,2024-09-25T11:34:25Z
+video_008457,Tobamovirus fructirugosum,"Bacteria, Viruses, Fungi",alien,control,Detection,Post-Introduction,2024-09-25T11:33:40Z
+video_006670,Tomato leaf curl New Delhi virus,"Bacteria, Viruses, Fungi",alien,cara,eCommerce,Post-Introduction,2024-11-29T12:27:21Z
+video_001899,Varanus exanthematicus,Herptiles,uncertain,mascota,eCommerce,Post-Introduction,2020-11-25T18:46:26Z
+video_001899,Varanus exanthematicus,Herptiles,uncertain,exotica,Invasion,Post-Introduction,2020-11-25T18:46:26Z
+video_007796,Varanus exanthematicus,Herptiles,uncertain,terrario,eCommerce,Post-Introduction,2011-06-28T19:34:27Z
+video_004713,Vespa orientalis,Insects,alien,exotica,Invasion,Post-Introduction,2025-03-07T11:00:19Z
+video_004713,Vespa orientalis,Insects,alien,invasora,Invasion,Post-Introduction,2025-03-07T11:00:19Z
+video_014749,Vespa orientalis,Insects,alien,encontrado,Detection,Post-Introduction,2025-07-30T11:37:26Z
+video_004795,Vespa orientalis,Insects,alien,invasora,Invasion,Post-Introduction,2024-09-11T06:14:48Z
+video_004795,Vespa orientalis,Insects,alien,amenaza,Threat,Post-Introduction,2024-09-11T06:14:48Z
+video_004551,Vespa orientalis,Insects,alien,plaga,Invasion,Post-Introduction,2024-10-15T12:17:37Z
+video_001547,Vespa orientalis,Insects,alien,peligroso,Threat,Post-Introduction,2025-02-25T17:00:10Z
+video_003162,Vespa orientalis,Insects,alien,invasor,Invasion,Post-Introduction,2022-05-26T12:02:59Z
+video_013603,Vespa orientalis,Insects,alien,invasion,Invasion,Post-Introduction,2025-07-09T14:10:40Z
+video_008712,Vespa orientalis,Insects,alien,control,Detection,Post-Introduction,2024-11-28T07:02:22Z
+video_008712,Vespa orientalis,Insects,alien,expansion,Invasion,Post-Introduction,2024-11-28T07:02:22Z
+video_011832,Vespa orientalis,Insects,alien,invade,Invasion,Post-Introduction,2023-08-30T21:28:55Z
+video_016470,Vespa orientalis,Insects,alien,invasora,Invasion,Post-Introduction,2022-12-16T11:07:50Z
+video_016470,Vespa orientalis,Insects,alien,alerta,Detection,Post-Introduction,2022-12-16T11:07:50Z
+video_016470,Vespa orientalis,Insects,alien,detectado,Detection,Post-Introduction,2022-12-16T11:07:50Z
+video_012107,Vespa orientalis,Insects,alien,invasora,Invasion,Post-Introduction,2024-05-27T15:36:47Z
+video_000016,Vespa orientalis,Insects,alien,trampa,Detection,Post-Introduction,2025-04-16T18:00:00Z
+video_000016,Vespa orientalis,Insects,alien,encontramos,Detection,Post-Introduction,2025-04-16T18:00:00Z
+video_005804,Vespa orientalis,Insects,alien,trampa,Detection,Post-Introduction,2022-05-29T06:45:02Z
+video_004900,Vespa orientalis,Insects,alien,invasion,Invasion,Post-Introduction,2024-10-24T06:27:02Z
+video_000215,Vespa soror,Insects,alien,alerta,Detection,Post-Introduction,2024-12-03T17:00:00Z
+video_006213,Vespa soror,Insects,alien,alerta,Detection,Post-Introduction,2024-12-01T23:51:49Z
+video_014394,Vespa velutina,Insects,established,ameaza,Threat,Post-Introduction,2014-10-24T14:59:09Z
+video_014394,Vespa velutina,Insects,established,invasora,Invasion,Post-Introduction,2014-10-24T14:59:09Z
+video_000699,Vespa velutina,Insects,established,control,Detection,Post-Introduction,2017-05-24T08:23:25Z
+video_007663,Vespa velutina,Insects,established,trampas,Detection,Post-Introduction,2018-04-03T05:43:12Z
+video_011051,Vespa velutina,Insects,established,expansion,Invasion,Post-Introduction,2017-06-05T14:56:43Z
+video_011051,Vespa velutina,Insects,established,invasora,Invasion,Post-Introduction,2017-06-05T14:56:43Z
+video_017036,Vespa velutina,Insects,established,peligrosa,Threat,Post-Introduction,2016-05-30T12:10:43Z
+video_004734,Vespa velutina,Insects,established,invasora,Invasion,Post-Introduction,2022-12-22T13:48:53Z
+video_001649,Vespa velutina,Insects,established,peligro,Threat,Post-Introduction,2011-09-14T14:37:28Z
+video_001649,Vespa velutina,Insects,established,peligrosa,Threat,Post-Introduction,2011-09-14T14:37:28Z
+video_001688,Vespa velutina,Insects,established,capturada,Detection,Post-Introduction,2017-06-11T08:55:23Z
+video_004055,Vespa velutina,Insects,established,veneno,Threat,Post-Introduction,2023-12-07T10:00:19Z
+video_003662,Vespa velutina,Insects,established,peligro,Threat,Post-Introduction,2024-05-23T07:45:00Z
+video_004237,Vespa velutina,Insects,established,invadir,Invasion,Post-Introduction,2019-06-23T17:07:34Z
+video_004686,Vespa velutina,Insects,established,plaga,Invasion,Post-Introduction,2023-11-21T19:59:40Z
+video_014690,Vespa velutina,Insects,established,trampa,Detection,Post-Introduction,2025-05-29T09:01:14Z
+video_003829,Vespa velutina,Insects,established,trampa,Detection,Post-Introduction,2023-09-23T14:14:46Z
+video_009075,Vespa velutina,Insects,established,letal,Threat,Post-Introduction,2024-12-19T18:37:40Z
+video_009075,Vespa velutina,Insects,established,veneno,Threat,Post-Introduction,2024-12-19T18:37:40Z
+video_009075,Vespa velutina,Insects,established,peligroso,Threat,Post-Introduction,2024-12-19T18:37:40Z
+video_012034,Vespa velutina,Insects,established,invasora,Invasion,Post-Introduction,2021-12-13T15:53:31Z
+video_010432,Vespa velutina,Insects,established,trampa,Detection,Post-Introduction,2021-08-04T17:35:47Z
+video_001440,Vespa velutina,Insects,established,trampas,Detection,Post-Introduction,2021-08-19T18:45:23Z
+video_014217,Vespa velutina,Insects,established,atacando,Threat,Post-Introduction,2024-09-14T21:39:54Z
+video_014935,Vespa velutina,Insects,established,identificado,Detection,Post-Introduction,2025-01-09T18:04:17Z
+video_014935,Vespa velutina,Insects,established,detectada,Detection,Post-Introduction,2025-01-09T18:04:17Z
+video_015126,Vespa velutina,Insects,established,control,Detection,Post-Introduction,2025-04-01T10:22:18Z
+video_015126,Vespa velutina,Insects,established,invasor,Invasion,Post-Introduction,2025-04-01T10:22:18Z
+video_013098,Vespa velutina,Insects,established,tienda,eCommerce,Post-Introduction,2019-10-14T11:22:40Z
+video_002094,Vespa velutina,Insects,established,invade,Invasion,Post-Introduction,2012-09-13T09:52:09Z
+video_000217,Vespa velutina,Insects,established,trampas,Detection,Post-Introduction,2016-09-07T13:11:40Z
+video_008296,Vespa velutina,Insects,established,atacando,Threat,Post-Introduction,2022-10-10T20:57:26Z
+video_004361,Vespa velutina,Insects,established,invasora,Invasion,Post-Introduction,2021-01-06T11:05:38Z
+video_001740,Vespa velutina,Insects,established,peligro,Threat,Post-Introduction,2022-11-04T11:17:52Z
+video_001740,Vespa velutina,Insects,established,hallazgo,Detection,Post-Introduction,2022-11-04T11:17:52Z
+video_001740,Vespa velutina,Insects,established,peligroso,Threat,Post-Introduction,2022-11-04T11:17:52Z
+video_009873,Vespa velutina,Insects,established,expansion,Invasion,Post-Introduction,2019-09-20T19:38:46Z
+video_012564,Vespa velutina,Insects,established,trampa,Detection,Post-Introduction,2022-08-12T20:06:42Z
+video_011156,Vespa velutina,Insects,established,captura,Detection,Post-Introduction,2013-02-27T21:28:55Z
+video_012398,Vespa velutina,Insects,established,amenaza,Threat,Post-Introduction,2018-07-19T17:30:54Z
+video_006004,Vespa velutina,Insects,established,trampas,Detection,Post-Introduction,2016-09-08T10:27:31Z
+video_006004,Vespa velutina,Insects,established,capturar,Detection,Post-Introduction,2016-09-08T10:27:31Z
+video_000205,Vespa velutina,Insects,established,trampa,Detection,Post-Introduction,2020-09-17T22:51:17Z
+video_000205,Vespa velutina,Insects,established,exotica,Invasion,Post-Introduction,2020-09-17T22:51:17Z
+video_000205,Vespa velutina,Insects,established,invasora,Invasion,Post-Introduction,2020-09-17T22:51:17Z
+video_000738,Vespa velutina,Insects,established,peligro,Threat,Post-Introduction,2021-08-07T13:04:36Z
+video_000738,Vespa velutina,Insects,established,nocivo,Threat,Post-Introduction,2021-08-07T13:04:36Z
+video_011164,Vespa velutina,Insects,established,trampa,Detection,Post-Introduction,2022-11-16T14:16:36Z
+video_011164,Vespa velutina,Insects,established,trampas,Detection,Post-Introduction,2022-11-16T14:16:36Z
+video_016506,Vespa velutina,Insects,established,comprar,eCommerce,Post-Introduction,2020-08-05T18:10:16Z
+video_003020,Vespa velutina,Insects,established,aparicion,Detection,Post-Introduction,2018-07-25T14:40:04Z
+video_010345,Vespa velutina,Insects,established,trampa,Detection,Post-Introduction,2018-01-23T17:12:45Z
+video_001453,Vespa velutina,Insects,established,trampa,Detection,Post-Introduction,2018-03-03T20:00:30Z
+video_006448,Vespa velutina,Insects,established,trampa,Detection,Post-Introduction,2014-11-07T10:19:36Z
+video_000103,Vespa velutina,Insects,established,trampa,Detection,Post-Introduction,2018-02-21T19:33:33Z
+video_000103,Vespa velutina,Insects,established,introduccion,Invasion,Post-Introduction,2018-02-21T19:33:33Z
+video_006811,Vespa velutina,Insects,established,aparece,Detection,Post-Introduction,2020-07-14T16:33:20Z
+video_000117,Vespa velutina,Insects,established,invasion,Invasion,Post-Introduction,2017-12-23T21:58:32Z
+video_005830,Vespa velutina,Insects,established,trampa,Detection,Post-Introduction,2023-08-03T21:30:09Z
+video_016952,Vespa velutina,Insects,established,plaga,Invasion,Post-Introduction,2017-09-12T08:32:13Z
+video_005550,Vespa velutina,Insects,established,plaga,Invasion,Post-Introduction,2020-07-23T21:24:44Z
+video_011260,Vespa velutina,Insects,established,trampa,Detection,Post-Introduction,2018-09-05T13:36:22Z
+video_004028,Vespa velutina,Insects,established,trampa,Detection,Post-Introduction,2021-02-26T22:29:23Z
+video_003838,Vespa velutina,Insects,established,deteccion,Detection,Post-Introduction,2021-01-03T09:10:40Z
+video_013995,Vespa velutina,Insects,established,trampas,Detection,Post-Introduction,2019-01-02T18:21:23Z
+video_013995,Vespa velutina,Insects,established,capturado,Detection,Post-Introduction,2019-01-02T18:21:23Z
+video_005784,Vespa velutina,Insects,established,trampa,Detection,Post-Introduction,2020-10-28T18:49:43Z
+video_013515,Vespa velutina,Insects,established,aparecer,Detection,Post-Introduction,2023-10-13T09:32:54Z
+video_004286,Vespa velutina,Insects,established,trampa,Detection,Post-Introduction,2017-09-06T15:57:12Z
+video_004286,Vespa velutina,Insects,established,plaga,Invasion,Post-Introduction,2017-09-06T15:57:12Z
+video_011465,Vespa velutina,Insects,established,ataca,Threat,Post-Introduction,2019-09-04T20:19:31Z
+video_011465,Vespa velutina,Insects,established,invasora,Invasion,Post-Introduction,2019-09-04T20:19:31Z
+video_005205,Vespa velutina,Insects,established,trampa,Detection,Post-Introduction,2023-12-01T14:37:44Z
+video_005205,Vespa velutina,Insects,established,trampas,Detection,Post-Introduction,2023-12-01T14:37:44Z
+video_005335,Vespa velutina,Insects,established,peligrosa,Threat,Post-Introduction,2024-11-14T19:30:02Z
+video_002433,Vespa velutina,Insects,established,trampas,Detection,Post-Introduction,2017-09-03T18:09:58Z
+video_009678,Vespa velutina,Insects,established,trampa,Detection,Post-Introduction,2017-10-13T23:02:08Z
+video_014838,Vespa velutina,Insects,established,encontrado,Detection,Post-Introduction,2024-10-12T17:08:36Z
+video_000449,Vespa velutina,Insects,established,armadilha,Detection,Post-Introduction,2019-10-01T20:18:02Z
+video_014274,Vespa velutina,Insects,established,perigo,Threat,Post-Introduction,2023-09-02T14:00:35Z
+video_014795,Vespa velutina,Insects,established,ameaca,Threat,Post-Introduction,2014-10-28T16:04:42Z
+video_001496,Vespa velutina,Insects,established,perigo,Threat,Post-Introduction,2015-07-07T17:19:14Z
+video_002277,Vespa velutina,Insects,established,armadilha,Detection,Post-Introduction,2022-09-18T19:41:41Z
+video_001005,Vespa velutina,Insects,established,capturada,Detection,Post-Introduction,2021-10-17T18:33:02Z
+video_001005,Vespa velutina,Insects,established,armadilhas,Detection,Post-Introduction,2021-10-17T18:33:02Z
+video_000188,Vespa velutina,Insects,established,armadilha,Detection,Post-Introduction,2022-10-15T18:12:09Z
+video_010016,Vespa velutina,Insects,established,trampas,Detection,Post-Introduction,2023-07-03T14:06:39Z
+video_010016,Vespa velutina,Insects,established,tienda,eCommerce,Post-Introduction,2023-07-03T14:06:39Z
+video_010013,Vespa velutina,Insects,established,control,Detection,Post-Introduction,2023-09-01T17:58:52Z
+video_002904,Vespa velutina,Insects,established,invasora,Invasion,Post-Introduction,2020-02-08T08:10:53Z
+video_016949,Vespa velutina,Insects,established,invasor,Invasion,Post-Introduction,2021-05-06T11:12:00Z
+video_016499,Vespa velutina,Insects,established,deteccion,Detection,Post-Introduction,2015-09-11T10:36:47Z
+video_010642,Vespa velutina,Insects,established,seguimiento,Detection,Post-Introduction,2024-01-07T10:23:31Z
+video_006268,Vespa velutina,Insects,established,trampa,Detection,Post-Introduction,2020-05-20T16:46:53Z
+video_013003,Vespa velutina,Insects,established,detectado,Detection,Post-Introduction,2015-10-06T11:08:41Z
+video_014172,Vespa velutina,Insects,established,control,Detection,Post-Introduction,2016-11-14T08:02:10Z
+video_000256,Vespa velutina,Insects,established,captura,Detection,Post-Introduction,2020-04-28T23:04:55Z
+video_010898,Vespa velutina,Insects,established,exotica,Invasion,Post-Introduction,2023-10-14T09:24:09Z
+video_010898,Vespa velutina,Insects,established,reciente,Detection,Post-Introduction,2023-10-14T09:24:09Z
+video_010898,Vespa velutina,Insects,established,aparicion,Detection,Post-Introduction,2023-10-14T09:24:09Z
+video_006577,Vespa velutina,Insects,established,trampas,Detection,Post-Introduction,2020-05-07T09:11:50Z
+video_016755,Vespa velutina,Insects,established,trampa,Detection,Post-Introduction,2016-12-08T21:03:40Z
+video_002444,Vespa velutina,Insects,established,trampa,Detection,Post-Introduction,2025-07-30T00:19:29Z
+video_004232,Vespa velutina,Insects,established,atacando,Threat,Post-Introduction,2015-09-10T14:28:51Z
+video_010256,Vespa velutina,Insects,established,plaga,Invasion,Post-Introduction,2021-10-04T14:55:45Z
+video_003424,Vespa velutina,Insects,established,trampa,Detection,Post-Introduction,2014-09-26T00:27:14Z
+video_003424,Vespa velutina,Insects,established,barato,eCommerce,Post-Introduction,2014-09-26T00:27:14Z
+video_011166,Vespa velutina,Insects,established,trampas,Detection,Post-Introduction,2023-07-30T18:20:51Z
+video_011166,Vespa velutina,Insects,established,establecido,Invasion,Post-Introduction,2023-07-30T18:20:51Z
+video_010286,Vespa velutina,Insects,established,atacando,Threat,Post-Introduction,2019-10-27T11:10:43Z
+video_004669,Vespa velutina,Insects,established,atacando,Threat,Post-Introduction,2015-11-08T20:40:54Z
+video_013646,Vespa velutina,Insects,established,trampa,Detection,Post-Introduction,2020-08-09T13:15:06Z
+video_010237,Vespa velutina,Insects,established,avistamiento,Detection,Post-Introduction,2021-05-09T22:25:59Z
+video_010000,Vespa velutina,Insects,established,plaga,Invasion,Post-Introduction,2020-08-11T15:43:19Z
+video_002926,Vespa velutina,Insects,established,trampas,Detection,Post-Introduction,2021-09-11T21:05:29Z
+video_011128,Vespa velutina,Insects,established,invasora,Invasion,Post-Introduction,2023-09-12T11:26:50Z
+video_010889,Vespa velutina,Insects,established,controlar,Detection,Post-Introduction,2023-12-28T16:01:08Z
+video_001705,Vespa velutina,Insects,established,armadilhas,Detection,Post-Introduction,2023-04-06T13:15:01Z
+video_002958,Vespa velutina,Insects,established,nativa,Invasion,Post-Introduction,2022-02-24T12:13:53Z
+video_002958,Vespa velutina,Insects,established,captura,Detection,Post-Introduction,2022-02-24T12:13:53Z
+video_016728,Vespa velutina,Insects,established,invasora,Invasion,Post-Introduction,2021-07-26T18:44:57Z
+video_004680,Vespa velutina,Insects,established,contaminacion,Threat,Post-Introduction,2015-11-10T08:51:19Z
+video_011043,Vespa velutina,Insects,established,armadilhas,Detection,Post-Introduction,2023-05-10T20:00:17Z
+video_008923,Vespa velutina,Insects,established,invasion,Invasion,Post-Introduction,2017-03-22T21:56:22Z
+video_008923,Vespa velutina,Insects,established,control,Detection,Post-Introduction,2017-03-22T21:56:22Z
+video_014763,Wasmannia auropunctata,Insects,established,invasora,Invasion,Post-Introduction,2024-08-06T19:30:05Z
+video_009735,Wasmannia auropunctata,Insects,established,alerta,Detection,Post-Introduction,2025-01-20T18:00:32Z
+video_009735,Wasmannia auropunctata,Insects,established,exotica,Invasion,Post-Introduction,2025-01-20T18:00:32Z
+video_009735,Wasmannia auropunctata,Insects,established,invasora,Invasion,Post-Introduction,2025-01-20T18:00:32Z
+video_009735,Wasmannia auropunctata,Insects,established,peligrosa,Threat,Post-Introduction,2025-01-20T18:00:32Z
+video_007938,Xylella fastidiosa,"Bacteria, Viruses, Fungi",alien,amenaza,Threat,Post-Introduction,2023-02-02T11:26:37Z
+video_011849,Xylella fastidiosa,"Bacteria, Viruses, Fungi",alien,plaga,Invasion,Post-Introduction,2018-02-26T09:19:15Z
+video_016735,Xylella fastidiosa,"Bacteria, Viruses, Fungi",alien,introduccion,Invasion,Post-Introduction,2021-06-17T08:10:24Z
+video_013174,Xylella fastidiosa,"Bacteria, Viruses, Fungi",alien,detectado,Detection,Post-Introduction,2018-10-16T15:12:45Z
+video_007714,Xylella fastidiosa,"Bacteria, Viruses, Fungi",alien,detectada,Detection,Post-Introduction,2018-04-17T21:58:28Z
+video_002131,Xylella fastidiosa,"Bacteria, Viruses, Fungi",alien,amenaza,Threat,Post-Introduction,2019-03-12T16:15:10Z
+video_002131,Xylella fastidiosa,"Bacteria, Viruses, Fungi",alien,deteccion,Detection,Post-Introduction,2019-03-12T16:15:10Z
+video_014624,Xylella fastidiosa,"Bacteria, Viruses, Fungi",alien,control,Detection,Post-Introduction,2018-04-13T17:03:16Z
+video_001579,Xylella fastidiosa,"Bacteria, Viruses, Fungi",alien,amenaza,Threat,Post-Introduction,2017-09-23T14:36:19Z
+video_005080,Xylella fastidiosa,"Bacteria, Viruses, Fungi",alien,deteccion,Detection,Post-Introduction,2019-09-19T15:49:45Z
+video_008212,Xylella fastidiosa,"Bacteria, Viruses, Fungi",alien,deteccion,Detection,Post-Introduction,2017-09-28T09:53:58Z
+video_013423,Xylella fastidiosa,"Bacteria, Viruses, Fungi",alien,control,Detection,Post-Introduction,2023-12-01T09:26:20Z
+video_000284,Xylella fastidiosa,"Bacteria, Viruses, Fungi",alien,plaga,Invasion,Post-Introduction,2018-06-21T07:54:08Z
+video_015991,Xylella fastidiosa,"Bacteria, Viruses, Fungi",alien,peligrosa,Threat,Post-Introduction,2017-07-07T10:44:51Z
+video_011991,Xylella fastidiosa,"Bacteria, Viruses, Fungi",alien,contaminacion,Threat,Pre-Introduction,2015-09-10T18:03:51Z
+video_014246,Xylella fastidiosa,"Bacteria, Viruses, Fungi",alien,deteccion,Detection,Post-Introduction,2017-07-18T07:46:18Z
+video_010091,Xylella fastidiosa,"Bacteria, Viruses, Fungi",alien,detectado,Detection,Post-Introduction,2018-04-18T08:54:33Z
+video_016410,Xylella fastidiosa,"Bacteria, Viruses, Fungi",alien,vector,Threat,Post-Introduction,2021-04-07T12:30:50Z
+video_011933,Xylella fastidiosa,"Bacteria, Viruses, Fungi",alien,deteccion,Detection,Post-Introduction,2017-06-30T17:13:07Z
+video_008549,Xylella fastidiosa,"Bacteria, Viruses, Fungi",alien,control,Detection,Post-Introduction,2018-01-08T07:46:03Z
+video_007325,Xylella fastidiosa,"Bacteria, Viruses, Fungi",alien,plaga,Invasion,Post-Introduction,2021-07-15T06:57:56Z
+video_015586,Xylella fastidiosa,"Bacteria, Viruses, Fungi",alien,amenaza,Threat,Pre-Introduction,2015-01-26T10:13:34Z
+video_011907,Xylella fastidiosa,"Bacteria, Viruses, Fungi",alien,peligro,Threat,Post-Introduction,2024-08-12T17:50:27Z
+video_010188,Xylella fastidiosa,"Bacteria, Viruses, Fungi",alien,amenaza,Threat,Pre-Introduction,2015-02-17T09:39:56Z
+video_015985,Xylella fastidiosa,"Bacteria, Viruses, Fungi",alien,plaga,Invasion,Post-Introduction,2017-07-20T15:42:43Z
+video_015985,Xylella fastidiosa,"Bacteria, Viruses, Fungi",alien,controlada,Detection,Post-Introduction,2017-07-20T15:42:43Z
+video_015237,Xylella fastidiosa,"Bacteria, Viruses, Fungi",alien,plaga,Invasion,Post-Introduction,2024-04-24T09:03:49Z
+video_005656,Xylella fastidiosa,"Bacteria, Viruses, Fungi",alien,deteccion,Detection,Post-Introduction,2019-09-19T15:49:45Z
+video_008970,Xylella fastidiosa,"Bacteria, Viruses, Fungi",alien,manejo,Detection,Post-Introduction,2023-05-18T11:27:48Z
+video_008970,Xylella fastidiosa,"Bacteria, Viruses, Fungi",alien,plagas,Invasion,Post-Introduction,2023-05-18T11:27:48Z
+video_004849,Xylella fastidiosa,"Bacteria, Viruses, Fungi",alien,control,Detection,Post-Introduction,2019-09-25T12:57:25Z
+video_002696,Xylella fastidiosa,"Bacteria, Viruses, Fungi",alien,adoptadas,eCommerce,Post-Introduction,2017-03-02T12:23:25Z
+video_009456,Xylella fastidiosa,"Bacteria, Viruses, Fungi",alien,deteccion,Detection,Post-Introduction,2019-09-19T15:49:45Z
+video_003211,Xylella fastidiosa,"Bacteria, Viruses, Fungi",alien,perigosa,Threat,Post-Introduction,2023-01-16T10:29:05Z
+video_003211,Xylella fastidiosa,"Bacteria, Viruses, Fungi",alien,ataca,Threat,Post-Introduction,2023-01-16T10:29:05Z
+video_003211,Xylella fastidiosa,"Bacteria, Viruses, Fungi",alien,risco,Threat,Post-Introduction,2023-01-16T10:29:05Z
+video_015659,Xylella fastidiosa,"Bacteria, Viruses, Fungi",alien,controlo,Detection,Post-Introduction,2023-02-27T14:32:48Z
+video_015659,Xylella fastidiosa,"Bacteria, Viruses, Fungi",alien,identificada,Detection,Post-Introduction,2023-02-27T14:32:48Z
+video_015659,Xylella fastidiosa,"Bacteria, Viruses, Fungi",alien,recentemente,Detection,Post-Introduction,2023-02-27T14:32:48Z
+video_012184,Xylella fastidiosa,"Bacteria, Viruses, Fungi",alien,dispersion,Invasion,Post-Introduction,2021-03-17T08:44:12Z
+video_012184,Xylella fastidiosa,"Bacteria, Viruses, Fungi",alien,vector,Threat,Post-Introduction,2021-03-17T08:44:12Z
+video_011636,Xylella fastidiosa,"Bacteria, Viruses, Fungi",alien,deteccion,Detection,Post-Introduction,2019-09-19T15:49:45Z
+video_009839,Xylella fastidiosa,"Bacteria, Viruses, Fungi",alien,deteccion,Detection,Post-Introduction,2023-11-29T12:35:31Z
+video_005064,Xylella fastidiosa,"Bacteria, Viruses, Fungi",alien,expansion,Invasion,Post-Introduction,2019-09-25T12:25:38Z
+video_005281,Xylella fastidiosa,"Bacteria, Viruses, Fungi",alien,control,Detection,Post-Introduction,2023-12-01T09:28:00Z
+video_016457,Zebrasoma flavescens,Fishes,uncertain,acuario,eCommerce,Post-Introduction,2023-05-21T15:46:43Z
+video_015983,Zebrasoma flavescens,Fishes,uncertain,acuario,eCommerce,Post-Introduction,2017-05-19T16:35:15Z
+video_002449,Zebrasoma flavescens,Fishes,uncertain,acuario,eCommerce,Post-Introduction,2010-02-27T05:40:35Z
+video_015372,Zebrasoma flavescens,Fishes,uncertain,acuario,eCommerce,Post-Introduction,2017-10-30T08:35:08Z
+video_002802,Zebrasoma flavescens,Fishes,uncertain,tienda,eCommerce,Post-Introduction,2021-09-25T08:19:08Z
+video_002802,Zebrasoma flavescens,Fishes,uncertain,precio,eCommerce,Post-Introduction,2021-09-25T08:19:08Z
+video_006056,Zebrasoma flavescens,Fishes,uncertain,acuario,eCommerce,Post-Introduction,2015-09-26T06:48:47Z
+video_006973,Zebrasoma flavescens,Fishes,uncertain,acuarios,eCommerce,Post-Introduction,2014-10-29T09:51:01Z
+video_012743,Zebrasoma flavescens,Fishes,uncertain,acuario,eCommerce,Post-Introduction,2016-07-01T15:14:23Z
+video_000941,Zebrasoma flavescens,Fishes,uncertain,acuario,eCommerce,Post-Introduction,2012-01-08T16:36:30Z
+video_004673,Zebrasoma flavescens,Fishes,uncertain,aquario,eCommerce,Post-Introduction,2017-10-07T18:33:51Z
