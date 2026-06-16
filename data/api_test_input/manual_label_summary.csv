@@ -1,2 +1,0 @@
-label_file,n_candidates,n_labelled_rows,n_validated,n_excluded_or_unlabelled,n_uncertain
-data/validation_templates/manual_iberian_labels.csv,12,12,5,7,0

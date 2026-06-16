@@ -1,5 +1,0 @@
-reviewer,video_shared_rows,video_extra_rows,video_total_rows,video_file,keyword_shared_rows,keyword_extra_rows,keyword_total_rows,keyword_file
-Ana,1-50,51-199,88,outputs/validation/validation_files_by_reviewer/Ana/Ana_LABEL_Iberia_relevance_validation.csv,1-50,51-395,137,outputs/validation/validation_files_by_reviewer/Ana/Ana_keyword_category_validation.csv
-Loreto,1-50,52-200,88,outputs/validation/validation_files_by_reviewer/Loreto/Loreto_LABEL_Iberia_relevance_validation.csv,1-50,52-392,136,outputs/validation/validation_files_by_reviewer/Loreto/Loreto_keyword_category_validation.csv
-Gabriel,1-50,53-197,87,outputs/validation/validation_files_by_reviewer/Gabriel/Gabriel_LABEL_Iberia_relevance_validation.csv,1-50,53-393,136,outputs/validation/validation_files_by_reviewer/Gabriel/Gabriel_keyword_category_validation.csv
-Valerio,1-50,54-198,87,outputs/validation/validation_files_by_reviewer/Valerio/Valerio_LABEL_Iberia_relevance_validation.csv,1-50,54-394,136,outputs/validation/validation_files_by_reviewer/Valerio/Valerio_keyword_category_validation.csv
