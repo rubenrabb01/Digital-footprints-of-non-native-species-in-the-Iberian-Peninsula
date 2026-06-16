@@ -1,0 +1,5 @@
+dataset,file,n_rows,n_unique_videos
+REG raw,optional_youtube_api_preworkflow/data_raw/yt_species_videos_ES_PT_regioncode_scientific_common_dedup.csv,12,12
+GEO raw,optional_youtube_api_preworkflow/data_raw/yt_species_videos_ES_PT_geotagged_dedup_1200km_new_locs_espanded.csv,0,0
+Comments raw,optional_youtube_api_preworkflow/data_raw/YT_comments_with_timestamps_long.csv,369,9
+All raw videos,data/preparation_input/api_all_raw_videos.csv,12,12

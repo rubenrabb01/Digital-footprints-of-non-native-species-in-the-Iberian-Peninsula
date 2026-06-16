@@ -1,0 +1,5 @@
+output,path,exists
+videos_validated_from_api.csv,data/paper_input/videos_validated_from_api.csv,TRUE
+comments_timestamped_from_api.csv,data/paper_input/comments_timestamped_from_api.csv,TRUE
+videos_validated.csv,data/paper_input/videos_validated.csv,TRUE
+comments_timestamped.csv,data/paper_input/comments_timestamped.csv,TRUE
