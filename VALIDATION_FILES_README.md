@@ -23,11 +23,11 @@ Compatibility copies are also retained under `outputs/validation/` so that earli
 Two naming schemes are supported:
 
 ```text
-validation_files_by_reviewer/    Named folders used during the internal validation stage
-validation_files_by_validator/   Anonymised folders suitable for public sharing
+validation_files_by_reviewer/    Named validator folders from the validation round
+validation_files_by_validator/   Generic validator-ID folders
 ```
 
-The scripts can read both. For public release, the anonymised `validation_files_by_validator/` structure is recommended.
+The scripts can read both. For repository sharing, the generic `validation_files_by_validator/` structure is recommended.
 
 ## Where to place completed files
 

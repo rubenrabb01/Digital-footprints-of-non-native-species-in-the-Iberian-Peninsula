@@ -26,8 +26,8 @@ This file preserves visual colour coding used during curation. It is included fo
 **Role:** ungrouped YouTube search-term list.  
 **Rows:** 520 search terms, plus header.
 
-This file contains scientific names, vernacular names, and spelling variants used in YouTube searches. The terms are intentionally stored as a simple one-column list and are not grouped by scientific species name. The full grouped search-term objects used in the private bulk API retrieval workflow are not redistributed in the public package.
+This file contains scientific names, vernacular names, and spelling variants used in YouTube searches. The terms are stored as a simple one-column list of scientific names, vernacular names, and spelling variants used in the YouTube searches. This file documents the search vocabulary used to define the study corpus.
 
 ## Source database
 
-The full Alien Species First Records Database v3.1 is not redistributed in this repository. Users should download it from the official Zenodo record cited in the manuscript. This avoids duplicating the full external source database and keeps the repository focused on the derived files needed to understand and reproduce the study workflow.
+The full Alien Species First Records Database v3.1 should be obtained from the official Zenodo record cited in the manuscript. This repository includes the curated first-record table used to define the study search scope and first-record timelines.

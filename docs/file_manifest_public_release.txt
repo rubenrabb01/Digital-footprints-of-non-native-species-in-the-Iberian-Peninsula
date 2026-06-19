@@ -74,7 +74,7 @@ docs/PUBLIC_DATA_DEIDENTIFICATION_NOTE.md
 docs/SPECIES_AND_SEARCH_TERMS_GUIDE.md
 docs/deidentification_audit_summary.csv
 docs/file_manifest_public_release.txt
-docs/geo_anchor_overlap_with_repo_datasets.csv
+docs/geo_retrieval_overlap_with_repo_datasets.csv
 docs/geo_sourceflag_comparison_summary.csv
 docs/keyword_lists_cleaned.R
 docs/source_flag_file_summary.csv

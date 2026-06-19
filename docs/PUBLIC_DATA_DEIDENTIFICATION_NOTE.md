@@ -4,8 +4,6 @@ This public-release package uses de-identified YouTube-derived data. Direct YouT
 
 The anonymisation preserves the structure needed for the manuscript workflow: repeated videos and channels retain consistent internal labels, so deduplication, channel-concentration analyses, validation summaries, and temporal analyses can still be reproduced.
 
-Video titles, descriptions, and comment text fields are retained in the analysis input files because they are required to reproduce the tokenisation and thematic-classification steps. These fields should be handled as platform-derived text and should not be interpreted as author-created content. API keys, direct video URLs, original video IDs, original channel names, and raw RDS API objects are not redistributed.
-
-For a stricter public archive, the workflow could be released from already-derived token/category tables only, but that would no longer reproduce the full text-processing pipeline from the same starting point.
+Video titles, descriptions, and comment text fields are retained in the analysis input files because they are required to reproduce the tokenisation and thematic-classification steps. These fields should be handled as platform-derived text and should not be interpreted as author-created content. API keys, direct video URLs, original video IDs, original channel names, and raw RDS API objects are not included in the repository files.
 
 Inline web links found inside text fields were also replaced with `[link withheld]`.

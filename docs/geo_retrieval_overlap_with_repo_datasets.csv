@@ -1,0 +1,5 @@
+dataset,rows,unique_video_ids,geo_retrieval_overlap,geo_retrieval_not_in_dataset,dataset_not_in_geo_retrieval
+current_paper_input_videos_validated_final_LABEL_1899_records,1899,1895,68,237,1827
+api_regioncode_labelled,1884,1884,68,237,1816
+api_regioncode_postfiltered_candidates,6935,6935,81,224,6854
+api_regioncode_raw,16844,16844,145,160,16699

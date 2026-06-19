@@ -2,7 +2,7 @@
 
 This repository contains the R workflow used to analyse YouTube videos about recently introduced non-native species in the Iberian Peninsula.
 
-The main analyses are reproducible from the curated files in `data/paper_input/`. The public package includes the data-preparation lineage and a minimal illustrative YouTube API example, but not the full bulk API retrieval workflow or raw API outputs. Rerunning API searches can produce different results because YouTube content, metadata, comments, and ranking can change over time.
+The main analyses are reproducible from the curated files in `data/paper_input/`. The repository also includes data-preparation lineage files and a minimal illustrative YouTube API example. Rerunning API searches can produce different results because YouTube content, metadata, comments, and ranking can change over time.
 
 ## Repository documentation
 
@@ -43,7 +43,7 @@ data/paper_input/comments_timestamped.csv
 
 `videos_validated.csv` is the final manually validated video-level corpus used by the main analyses. It contains 1,899 analysed video records. `comments_timestamped.csv` contains timestamped comments and replies used only for the comments-only sensitivity analysis.
 
-Additional species-list and search-term files are provided in `data/species_input/`. These document the curated first-record table used to define the study scope and the ungrouped list of scientific, vernacular, and spelling-variant search terms used for YouTube retrieval. The full Alien Species First Records Database is not redistributed; users should obtain it from its official Zenodo record.
+Additional species-list and search-term files are provided in `data/species_input/`. These document the curated first-record table used to define the study scope and the ungrouped list of scientific, vernacular, and spelling-variant search terms used for YouTube retrieval. The full Alien Species First Records Database should be obtained from its official Zenodo record.
 
 ## Output structure
 
@@ -137,7 +137,7 @@ The outputs are written to `outputs/figures/exploratory/` and can be inspected b
 
 ### Optional API example
 
-The full bulk API retrieval workflow is not required for manuscript reproduction and is not redistributed in the public package. A minimal illustrative single-query example is provided only to show the basic structure of a YouTube Data API request in R.
+The manuscript analyses are reproduced from the curated analytical datasets. A minimal illustrative single-query example is provided to show the basic structure of a YouTube Data API request in R.
 
 ```r
 rm(list = ls())
@@ -150,9 +150,7 @@ The example writes a small demonstration output to `optional_youtube_api_example
 
 ## Validation files
 
-Validation files are stored under `data/validation_input/`, with compatibility copies under `outputs/validation/`. The workflow supports both named internal validation folders and anonymised validator folders for public release.
-
-For public sharing, use the anonymised folders and summary outputs unless individual validators have agreed to share named files.
+Validation files are stored under `data/validation_input/`, with compatibility copies under `outputs/validation/`. The workflow supports both named validator folders and generic validator folders. For repository sharing, the generic validator folders and summary outputs are recommended.
 
 More details are provided in [Validation file notes](VALIDATION_FILES_README.md).
 
@@ -160,9 +158,7 @@ More details are provided in [Validation file notes](VALIDATION_FILES_README.md)
 
 This repository is intended to support transparency and reproducibility of the associated manuscript. It contains curated data, scripts, figures, tables, and documentation needed to inspect and reproduce the analyses.
 
-Raw YouTube platform content and the full bulk API retrieval workflow are not redistributed beyond the curated analytical files included here. Users who run new API searches should expect results to differ from the frozen manuscript corpus because platform content and API results change over time.
-
-Reuse of scripts, workflow structure, or derivative code for other projects requires permission from the authors unless a separate licence is added later. Please cite the associated manuscript and repository when using this workflow to inspect, reproduce, or build upon the analyses.
+Users who run new API searches should expect results to differ from the frozen manuscript corpus because platform content and API results change over time. Please cite the associated manuscript and repository when using this workflow to inspect, reproduce, or build upon the analyses.
 
 
 ## Data de-identification
