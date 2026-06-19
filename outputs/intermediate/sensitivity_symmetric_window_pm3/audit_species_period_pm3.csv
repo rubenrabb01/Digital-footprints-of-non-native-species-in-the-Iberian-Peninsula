@@ -1,0 +1,41 @@
+TaxonName,time_period_pm,n_tokens,n_videos,LifeForm,PresentStatus
+Bursaphelenchus_xylophilus,Post-Introduction,1,1,Non-arthropod invertebrates,established
+Bursaphelenchus_xylophilus,Pre-Introduction,0,0,NA,NA
+Cherax_quadricarinatus,Post-Introduction,3,1,Crustaceans,alien
+Cherax_quadricarinatus,Pre-Introduction,0,0,NA,NA
+Cydalima_perspectalis,Post-Introduction,2,1,Insects,established
+Cydalima_perspectalis,Pre-Introduction,0,0,NA,NA
+Dryocosmus_kuriphilus,Post-Introduction,5,2,Insects,alien
+Dryocosmus_kuriphilus,Pre-Introduction,0,0,NA,NA
+Eupsittula_pertinax,Post-Introduction,1,1,Birds,alien
+Eupsittula_pertinax,Pre-Introduction,0,0,NA,NA
+Graptemys_pseudogeographica,Post-Introduction,2,2,Herptiles,established
+Graptemys_pseudogeographica,Pre-Introduction,0,0,NA,NA
+Leuciscus_aspius,Post-Introduction,1,1,Fishes,established
+Leuciscus_aspius,Pre-Introduction,1,1,Fishes,established
+Mauremys_reevesii,Post-Introduction,2,2,Herptiles,alien
+Mauremys_reevesii,Pre-Introduction,0,0,NA,NA
+Platycerium_bifurcatum,Post-Introduction,1,1,Plants,established
+Platycerium_bifurcatum,Pre-Introduction,0,0,NA,NA
+Pomacea_maculata,Post-Introduction,1,1,Non-arthropod invertebrates,established
+Pomacea_maculata,Pre-Introduction,0,0,NA,NA
+Pseudemys_peninsularis,Post-Introduction,1,1,Herptiles,alien
+Pseudemys_peninsularis,Pre-Introduction,0,0,NA,NA
+Psittacus_erithacus,Post-Introduction,4,3,Birds,casual
+Psittacus_erithacus,Pre-Introduction,6,4,Birds,casual
+Spodoptera_frugiperda,Post-Introduction,2,1,Insects,alien
+Spodoptera_frugiperda,Pre-Introduction,0,0,NA,NA
+Testudo_marginata,Post-Introduction,0,0,NA,NA
+Testudo_marginata,Pre-Introduction,3,1,Herptiles,established
+Tobamovirus_fructirugosum,Post-Introduction,3,3,"Bacteria, Viruses, Fungi",alien
+Tobamovirus_fructirugosum,Pre-Introduction,0,0,NA,NA
+Varanus_exanthematicus,Post-Introduction,1,1,Herptiles,uncertain
+Varanus_exanthematicus,Pre-Introduction,0,0,NA,NA
+Vespa_soror,Post-Introduction,2,2,Insects,alien
+Vespa_soror,Pre-Introduction,0,0,NA,NA
+Vespa_velutina,Post-Introduction,5,3,Insects,established
+Vespa_velutina,Pre-Introduction,0,0,NA,NA
+Xylella_fastidiosa,Post-Introduction,24,21,"Bacteria, Viruses, Fungi",alien
+Xylella_fastidiosa,Pre-Introduction,3,3,"Bacteria, Viruses, Fungi",alien
+Zebrasoma_flavescens,Post-Introduction,1,1,Fishes,uncertain
+Zebrasoma_flavescens,Pre-Introduction,0,0,NA,NA
