@@ -1,0 +1,65 @@
+LifeForm,time_period,KeywordCategory,prob,time_period_plot,n_eff,se,lower,upper
+Birds,Pre-Introduction,Invasion,0,Pre-Introduction,NA,NA,NA,NA
+Birds,Pre-Introduction,Detection,0,Pre-Introduction,NA,NA,NA,NA
+Birds,Pre-Introduction,eCommerce,0,Pre-Introduction,NA,NA,NA,NA
+Birds,Pre-Introduction,Threat,0,Pre-Introduction,NA,NA,NA,NA
+Birds,Post-Introduction,Invasion,0.23929044986785716,Post-Introduction,26,0.08367301983819003,0.0752913309850047,0.40328956875070965
+Birds,Post-Introduction,Detection,0.256830542707456,Post-Introduction,26,0.085680222796532493,0.08889730602625229,0.42476377938865967
+Birds,Post-Introduction,eCommerce,0.419764457963347,Post-Introduction,26,0.09678728814222623,0.23006137320458359,0.6094675427221103
+Birds,Post-Introduction,Threat,0.08411454946133991,Post-Introduction,26,0.05443390205994214,0,0.1908049974988265
+Herptiles,Pre-Introduction,Invasion,0.06522882883162831,Pre-Introduction,6,0.1008084228631074,0,0.2628133376433188
+Herptiles,Pre-Introduction,Detection,4.67563623064302e-18,Pre-Introduction,6,8.827642409540443e-10,0,1.7302179169455629e-9
+Herptiles,Pre-Introduction,eCommerce,0.9347711711582114,Pre-Introduction,6,0.10080842287041068,0.7371866623322065,1
+Herptiles,Pre-Introduction,Threat,1.016022451581681e-11,Pre-Introduction,6,1.3012957975106699e-6,0,2.550549923345429e-6
+Herptiles,Post-Introduction,Invasion,0.23732326839541973,Post-Introduction,14,0.11370416962876431,0.01446309592304168,0.4601834408677978
+Herptiles,Post-Introduction,Detection,5.057241819210215e-12,Post-Introduction,14,6.010254225182064e-7,0,1.1780148853775038e-6
+Herptiles,Post-Introduction,eCommerce,0.7626767315905726,Post-Introduction,14,0.11370416963107575,0.5398165591136641,0.9855369040674811
+Herptiles,Post-Introduction,Threat,8.950503493091291e-12,Post-Introduction,14,7.995759364014321e-7,0,1.5671777858503002e-6
+Fishes,Pre-Introduction,Invasion,8.052941702278714e-6,Pre-Introduction,1,0.0028377591251564417,0,0.005570060827008904
+Fishes,Pre-Introduction,Detection,0.9999919470580623,Pre-Introduction,1,0.002837759166641313,0.9944299390914453,1
+Fishes,Pre-Introduction,eCommerce,2.352040287117345e-13,Pre-Introduction,1,4.849783796332359e-7,0,9.505578592851712e-7
+Fishes,Pre-Introduction,Threat,1.5688558011342679e-16,Pre-Introduction,1,1.2525397403413065e-8,0,2.4549779067575187e-8
+Fishes,Post-Introduction,Invasion,2.691946673219464e-11,Post-Introduction,6,2.118154335401066e-6,0,4.151609416852821e-6
+Fishes,Post-Introduction,Detection,0.9999999999730804,Post-Introduction,6,2.1181587002772597e-6,0.9999958483820279,1
+Fishes,Post-Introduction,eCommerce,1.7696044017540944e-19,Post-Introduction,6,1.7173644545029332e-10,0,3.366034332595354e-10
+Fishes,Post-Introduction,Threat,1.286879572389565e-22,Post-Introduction,6,4.631197779533866e-12,0,9.077147648015064e-12
+Insects,Pre-Introduction,Invasion,0.560175039300474,Pre-Introduction,1,0.4963657569224396,0,1
+Insects,Pre-Introduction,Detection,1.697130494938294e-6,Pre-Introduction,1,0.0013027385058738293,0,0.0025550646020076435
+Insects,Pre-Introduction,eCommerce,0.1395102932411072,Pre-Introduction,1,0.34647824076107214,0,0.8186076451328086
+Insects,Pre-Introduction,Threat,0.300312970327924,Pre-Introduction,1,0.45839403375343296,0,1
+Insects,Post-Introduction,Invasion,0.37152450475379084,Post-Introduction,434,0.023194928688599573,0.3260624445241357,0.416986564983446
+Insects,Post-Introduction,Detection,0.4721231871565651,Post-Introduction,434,0.023963436208063068,0.4251548521887615,0.5190915221243687
+Insects,Post-Introduction,eCommerce,0.024957705708341077,Post-Introduction,434,0.007488057870882726,0.010281112281410933,0.03963429913527122
+Insects,Post-Introduction,Threat,0.131394602381303,Post-Introduction,434,0.016216426561650572,0.09961040632046786,0.16317879844213812
+Crustaceans,Pre-Introduction,Invasion,7.684028821009021e-13,Pre-Introduction,2,6.198398511310448e-7,0,1.21488687661973e-6
+Crustaceans,Pre-Introduction,Detection,1.5242162865724438e-7,Pre-Introduction,2,2.7606304119248877e-4,0,5.412359823659352e-4
+Crustaceans,Pre-Introduction,eCommerce,0.999999847577603,Pre-Introduction,2,2.7606373702887e-4,0.9994587626530264,1
+Crustaceans,Pre-Introduction,Threat,7.813722390785759e-23,Pre-Introduction,2,6.250488937189538e-12,0,1.2250958316969632e-11
+Crustaceans,Post-Introduction,Invasion,2.838911178847828e-12,Post-Introduction,8,5.957045386388886e-7,0,1.1675837346434004e-6
+Crustaceans,Post-Introduction,Detection,0.1684616374587251,Post-Introduction,8,0.13232644962527815,0,0.4278214787242703
+Crustaceans,Post-Introduction,eCommerce,0.8315383625384359,Post-Introduction,8,0.13232644962616724,0.5721785212711481,1
+Crustaceans,Post-Introduction,Threat,7.08375902614062e-23,Post-Introduction,8,2.9756845905901678e-12,0,5.8323417976275664e-12
+Non-arthropod invertebrates,Pre-Introduction,Invasion,0,Pre-Introduction,NA,NA,NA,NA
+Non-arthropod invertebrates,Pre-Introduction,Detection,0,Pre-Introduction,NA,NA,NA,NA
+Non-arthropod invertebrates,Pre-Introduction,eCommerce,0,Pre-Introduction,NA,NA,NA,NA
+Non-arthropod invertebrates,Pre-Introduction,Threat,0,Pre-Introduction,NA,NA,NA,NA
+Non-arthropod invertebrates,Post-Introduction,Invasion,0.42351542905539175,Post-Introduction,16,0.12352887071637828,0.18139884245129034,0.6656320156594931
+Non-arthropod invertebrates,Post-Introduction,Detection,0.24656305983093305,Post-Introduction,16,0.10775252820634326,0.035368104546500245,0.45775801511536585
+Non-arthropod invertebrates,Post-Introduction,eCommerce,0.09075780176260108,Post-Introduction,16,0.07181609463667488,0,0.23151734725048384
+Non-arthropod invertebrates,Post-Introduction,Threat,0.23916370935107412,Post-Introduction,16,0.10664322220625096,0.030142993826822256,0.44818442487532595
+Plants,Pre-Introduction,Invasion,0,Pre-Introduction,NA,NA,NA,NA
+Plants,Pre-Introduction,Detection,0,Pre-Introduction,NA,NA,NA,NA
+Plants,Pre-Introduction,eCommerce,0,Pre-Introduction,NA,NA,NA,NA
+Plants,Pre-Introduction,Threat,0,Pre-Introduction,NA,NA,NA,NA
+Plants,Post-Introduction,Invasion,0.7412598198320434,Post-Introduction,221,0.029459205579398705,0.6835197768964218,0.7989998627676649
+Plants,Post-Introduction,Detection,0.10926330262667723,Post-Introduction,221,0.02098532490105079,0.06813206582061768,0.15039453943273678
+Plants,Post-Introduction,eCommerce,0.020232017597672413,Post-Introduction,221,0.009470765463719274,0.0016693172887826367,0.03879471790656219
+Plants,Post-Introduction,Threat,0.1292448599436071,Post-Introduction,221,0.0225662048727943,0.08501509839293027,0.17347462149428394
+"Bacteria, Viruses, Fungi",Pre-Introduction,Invasion,0.11421340635003542,Pre-Introduction,3,0.18363796281448008,0,0.4741438134664164
+"Bacteria, Viruses, Fungi",Pre-Introduction,Detection,1.3576297488028403e-6,Pre-Introduction,3,6.727128921128005e-4,0,0.0013198748982898919
+"Bacteria, Viruses, Fungi",Pre-Introduction,eCommerce,0.07013641764951241,Pre-Introduction,3,0.14744185358846335,0,0.35912245068290055
+"Bacteria, Viruses, Fungi",Pre-Introduction,Threat,0.8156488183707034,Pre-Introduction,3,0.22387930041369666,0.3768453895598579,1
+"Bacteria, Viruses, Fungi",Post-Introduction,Invasion,0.1551217998990264,Post-Introduction,59,0.047131087853878866,0.06274486770542384,0.247498732092629
+"Bacteria, Viruses, Fungi",Post-Introduction,Detection,0.5516056384835073,Post-Introduction,59,0.06474681565060464,0.4247018798083222,0.6785093971586924
+"Bacteria, Viruses, Fungi",Post-Introduction,eCommerce,0.021439708041182885,Post-Introduction,59,0.01885720064792574,0,0.05839982131111733
+"Bacteria, Viruses, Fungi",Post-Introduction,Threat,0.2718328535762834,Post-Introduction,59,0.05792159418351941,0.15830652897658537,0.3853591781759814
