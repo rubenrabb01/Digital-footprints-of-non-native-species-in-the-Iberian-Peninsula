@@ -1,0 +1,2 @@
+n_validated,n_scored_excluding_ambiguous,overall_accuracy,cohen_kappa,intervalidator_pairwise_agreement,intervalidator_fleiss_kappa,ambiguous_rate,invalid_or_none_rate
+395,368,0.8342391304347826,0.7827816107525426,0.7936962750716332,0.9571195515836528,0.07341772151898734,0.053164556962025315

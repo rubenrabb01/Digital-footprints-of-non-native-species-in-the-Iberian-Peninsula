@@ -1,0 +1,8 @@
+dataset_label,file,n_records,n_distinct_video_id_strings,n_species,n_channels,primary_count_for_reporting,notes
+GEO retrieval file,data/preparation_input/api_geotagged_anchor_sourceflag.csv,305,305,62.0,221.0,records,Source-flagged GEO retrieval file used to document the geotag/location-based pathway.
+RAW-REG,data/preparation_input/api_regioncode_raw.csv,16844,16844,159.0,9453.0,records,Full raw region-code video pool after deduplication.
+RAW-REG flagged,data/preparation_input/api_regioncode_raw_flagged.csv,16844,16844,159.0,9453.0,records,Same RAW-REG pool with Iberian-relevance flag used during filtering/labelling.
+REG post-filtered candidates,data/preparation_input/api_regioncode_postfiltered_candidates.csv,6935,6935,122.0,4174.0,records,REG candidate file after Iberian language/toponymic post-filtering.
+REG-labelled,data/preparation_input/api_regioncode_labelled.csv,1884,1884,93.0,1002.0,records,REG records manually labelled as Iberia-relevant.
+Final LABEL dataset,data/paper_input/videos_validated.csv,1899,1895,94.0,1002.0,records,"Final analysis dataset. Report n_records = 1,899 analysed video records; do not reduce this count by distinct video_id strings."
+Comments input,data/paper_input/comments_timestamped.csv,15179,1048,,,comments,Timestamped comments/replies used only for the comments-only sensitivity analysis.
