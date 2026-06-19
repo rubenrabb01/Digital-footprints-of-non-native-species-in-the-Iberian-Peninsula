@@ -1,5 +1,0 @@
-reviewer,shared_rows,extra_rows,total_rows,file
-Ana,1-50,51-199,88,outputs/validation/validation_files_by_reviewer/Ana/Ana_LABEL_Iberia_relevance_validation.csv
-Loreto,1-50,52-200,88,outputs/validation/validation_files_by_reviewer/Loreto/Loreto_LABEL_Iberia_relevance_validation.csv
-Gabriel,1-50,53-197,87,outputs/validation/validation_files_by_reviewer/Gabriel/Gabriel_LABEL_Iberia_relevance_validation.csv
-Valerio,1-50,54-198,87,outputs/validation/validation_files_by_reviewer/Valerio/Valerio_LABEL_Iberia_relevance_validation.csv
