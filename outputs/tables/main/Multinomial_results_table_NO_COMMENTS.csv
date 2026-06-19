@@ -1,0 +1,37 @@
+Outcome,Predictor,Contrast,Adj. OR (95% CI),P
+Detection,Time period,Post-Introduction (ref.),-,-
+Detection,Time period,Pre-Introduction,0.00 (0.00-12219034209522194795108219431194299573821310780463464286748556838886695197733987469898510724743582931091658385381669118747917282967266593402008667841891040478677539982861672812781384032332737605710565519335849791932589244651440999649938376589767386348613963107652285050650624.00),0.968
+Detection,Present Status,present (ref.),-,-
+Detection,Present Status,Established,1.76 (1.17-2.66),0.007
+Detection,LifeForm,Herptiles (ref.),-,-
+Detection,LifeForm,"Bacteria, Viruses, Fungi",314686372001.97 (0.00-1658847480324416059923190399679460278272.00),0.416
+Detection,LifeForm,Birds,49762380762.53 (0.00-263110097866956673292347624871205797888.00),0.449
+Detection,LifeForm,Crustaceans,67998180116279112.00 (49593.87-93232344349444481662016552960.00),0.007
+Detection,LifeForm,Fishes,11886234226661269700608.00 (0.00-333649363031351703791925114236793082100033351894842071690143314253009456675435997358393436456144760999229395370201544982064991770928851108510586528360647827824892587536446651617147035077192840655142912.00),0.808
+Detection,LifeForm,Insects,81516350156.49 (0.00-428580490150503479809338648115439206400.00),0.440
+Detection,LifeForm,Non-arthropod invertebrates,31686215864.53 (0.00-168005508429507696872421986931725828096.00),0.458
+Detection,LifeForm,Plants,12318338101.03 (0.00-64818760013888384616141689833052438528.00),0.476
+Threat,Time period,Post-Introduction (ref.),-,-
+Threat,Time period,Pre-Introduction,8.03 (0.52-124.46),0.136
+Threat,Present Status,present (ref.),-,-
+Threat,Present Status,Established,3.58 (1.78-7.20),<0.001
+Threat,LifeForm,Herptiles (ref.),-,-
+Threat,LifeForm,"Bacteria, Viruses, Fungi",9953330580.14 (4464666792.57-22189514747.76),<0.001
+Threat,LifeForm,Birds,936035185.05 (248492732.48-3525905401.32),<0.001
+Threat,LifeForm,Crustaceans,0.34 (0.34-0.34),<0.001
+Threat,LifeForm,Fishes,0.05 (0.05-0.05),<0.001
+Threat,LifeForm,Insects,1005983588.93 (594789915.01-1701446099.97),<0.001
+Threat,LifeForm,Non-arthropod invertebrates,1317579406.51 (419374793.00-4139532278.63),<0.001
+Threat,LifeForm,Plants,1099673791.37 (628669586.80-1923558054.69),<0.001
+eCommerce,Time period,Post-Introduction (ref.),-,-
+eCommerce,Time period,Pre-Introduction,5.48 (0.36-84.60),0.223
+eCommerce,Present Status,present (ref.),-,-
+eCommerce,Present Status,Established,1.26 (0.50-3.16),0.627
+eCommerce,LifeForm,Herptiles (ref.),-,-
+eCommerce,LifeForm,"Bacteria, Viruses, Fungi",0.07 (0.01-0.54),0.010
+eCommerce,LifeForm,Birds,0.38 (0.08-1.73),0.210
+eCommerce,LifeForm,Crustaceans,2135713.72 (0.00-8533492984463584395264.00),0.427
+eCommerce,LifeForm,Fishes,0.00 (0.00-0.00),<0.001
+eCommerce,LifeForm,Insects,0.02 (0.01-0.09),<0.001
+eCommerce,LifeForm,Non-arthropod invertebrates,0.05 (0.00-0.53),0.013
+eCommerce,LifeForm,Plants,0.01 (0.00-0.05),<0.001
