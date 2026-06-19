@@ -1,8 +1,0 @@
-time_period_pm,KeywordCategory,n_tokens,total_tokens_period,prop_tokens
-Post-Introduction,Invasion,4,28,0.14285714285714285
-Post-Introduction,Detection,15,28,0.5357142857142857
-Post-Introduction,eCommerce,5,28,0.17857142857142858
-Post-Introduction,Threat,4,28,0.14285714285714285
-Pre-Introduction,Detection,1,9,0.1111111111111111
-Pre-Introduction,eCommerce,5,9,0.5555555555555556
-Pre-Introduction,Threat,3,9,0.3333333333333333
