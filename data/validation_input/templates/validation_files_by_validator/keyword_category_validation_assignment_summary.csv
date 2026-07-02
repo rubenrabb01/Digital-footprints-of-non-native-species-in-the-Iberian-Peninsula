@@ -1,0 +1,3 @@
+validator,shared_rows,extra_rows,total_rows,file
+Reviewer_B,1-50,52-392,136,data/validation_input/templates/validation_files_by_validator/Reviewer_B/Reviewer_B_keyword_category_validation.csv
+Reviewer_D,1-50,54-394,136,data/validation_input/templates/validation_files_by_validator/Reviewer_D/Reviewer_D_keyword_category_validation.csv

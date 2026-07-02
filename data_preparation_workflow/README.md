@@ -38,7 +38,3 @@ data/paper_input/videos_validated.csv
 ## Note
 
 These scripts are included to document the upstream workflow. Recreating the exact API-derived candidate pool may not be possible because YouTube results can change over time.
-## Public-release note
-
-The full bulk YouTube API retrieval workflow and raw API outputs are not included in the public package. These preparation scripts are retained as documentation of the post-retrieval filtering and export pathway. To rerun this stage privately, place raw API export files in `data/preparation_input/private_raw_api/` using the filenames expected by `scripts/01_collect_api_outputs.R`.
-

@@ -1,58 +1,48 @@
 # Repository release guide
 
-This repository provides a transparent, reproducible version of the workflow used in the associated manuscript.
+This repository provides a reproducible version of the workflow used in the associated manuscript.
 
-## Repository contents
+## Included materials
 
-The GitHub/Zenodo version includes:
+- `scripts/`: main analysis, validation, figure, table, and runner scripts.
+- `data/paper_input/`: curated analysis inputs.
+- `data/species_input/`: derived species-list and search-term inputs.
+- `data/preparation_input/`: lineage files documenting the REG/GEO preparation path.
+- `data/validation_input/`: validation templates and completed anonymised validation files.
+- `outputs/`: generated figures, tables, validation summaries, and intermediate files.
+- `docs/`: data guides and release notes.
+- `optional_youtube_api_preworkflow/`: optional YouTube API retrieval scripts.
+- `data_preparation_workflow/`: optional upstream data-preparation scripts.
 
-- `scripts/`: main analysis and validation scripts.
-- `optional_youtube_api_example/`: minimal illustrative YouTube API example.
-- `data_preparation_workflow/`: upstream filtering, GEO/REG combination, and manual-labelling preparation scripts.
-- `data/paper_input/`: curated paper input files.
-  - `videos_validated.csv` (**final LABEL dataset**)
-  - `comments_timestamped.csv` (**comments sensitivity input**)
-- `data/preparation_input/`: upstream preparation files documenting the filtering and labelling path.
-  - `api_regioncode_raw.csv` (**RAW-REG**)
-  - `api_regioncode_raw_flagged.csv` (**RAW-REG flagged**)
-  - `api_regioncode_postfiltered_candidates.csv` (**REG post-filtered candidates**)
-  - `api_regioncode_labelled.csv` (**REG-labelled**)
-  - `api_geotagged_anchor_sourceflag.csv` (**GEO retrieval file**)
-- `data/species_input/`: curated species-list and search-term files.
-- `data/validation_input/`: validation templates and completed validation files.
-- `fig_assets/`: icons and graphical assets used by the scripts.
-- `docs/`: documentation and supporting audit tables.
-- `outputs/`: manuscript figures, supplementary figures, tables, validation summaries, and intermediate outputs.
+## Main analytical corpus
 
-## Files outside the standard workflow
+The manuscript analyses use:
 
-The manuscript figures, tables, validation summaries, and sensitivity checks are reproduced from the curated analytical files included in this repository. Local development archives, duplicated exploratory datasets, machine-specific paths, temporary files, and ad hoc rerun outputs are outside the standard workflow.
+```text
+data/paper_input/videos_validated.csv
+```
 
-## Main dataset labels
-
-- `data/preparation_input/api_regioncode_raw.csv` (**RAW-REG**) = full raw REG pool.
-- `data/preparation_input/api_regioncode_postfiltered_candidates.csv` (**REG post-filtered candidates**) = filtered REG candidate pool.
-- `data/preparation_input/api_regioncode_labelled.csv` (**REG-labelled**) = REG Iberia-relevant labelled subset.
-- `data/preparation_input/api_geotagged_anchor_sourceflag.csv` (**GEO retrieval file**) = geotag/location-based GEO retrieval file.
-- `data/paper_input/videos_validated.csv` (**final LABEL dataset**) = final validated dataset used by the scripts.
-
-Older exploratory `label_this_sample_*` files are not canonical inputs for the repository.
-
-## Release sequence
-
-1. Check that the repository contains the expected scripts, data, documentation, figures, and tables.
-2. Confirm that no API keys, local paths, temporary files, or unnecessary archives are present.
-3. Confirm that `README.md`, `docs/DATA_FILE_GUIDE.md`, `docs/API_RETRIEVAL_OVERVIEW.md`, and `data/preparation_input/README.md` display correctly.
-4. Run the workflow locally from the GitHub-style folder structure.
-5. Make a tagged GitHub release when the repository is stable.
-6. Archive the tagged release in Zenodo and add the DOI to the manuscript/repository.
-
-## Species-list and search-term inputs
-
-The release includes `data/species_input/`, which contains a curated first-record table and an ungrouped YouTube search-term list. These files document the search-scope construction. The full external Alien Species First Records Database should be downloaded from the official Zenodo record cited in the manuscript.
+This file contains the final manually curated Iberia-relevant corpus: **1,895 distinct YouTube videos from 1,002 channels and 94 species**. In the workflow this file is also referred to as the final LABEL dataset.
 
 ## Validation files
 
-The repository includes validation templates, completed validation files, decision rules, consensus outputs, summary metrics, and validation figures. These files document the checks used for the revised manuscript and Supplementary Material.
+Completed validation files are stored under:
 
-CSV files included for repository sharing use stable internal identifiers in place of direct YouTube video IDs, video URLs, channel names, comment IDs, and comment-author names. The original identifier mapping is not included.
+```text
+data/validation_input/completed/validation_files_by_validator/
+```
+
+Active validators are `Reviewer_A` for video validation and `Reviewer_B`/`Reviewer_D` for both video and keyword validation. The validation workflow writes summary tables and Figures S8-S9 under `outputs/`.
+
+## Before archiving
+
+Check that:
+
+- `data/paper_input/videos_validated.csv` has 1,895 unique `video_id` values.
+- Supplementary Figure S9 and validation tables are regenerated from the completed validation inputs.
+- Documentation refers to the final LABEL dataset as the internal workflow name for the final manually curated Iberia-relevant corpus.
+- No API keys, local paths, direct video URLs, original video IDs, or private validator names are included.
+
+## Suggested release note
+
+Release package for the revised manuscript. This version updates the final video-level corpus to 1,895 distinct videos, refreshes validation scripts and outputs, reorganises validation files under `data/validation_input/`, updates Supplementary Figure S9, and keeps the internal LABEL name only as a workflow label for the final manually curated Iberia-relevant corpus.

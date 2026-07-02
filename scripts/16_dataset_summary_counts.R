@@ -53,7 +53,7 @@ layers <- rbind(
   count_layer("RAW-REG flagged", "data/preparation_input/api_regioncode_raw_flagged.csv", "records", "Same RAW-REG pool with Iberian-relevance flag used during filtering/labelling."),
   count_layer("REG post-filtered candidates", "data/preparation_input/api_regioncode_postfiltered_candidates.csv", "records", "REG candidate file after Iberian language/toponymic post-filtering."),
   count_layer("REG-labelled", "data/preparation_input/api_regioncode_labelled.csv", "records", "REG records manually labelled as Iberia-relevant."),
-  count_layer("Final LABEL dataset", "data/paper_input/videos_validated.csv", "records", "Final analysis dataset. Report n_records = 1,899 analysed video records; do not reduce this count by distinct video_id strings."),
+  count_layer("Final LABEL dataset", "data/paper_input/videos_validated.csv", "records", "Final analysis dataset. Report n_records = 1,895 distinct video-level records; video_id is unique after video-level deduplication."),
   count_layer("Comments input", "data/paper_input/comments_timestamped.csv", "comments", "Timestamped comments/replies used only for the comments-only sensitivity analysis.")
 )
 
@@ -68,7 +68,7 @@ summary_text <- data.frame(
     "REG post-filtered candidates retained from RAW-REG",
     "REG-labelled retained from post-filtered REG",
     "REG-labelled retained from RAW-REG",
-    "Final LABEL analysed video records",
+    "Final LABEL distinct video-level records",
     "Videos with timestamped comments/replies relative to final LABEL records"
   ),
   value = c(

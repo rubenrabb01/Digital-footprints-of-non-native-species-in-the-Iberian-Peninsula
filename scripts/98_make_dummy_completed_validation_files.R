@@ -10,9 +10,9 @@
 #
 # How to test:
 #   1) source("scripts/99_run_validation_audits.R", encoding = "UTF-8")
-#      # this creates outputs/validation/validation_files_by_validator/
+#      # this creates data/validation_input/templates/validation_files_by_validator/
 #   2) source("scripts/98_make_dummy_completed_validation_files.R", encoding = "UTF-8")
-#      # this creates artificial completed files under outputs/validation/completed/
+#      # this creates artificial completed files under data/validation_input/completed/
 #   3) source("scripts/99_run_validation_audits.R", encoding = "UTF-8")
 #      # this reads those completed files and exports metrics tables
 #
@@ -27,8 +27,8 @@ suppressPackageStartupMessages({
 
 set.seed(20260611)
 
-src_root <- file.path("outputs", "validation", "validation_files_by_validator")
-dst_root <- file.path("outputs", "validation", "completed", "validation_files_by_validator")
+src_root <- file.path("data", "validation_input", "templates", "validation_files_by_validator")
+dst_root <- file.path("data", "validation_input", "completed", "validation_files_by_validator")
 
 if (!dir.exists(src_root)) {
   stop("Validator template folder not found: ", src_root,

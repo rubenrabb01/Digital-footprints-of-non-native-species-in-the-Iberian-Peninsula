@@ -8,7 +8,7 @@ suppressPackageStartupMessages({
   library(stringr)
 })
 
-API_INPUT_DIR <- file.path(PROJECT_ROOT, "data", "preparation_input", "private_raw_api")
+API_INPUT_DIR <- file.path(PROJECT_ROOT, "optional_youtube_api_preworkflow", "data_raw")
 PREP_DIR <- file.path(PROJECT_ROOT, "data", "preparation_input")
 dir.create(PREP_DIR, recursive = TRUE, showWarnings = FALSE)
 
@@ -25,7 +25,7 @@ geo <- read_optional_csv(file.path(API_INPUT_DIR, "yt_species_videos_ES_PT_geota
 api_raw <- bind_rows(reg, geo)
 
 if (nrow(api_raw) == 0) {
-  warning("No REG/GEO API files were found. Place private raw API exports in data/preparation_input/private_raw_api/.")
+  warning("No REG/GEO API files were found. Run the optional API pre-workflow first, or place files in optional_youtube_api_preworkflow/data_raw/.")
 } else {
   api_combined <- api_raw %>%
     filter(!is.na(video_id), video_id != "") %>%

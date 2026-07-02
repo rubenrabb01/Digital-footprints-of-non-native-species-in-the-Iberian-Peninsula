@@ -442,7 +442,7 @@ message("Running complete submitted Figures 4/S3/S6 + Tables 4/S14-S15 script: N
   tab_S14 <- build_aic_table_multinom(models_S14, pred_labels_S14)
   export_table_all(
     tab_S14,
-    out_dir = dir_tables_NO_COMMENTS,
+    out_dir = TAB_SUPP_DIR,
     stem = "Table_S14_model_selection_unweighted",
     caption = "Table S14. Model selection for multinomial keyword-category models (unweighted)."
   )
@@ -493,7 +493,7 @@ message("Running complete submitted Figures 4/S3/S6 + Tables 4/S14-S15 script: N
   tab_S15 <- build_aic_table_multinom(models_S15, pred_labels_S14)
   export_table_all(
     tab_S15,
-    out_dir = dir_tables_NO_COMMENTS,
+    out_dir = TAB_SUPP_DIR,
     stem = "Table_S15_model_selection_weighted",
     caption = "Table S15. Model selection for multinomial keyword-category models (view-weighted sensitivity analysis)."
   )
@@ -1600,7 +1600,7 @@ message("Running complete submitted Figures 4/S3/S6 + Tables 4/S14-S15 script: N
   print(gam_summary_NO_COMMENTS)
   
   write.csv(gam_summary_NO_COMMENTS,
-            file.path(dir_tables_NO_COMMENTS, "GAM_keyword_trends_summary_NO_COMMENTS.csv"),
+            file.path(TAB_QA_DIR, "GAM_keyword_trends_summary_NO_COMMENTS.csv"),
             row.names = FALSE)
   
   # ============================================================
@@ -1721,7 +1721,7 @@ message("Running complete submitted Figures 4/S3/S6 + Tables 4/S14-S15 script: N
   
   export_table_all(
     multi_tab_NO_COMMENTS,
-    out_dir = dir_tables_NO_COMMENTS,
+    out_dir = TAB_QA_DIR,
     stem = "Multinomial_results_table_NO_COMMENTS",
     caption = sprintf(
       "Multinomial results (NO_COMMENTS). AIC: %.2f | McFadden R^2: %.3f",
@@ -1731,7 +1731,7 @@ message("Running complete submitted Figures 4/S3/S6 + Tables 4/S14-S15 script: N
     doc_fontsize = 9
   )
   
-  # ---- Table 4 (wide) exactly as in your layout ----
+  # ---- Table 3 (wide) exactly as in the manuscript layout ----
   table4_wide <- multi_tab_NO_COMMENTS %>%
     mutate(
       cell = if_else(
@@ -1750,8 +1750,8 @@ message("Running complete submitted Figures 4/S3/S6 + Tables 4/S14-S15 script: N
   export_table_all(
     table4_wide,
     out_dir = dir_tables_NO_COMMENTS,
-    stem = "Table4_multinom_wide",
-    caption = "Table 4. Multinomial model results (Invasion as reference outcome).",
+    stem = "Table3_multinom_wide",
+    caption = "Table 3. Multinomial model results (Invasion as reference outcome).",
     doc_heading_style = "heading 1",
     doc_fontsize = 9
   )
@@ -2243,7 +2243,7 @@ message("Running complete submitted Figures 4/S3/S6 + Tables 4/S14-S16 script: "
   tab_S14_ALL <- build_aic_table_multinom(models_S14_ALL, pred_labels)
   export_table_all(
     tab_S14_ALL,
-    out_dir = dir_tables_ALL,
+    out_dir = TAB_QA_DIR,
     stem = "Table_S14_model_selection_unweighted_ALL",
     caption = "Table S14. Model selection for multinomial keyword-category models (unweighted; ALL tokens)."
   )
@@ -2257,7 +2257,7 @@ message("Running complete submitted Figures 4/S3/S6 + Tables 4/S14-S16 script: "
   tab_S15_ALL <- build_aic_table_multinom(models_S15_ALL, pred_labels)
   export_table_all(
     tab_S15_ALL,
-    out_dir = dir_tables_ALL,
+    out_dir = TAB_QA_DIR,
     stem = "Table_S15_model_selection_weighted_ALL",
     caption = "Table S15. Model selection for multinomial keyword-category models (view-weighted; ALL tokens)."
   )
@@ -2266,14 +2266,14 @@ message("Running complete submitted Figures 4/S3/S6 + Tables 4/S14-S16 script: "
   tab_S14_step_path <- build_stepwise_table(fits_unw_forced_ALL$step, label_prefix = "Unw step")
   export_table_all(
     tab_S14_step_path,
-    out_dir = dir_tables_ALL,
+    out_dir = TAB_QA_DIR,
     stem = "Table_S14_stepwise_path_unweighted_ALL",
     caption = "Table S14 (supplement). Stepwise AIC path for multinomial keyword-category models (unweighted; ALL tokens)."
   )
   tab_S15_step_path <- build_stepwise_table(m_w_step_ALL, label_prefix = "W step")
   export_table_all(
     tab_S15_step_path,
-    out_dir = dir_tables_ALL,
+    out_dir = TAB_QA_DIR,
     stem = "Table_S15_stepwise_path_weighted_ALL",
     caption = "Table S15 (supplement). Stepwise AIC path for multinomial keyword-category models (view-weighted; ALL tokens)."
   )
@@ -2552,7 +2552,7 @@ message("Running complete submitted Figures 4/S3/S6 + Tables 4/S14-S16 script: "
   S16_ALL <- build_table_S16_binomcounts(kw_ALL, win_lo = -5, win_hi = 10, kw_levels = kw_levels)
   export_table_all(
     S16_ALL,
-    out_dir = dir_tables_ALL,
+    out_dir = TAB_SUPP_DIR,
     stem = "Table_S16_relative_time_trends_ALL",
     caption = "Table S16. Relative time trends in category-specific keyword prevalence around species introduction (binomial GAMs; ALL tokens)."
   )
@@ -3371,7 +3371,7 @@ message("Running complete submitted Figures 4/S3/S6 + Tables 4/S14-S16 script: "
     }) %>% bind_rows()
   
     write.csv(gam_summary_ALL,
-              file.path(dir_tables_variant, paste0("GAM_keyword_trends_summary_ALL_", variant_label, ".csv")),
+              file.path(TAB_QA_DIR, paste0("GAM_keyword_trends_summary_ALL_", variant_label, ".csv")),
               row.names = FALSE)
   
     # ============================================================
@@ -3385,7 +3385,7 @@ message("Running complete submitted Figures 4/S3/S6 + Tables 4/S14-S16 script: "
   
     export_table_all(
       multi_tab_ALL,
-      out_dir = dir_tables_variant,
+      out_dir = TAB_QA_DIR,
       stem = paste0("Multinomial_results_table_ALL_", variant_label),
       caption = sprintf("Multinomial results (ALL) - %s. AIC: %.4f | McFadden R^2: %.4f",
                         variant_label, AIC_val_ALL, R2_mcF_ALL),
@@ -3410,9 +3410,9 @@ message("Running complete submitted Figures 4/S3/S6 + Tables 4/S14-S16 script: "
   
     export_table_all(
       table4_wide_ALL,
-      out_dir = dir_tables_variant,
-      stem = paste0("Table4_multinom_wide_ALL_", variant_label),
-      caption = paste0("Table 4. Multinomial model results (Invasion as reference outcome) - ALL tokens (", variant_label, ")."),
+      out_dir = TAB_QA_DIR,
+      stem = paste0("Table3_multinom_wide_ALL_", variant_label),
+      caption = paste0("Table 3. Multinomial model results (Invasion as reference outcome) - ALL tokens (", variant_label, ")."),
       doc_heading_style = "heading 1",
       doc_fontsize = 9
     )

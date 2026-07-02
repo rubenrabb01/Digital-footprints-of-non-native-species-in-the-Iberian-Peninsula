@@ -24,7 +24,7 @@ SCRIPTS_DIR <- file.path(PROJECT_ROOT, "scripts")
 ORIGINAL_SCRIPTS_DIR <- file.path(PROJECT_ROOT, "original_submitted_scripts")
 DATA_DIR <- file.path(PROJECT_ROOT, "data")
 PAPER_INPUT_DIR <- file.path(DATA_DIR, "paper_input")
-TEST_INPUT_DIR <- file.path(DATA_DIR, "preparation_input", "private_raw_api")
+TEST_INPUT_DIR <- file.path(DATA_DIR, "api_test_input")
 DATA_RAW_DIR <- PAPER_INPUT_DIR
 FIG_ASSETS_DIR <- file.path(PROJECT_ROOT, "fig_assets")
 

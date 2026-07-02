@@ -1,0 +1,4 @@
+validator,video_shared_rows,video_extra_rows,video_total_rows,video_file,keyword_shared_rows,keyword_extra_rows,keyword_total_rows,keyword_file
+Reviewer_A,1-50,51-199,88,data/validation_input/templates/validation_files_by_validator/Reviewer_A/Reviewer_A_LABEL_Iberia_relevance_validation.csv,,,,
+Reviewer_B,1-50,52-200,88,data/validation_input/templates/validation_files_by_validator/Reviewer_B/Reviewer_B_LABEL_Iberia_relevance_validation.csv,1-50,52-392,136,data/validation_input/templates/validation_files_by_validator/Reviewer_B/Reviewer_B_keyword_category_validation.csv
+Reviewer_D,1-50,54-198,87,data/validation_input/templates/validation_files_by_validator/Reviewer_D/Reviewer_D_LABEL_Iberia_relevance_validation.csv,1-50,54-394,136,data/validation_input/templates/validation_files_by_validator/Reviewer_D/Reviewer_D_keyword_category_validation.csv

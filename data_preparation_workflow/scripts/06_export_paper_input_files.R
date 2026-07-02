@@ -11,7 +11,7 @@ suppressPackageStartupMessages({
 
 PREP_DIR <- file.path(PROJECT_ROOT, "data", "preparation_input")
 PAPER_DIR <- file.path(PROJECT_ROOT, "data", "paper_input")
-API_DIR <- file.path(PROJECT_ROOT, "data", "preparation_input", "private_raw_api")
+API_DIR <- file.path(PROJECT_ROOT, "optional_youtube_api_preworkflow", "data_raw")
 dir.create(PAPER_DIR, recursive = TRUE, showWarnings = FALSE)
 
 if (!exists("OVERWRITE_PAPER_INPUTS", inherits = FALSE)) OVERWRITE_PAPER_INPUTS <- FALSE

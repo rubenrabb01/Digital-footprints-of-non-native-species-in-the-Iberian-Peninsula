@@ -1,9 +1,11 @@
 # Final LABEL dataset count note
 
-The manuscript count should remain **1,899 analysed YouTube video records**.
+The manuscript count is **1,895 distinct YouTube videos**.
 
-The file `data/paper_input/videos_validated.csv` contains the final LABEL dataset used by the manuscript analyses. Its row count is 1,899 analysed records, and this is the number reported for the final corpus.
+In the public workflow, `data/paper_input/videos_validated.csv` (**final LABEL dataset**) contains **1,895 distinct video-level records**, representing **1,002 channels** and **94 species**. This is the final manually curated Iberia-relevant corpus used by the manuscript analyses.
 
-A smaller number can appear if the dataset is summarised only by distinct values in the `video_id` column. That distinct-ID count should not replace the manuscript count. A small number of records may be repeated across search queries or may display oddly in spreadsheet software, but these records correspond to valid analysed videos and were retained in the final dataset.
+Recommended wording:
 
-For technical checks, row counts can be inspected with `scripts/00_check_dataset_lineage.R`, but the manuscript/reporting count for the final corpus is **1,899 analysed records**.
+> The final manually curated Iberia-relevant corpus contained 1,895 distinct YouTube videos from 1,002 channels and 94 species.
+
+For technical checks, row counts can be inspected with `scripts/00_check_dataset_lineage.R` and `scripts/16_dataset_summary_counts.R`.

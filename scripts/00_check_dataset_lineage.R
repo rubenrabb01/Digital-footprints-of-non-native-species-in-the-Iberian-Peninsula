@@ -52,11 +52,8 @@ cat("RAW-REG: 16,844 unique videos\n")
 cat("REG post-filtered candidates: 6,935 unique videos\n")
 cat("REG labelled: 1,884 unique videos\n")
 cat("GEO-anchor / source-flagged GEO: 305 unique videos\n")
-cat("final LABEL dataset: 1,899 analysed video records
-")
-cat("Counting note: report 1,899 analysed records; do not reduce this count by unique video_id values or spreadsheet display artefacts.
-
-")
+cat("final LABEL dataset: 1,895 distinct video-level records\n")
+cat("Counting note: report 1,895 distinct video-level records; video_id is unique in the final file after video-level deduplication.\n\n")
 
 if (all(file.exists(unlist(files)))) {
   geo <- read_csv_quiet(files$geo_anchor)

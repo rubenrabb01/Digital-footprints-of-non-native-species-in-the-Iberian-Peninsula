@@ -13,7 +13,7 @@
 #
 #   B) Keyword/thematic classifier validation
 #      - Creates a stratified keyword-occurrence validation template.
-#      - Computes confusion matrix, overall agreement, Cohen's kappa,
+#      - Computes confusion matrix, overall agreement, pairwise agreement and Fleiss' kappa,
 #        category-specific precision/recall/F1 if a completed template is supplied.
 #
 #   C) Exploratory first-record / first-YouTube comparison
@@ -32,13 +32,13 @@
 #   2. Run:
 #        source("scripts/15_validation_audits.R")
 #   3. Coauthor validation files are exported to:
-#        outputs/validation/validation_files_by_validator/
+#        data/validation_input/templates/validation_files_by_validator/
 #      Returned coauthor files should be saved in:
-#        outputs/validation/completed/validation_files_by_validator/
+#        data/validation_input/completed/validation_files_by_validator/
 #   4. The pre-record context template is exported to:
 #        outputs/validation/lead_lag_context/
 #      Save the completed version as:
-#        outputs/validation/lead_lag_context/completed/lead_lag_prerecord_context_completed.csv
+#        data/validation_input/completed/lead_lag_context/lead_lag_prerecord_context_completed.csv
 #   5. Re-run this script to compute final metrics.
 # ============================================================
 
@@ -64,6 +64,11 @@ if (!exists("OUTPUTS_ROOT", inherits = FALSE)) OUTPUTS_ROOT <- file.path(PROJECT
 if (!exists("KW_TABLES_DIR", inherits = FALSE)) KW_TABLES_DIR <- file.path(TABLES_ROOT, "keywords")
 if (!exists("KW_OUTPUTS_DIR", inherits = FALSE)) KW_OUTPUTS_DIR <- file.path(OUTPUTS_ROOT, "keywords")
 if (!exists("TOKEN_FILE_BASENAME", inherits = FALSE)) TOKEN_FILE_BASENAME <- "token_table_from_BASE_raw_NO_COMMENTS.csv"
+
+# Validator-supplied multi-category keyword decisions are resolved against
+# the dictionary-assigned category when that category is among the supplied
+# thematic categories; otherwise they are treated as Ambiguous.
+
 
 ensure_dir <- function(path) {
   if (!dir.exists(path)) dir.create(path, recursive = TRUE, showWarnings = FALSE)
@@ -130,9 +135,8 @@ short_text <- function(x, n = 450) {
 # over-weighting the shared validation subset.
 read_validation_files <- function(completed_dir, canonical_file, include_patterns, exclude_patterns = character()) {
   # `completed_dir` can be a single folder or a vector of fallback folders.
-  # This keeps the script compatible with both the older reviewer-name
-  # structure (`validation_files_by_reviewer/Ana/...`) and the newer
-  # anonymised structure (`validation_files_by_validator/Reviewer_A/...`).
+  # This reads the anonymised validator structure used by the public package
+  # (`validation_files_by_validator/Reviewer_A/...`).
   completed_dirs <- unique(as.character(completed_dir))
   completed_dirs <- completed_dirs[!is.na(completed_dirs) & nzchar(completed_dirs)]
   canonical_root <- if (length(completed_dirs) > 0) completed_dirs[[1]] else "."
@@ -142,6 +146,7 @@ read_validation_files <- function(completed_dir, canonical_file, include_pattern
     if (dir.exists(dd)) list.files(dd, pattern = "\\.csv$", full.names = TRUE, recursive = TRUE) else character()
   }), use.names = FALSE)
   files <- unique(files)
+  files <- files[!stringr::str_detect(files, stringr::regex("(^|[/\\])Reviewer_C([/\\]|$)|^Reviewer_C_", ignore_case = TRUE))]
   if (length(files) == 0) return(list(path = canonical_path, rows = NULL, files = character()))
 
   base <- basename(files)
@@ -180,7 +185,7 @@ read_validation_files <- function(completed_dir, canonical_file, include_pattern
 
 # Write validator-specific validation files with a shared subset plus validator-specific
 # extra rows. These are the files sent to coauthors and later returned completed.
-write_validator_validation_files <- function(template_df, out_dir, file_stem, validators = c("Reviewer_A", "Reviewer_B", "Reviewer_C", "Reviewer_D"), shared_n = 50) {
+write_validator_validation_files <- function(template_df, out_dir, file_stem, validators = c("Reviewer_A", "Reviewer_B", "Reviewer_D"), shared_n = 50) {
   if (is.null(template_df) || nrow(template_df) == 0) return(invisible(NULL))
   ensure_dir(out_dir)
   template_df <- template_df %>% dplyr::arrange(.data$validation_id)
@@ -292,27 +297,28 @@ VALIDATION_DIR <- file.path(PROJECT_ROOT, "outputs", "validation")
 REV_DIR <- VALIDATION_DIR
 COMPLETED_DIR <- file.path(REV_DIR, "completed")
 TABLE_DIR <- file.path(REV_DIR, "tables")
-REVIEWER_FILES_DIR <- file.path(REV_DIR, "validation_files_by_validator")
-COMPLETED_REVIEWER_DIR <- file.path(COMPLETED_DIR, "validation_files_by_validator")
 
-# Compatibility input folders. New public-facing files can use anonymised
-# `validation_files_by_validator`; older private files used
-# `validation_files_by_reviewer` with reviewer names. The script reads both.
+# Completed reviewer/validator files are manually curated inputs. The final
+# package uses a single anonymised folder as the active source of validation
+# files; no reviewer-input files should be stored under outputs/.
 VALIDATION_INPUT_DIR <- file.path(PROJECT_ROOT, "data", "validation_input")
-COMPLETED_REVIEWER_DIRS <- c(
-  file.path(VALIDATION_INPUT_DIR, "completed", "validation_files_by_validator"),
-  file.path(VALIDATION_INPUT_DIR, "completed", "validation_files_by_reviewer"),
-  file.path(COMPLETED_DIR, "validation_files_by_validator"),
-  file.path(COMPLETED_DIR, "validation_files_by_reviewer")
-)
+COMPLETED_REVIEWER_DIR <- file.path(VALIDATION_INPUT_DIR, "completed", "validation_files_by_validator")
+COMPLETED_REVIEWER_DIRS <- COMPLETED_REVIEWER_DIR
+
+# If no completed files are present, templates are written here, not under
+# outputs/, to keep generated outputs separate from manual inputs.
+REVIEWER_FILES_DIR <- file.path(VALIDATION_INPUT_DIR, "templates", "validation_files_by_validator")
 
 LEAD_LAG_DIR <- file.path(REV_DIR, "lead_lag_context")
+# Manually completed lead/lag context files are inputs, not outputs.
+LEAD_LAG_INPUT_COMPLETED_DIR <- file.path(VALIDATION_INPUT_DIR, "completed", "lead_lag_context")
+# Legacy output location from earlier package versions; still read as fallback only.
 LEAD_LAG_COMPLETED_DIR <- file.path(LEAD_LAG_DIR, "completed")
 # Paper-ready output folders. These match 00_direct_output_config.R but are
 # defined here as fallbacks so the audit script can also run standalone.
 FIG_SUPP_DIR <- if (exists("FIG_SUPP_DIR", inherits = TRUE)) FIG_SUPP_DIR else file.path(PROJECT_ROOT, "outputs", "figures", "supplement")
 TAB_SUPP_DIR <- if (exists("TAB_SUPP_DIR", inherits = TRUE)) TAB_SUPP_DIR else file.path(PROJECT_ROOT, "outputs", "tables", "supplement")
-invisible(lapply(c(REV_DIR, COMPLETED_DIR, TABLE_DIR, REVIEWER_FILES_DIR, COMPLETED_REVIEWER_DIR, COMPLETED_REVIEWER_DIRS, LEAD_LAG_DIR, LEAD_LAG_COMPLETED_DIR, FIG_SUPP_DIR, TAB_SUPP_DIR), ensure_dir))
+invisible(lapply(c(REV_DIR, COMPLETED_DIR, TABLE_DIR, REVIEWER_FILES_DIR, COMPLETED_REVIEWER_DIR, LEAD_LAG_DIR, LEAD_LAG_INPUT_COMPLETED_DIR, FIG_SUPP_DIR, TAB_SUPP_DIR), ensure_dir))
 # Older workflow folders are left untouched here. Some completed validation files
 # may have been saved in legacy folders, so the script searches those locations
 # before copying the completed files to the current canonical folders.
@@ -372,8 +378,39 @@ video_df_raw <- video_df_raw %>%
   )
 
 label_df <- video_df_raw %>%
-  filter(is.na(.data$is_iberian) | .data$is_iberian %in% TRUE) %>%
-  distinct(.data$video_id, .keep_all = TRUE)
+  filter(is.na(.data$is_iberian) | .data$is_iberian %in% TRUE)
+
+# Deduplicate retained LABEL records by a trimmed character version of video_id.
+# This mirrors scripts/01_load_prepare_video_dataset.R and removes duplicated
+# query-level records for the same video while preserving rows without an ID.
+if ("video_id" %in% names(label_df)) {
+  n_label_before_dedup <- nrow(label_df)
+  label_df <- label_df %>%
+    dplyr::mutate(
+      .row_order__ = dplyr::row_number(),
+      .video_id_chr__ = stringr::str_trim(as.character(.data$video_id))
+    )
+
+  label_df_with_id <- label_df %>%
+    dplyr::filter(!is.na(.data$.video_id_chr__), .data$.video_id_chr__ != "") %>%
+    dplyr::arrange(.data$.row_order__) %>%
+    dplyr::distinct(.data$.video_id_chr__, .keep_all = TRUE)
+
+  label_df_without_id <- label_df %>%
+    dplyr::filter(is.na(.data$.video_id_chr__) | .data$.video_id_chr__ == "")
+
+  label_df <- dplyr::bind_rows(label_df_with_id, label_df_without_id) %>%
+    dplyr::arrange(.data$.row_order__) %>%
+    dplyr::select(-.data$.row_order__, -.data$.video_id_chr__)
+
+  if (nrow(label_df) != n_label_before_dedup) {
+    message(
+      "LABEL validation-pool deduplication: ",
+      n_label_before_dedup, " row(s) -> ", nrow(label_df),
+      " retained video record(s)."
+    )
+  }
+}
 
 message("Final LABEL-like dataset available for audit: ", nrow(label_df), " video records.")
 
@@ -518,7 +555,7 @@ if (file.exists(completed_label_path)) {
   n_false_positive <- sum(label_valid$auto_final_in_LABEL_bool %in% TRUE & label_valid$validator2_is_iberian_bool %in% FALSE, na.rm = TRUE)
   n_uncertain <- sum(label_valid$validator2_uncertain | is.na(label_valid$validator2_is_iberian_bool), na.rm = TRUE)
   agreement <- mean(label_valid$auto_final_in_LABEL_bool == label_valid$validator2_is_iberian_bool, na.rm = TRUE)
-  false_positive_rate <- ifelse(n_scored > 0, n_false_positive / n_scored, NA_real_)
+  false_positive_rate <- ifelse(n_validated > 0, n_false_positive / n_validated, NA_real_)
   uncertainty_rate <- ifelse(n_validated > 0, n_uncertain / n_validated, NA_real_)
   kappa <- cohen_kappa_simple(label_valid$auto_final_in_LABEL_bool, label_valid$validator2_is_iberian_bool)
 
@@ -610,7 +647,7 @@ if (nrow(kw_df) > 0) {
 
   keyword_template_path <- file.path(REVIEWER_FILES_DIR, "keyword_occurrence_validation_template_all_records.csv")
   write_csv(keyword_template, keyword_template_path, na = "")
-keyword_assignment <- write_validator_validation_files(keyword_template, REVIEWER_FILES_DIR, "keyword_category_validation", shared_n = 50)
+keyword_assignment <- write_validator_validation_files(keyword_template, REVIEWER_FILES_DIR, "keyword_category_validation", validators = c("Reviewer_B", "Reviewer_D"), shared_n = 50)
 if (exists("label_assignment") && exists("keyword_assignment") && !is.null(label_assignment) && !is.null(keyword_assignment)) {
   assignment_summary <- label_assignment %>%
     dplyr::select(validator, video_shared_rows = shared_rows, video_extra_rows = extra_rows,
@@ -645,23 +682,98 @@ if (exists("label_assignment") && exists("keyword_assignment") && !is.null(label
   if (!is.null(keyword_multi$rows) && nrow(keyword_multi$rows) > 0) {
     kw_rows_all <- keyword_multi$rows
     if (!"validation_id" %in% names(kw_rows_all)) kw_rows_all$validation_id <- paste(kw_rows_all$video_id, kw_rows_all$word, sep = "__")
-    kw_rows_all <- kw_rows_all %>%
-      mutate(manual_category_norm = case_when(
-        tolower(trimws(as.character(.data$manual_category))) %in% c("invasion") ~ "Invasion",
-        tolower(trimws(as.character(.data$manual_category))) %in% c("detection") ~ "Detection",
-        tolower(trimws(as.character(.data$manual_category))) %in% c("ecommerce", "e-commerce", "commerce", "trade") ~ "eCommerce",
-        tolower(trimws(as.character(.data$manual_category))) %in% c("threat") ~ "Threat",
-        tolower(trimws(as.character(.data$manual_category))) %in% c("none", "no", "not valid", "invalid") ~ "None",
-        tolower(trimws(as.character(.data$manual_category))) %in% c("ambiguous", "uncertain", "unknown") ~ "Ambiguous",
-        TRUE ~ as.character(.data$manual_category)
-      ))
-    write_csv(kw_rows_all, file.path(TABLE_DIR, "keyword_occurrence_validation_all_validation_rows.csv"), na = "")
-    keyword_pairwise_agreement <- pairwise_agreement(kw_rows_all, c("validation_id", "video_id", "word"), "manual_category_norm")
-    keyword_fleiss_kappa <- fleiss_kappa_from_rows(kw_rows_all, c("validation_id", "video_id", "word"), "manual_category_norm")
+
+    normalise_keyword_category_one <- function(x) {
+      y <- tolower(trimws(as.character(x)))
+      dplyr::case_when(
+        is.na(y) | !nzchar(y) ~ "Ambiguous",
+        y %in% c("invasion") ~ "Invasion",
+        y %in% c("detection", "deteccion", "detección") ~ "Detection",
+        y %in% c("ecommerce", "e-commerce", "commerce", "trade") ~ "eCommerce",
+        y %in% c("threat") ~ "Threat",
+        y %in% c("none", "no", "not valid", "invalid", "exclude", "excluded") ~ "None",
+        y %in% c("ambiguous", "uncertain", "unknown") ~ "Ambiguous",
+        TRUE ~ as.character(x)
+      )
+    }
+
+    normalise_keyword_category_options <- function(x) {
+      x <- as.character(x)
+      if (is.na(x) || !nzchar(trimws(x))) return("Ambiguous")
+      opts <- stringr::str_split(x, "\\s*[;/,]\\s*", simplify = FALSE)[[1]]
+      opts <- opts[nzchar(trimws(opts))]
+      opts <- unique(normalise_keyword_category_one(opts))
+      if (length(opts) == 0) "Ambiguous" else opts
+    }
+
+    keyword_decision_for_scoring <- function(options, auto_category = NA_character_) {
+      categories <- c("Invasion", "Detection", "eCommerce", "Threat")
+
+      options <- unique(as.character(options))
+      options <- options[!is.na(options) & nzchar(options)]
+      if (length(options) == 0) return("Ambiguous")
+      if ("Ambiguous" %in% options) return("Ambiguous")
+
+      thematic <- intersect(options, categories)
+      has_none <- "None" %in% options
+      auto_category <- normalise_keyword_category_one(auto_category)
+
+      # Each validator contributes one decision per keyword occurrence.
+      # Multi-category entries may appear either within a single cell separated by
+      # punctuation or as duplicate rows for the same validation_id/video_id/word.
+      if (length(thematic) == 1 && !has_none && length(options) == 1) return(thematic[[1]])
+      if (length(thematic) == 0 && has_none && length(options) == 1) return("None")
+      if (length(thematic) >= 1 && has_none) return("Ambiguous")
+
+      if (length(thematic) > 1) {
+        if (auto_category %in% thematic) return(auto_category)
+        return("Ambiguous")
+      }
+
+      if (length(options) > 1) return("Ambiguous")
+      "Ambiguous"
+    }
+
+    kw_rows_all_long <- kw_rows_all %>%
+      dplyr::mutate(
+        manual_category_options = purrr::map(.data$manual_category, normalise_keyword_category_options)
+      ) %>%
+      tidyr::unnest_longer(.data$manual_category_options, values_to = "manual_category_norm_raw")
+
+    write_csv(kw_rows_all_long, file.path(TABLE_DIR, "keyword_occurrence_validation_all_validation_rows.csv"), na = "")
+
+    # Collapse to one decision per validator and keyword occurrence before
+    # calculating agreement or consensus. This prevents multi-category entries
+    # from being counted as if they were independent validators.
+    kw_rows_for_scoring <- kw_rows_all_long %>%
+      dplyr::group_by(.data$validation_id, .data$video_id, .data$word, .data$validator_id) %>%
+      dplyr::summarise(
+        manual_category_options = paste(unique(.data$manual_category_norm_raw), collapse = "; "),
+        manual_category_norm = keyword_decision_for_scoring(unique(.data$manual_category_norm_raw), dplyr::first(.data$KeywordCategory)),
+        dplyr::across(dplyr::everything(), ~ dplyr::first(.x)),
+        .groups = "drop"
+      ) %>%
+      dplyr::mutate(
+        manual_category = .data$manual_category_norm,
+        manual_valid = dplyr::case_when(
+          .data$manual_category_norm %in% c("Invasion", "Detection", "eCommerce", "Threat") ~ "TRUE",
+          .data$manual_category_norm == "None" ~ "FALSE",
+          TRUE ~ as.character(.data$manual_valid)
+        ),
+        manual_ambiguous = dplyr::case_when(
+          .data$manual_category_norm == "Ambiguous" ~ "TRUE",
+          .data$manual_category_norm %in% c("Invasion", "Detection", "eCommerce", "Threat", "None") ~ "FALSE",
+          TRUE ~ as.character(.data$manual_ambiguous)
+        )
+      )
+    write_csv(kw_rows_for_scoring, file.path(TABLE_DIR, "keyword_occurrence_validation_scoring_rows.csv"), na = "")
+
+    keyword_pairwise_agreement <- pairwise_agreement(kw_rows_for_scoring, c("validation_id", "video_id", "word"), "manual_category_norm")
+    keyword_fleiss_kappa <- fleiss_kappa_from_rows(kw_rows_for_scoring, c("validation_id", "video_id", "word"), "manual_category_norm")
     write_csv(tibble(pairwise_agreement = keyword_pairwise_agreement, fleiss_kappa = keyword_fleiss_kappa),
               file.path(TABLE_DIR, "keyword_validation_interrater_agreement.csv"), na = "")
 
-    kw_consensus <- consensus_from_decisions(kw_rows_all, c("validation_id", "video_id", "word"), "manual_category_norm") %>%
+    kw_consensus <- consensus_from_decisions(kw_rows_for_scoring, c("validation_id", "video_id", "word"), "manual_category_norm") %>%
       mutate(manual_category = .data$.decision_consensus)
     completed_keyword_path <- file.path(COMPLETED_DIR, "keyword_occurrence_validation_completed_consensus.csv")
     write_csv(kw_consensus, completed_keyword_path, na = "")
@@ -692,11 +804,30 @@ if (exists("label_assignment") && exists("keyword_assignment") && !is.null(label
       ) %>%
       filter(!is.na(.data$auto_category), !is.na(.data$manual_category), nzchar(.data$manual_category))
 
+    # Performance metrics are calculated only on classifiable single-category
+    # thematic cases. Ambiguous and invalid/non-classifiable (`None`) cases are
+    # reported separately as uncertainty rather than scored as thematic labels.
     kw_scored <- kw_completed %>%
-      filter(!.data$manual_category %in% c("Ambiguous"))
+      filter(
+        !.data$manual_category %in% c("Ambiguous", "None"),
+        !(.data$manual_valid_bool %in% FALSE)
+      )
 
-    kw_confusion <- kw_scored %>%
-      count(.data$manual_category, .data$auto_category, name = "n") %>%
+    # For the confusion matrix, retain manual `None / not thematic` cases so
+    # that dictionary hits judged non-thematic remain visible as possible
+    # keyword false positives. This matches the Supplementary Material caption:
+    # Panel D compares dictionary-based categories with manual validation
+    # assignments, including non-thematic cases. Ambiguous cases remain excluded
+    # from the matrix because they do not represent a single manual category.
+    kw_confusion <- kw_completed %>%
+      mutate(
+        manual_category_for_confusion = dplyr::case_when(
+          .data$manual_valid_bool %in% FALSE ~ "None",
+          TRUE ~ .data$manual_category
+        )
+      ) %>%
+      filter(!.data$manual_category_for_confusion %in% c("Ambiguous")) %>%
+      count(manual_category = .data$manual_category_for_confusion, .data$auto_category, name = "n") %>%
       arrange(.data$manual_category, .data$auto_category)
     write_csv(kw_confusion, file.path(TABLE_DIR, "keyword_validation_confusion_matrix_long.csv"), na = "")
 
@@ -713,12 +844,12 @@ if (exists("label_assignment") && exists("keyword_assignment") && !is.null(label
 
     overall_accuracy <- mean(kw_scored$manual_category == kw_scored$auto_category, na.rm = TRUE)
     kappa_kw <- cohen_kappa_simple(kw_scored$manual_category, kw_scored$auto_category)
-    ambiguous_rate <- mean(kw_completed$manual_category %in% c("Ambiguous") | kw_completed$manual_ambiguous_bool, na.rm = TRUE)
     invalid_rate <- mean(kw_completed$manual_category %in% c("None") | kw_completed$manual_valid_bool %in% FALSE, na.rm = TRUE)
+    ambiguous_rate <- mean(kw_completed$manual_category %in% c("Ambiguous") & !(kw_completed$manual_valid_bool %in% FALSE), na.rm = TRUE)
 
     kw_overall <- tibble(
       n_validated = nrow(kw_completed),
-      n_scored_excluding_ambiguous = nrow(kw_scored),
+      n_scored_classifiable_single_category = nrow(kw_scored),
       overall_accuracy = overall_accuracy,
       cohen_kappa = kappa_kw,
       intervalidator_pairwise_agreement = if (exists("keyword_pairwise_agreement")) keyword_pairwise_agreement else NA_real_,
@@ -882,36 +1013,38 @@ lead_lag_context_rules <- tibble::tribble(
 write_csv(lead_lag_context_rules, file.path(LEAD_LAG_DIR, "lead_lag_prerecord_context_decision_rules.csv"), na = "")
 
 # If the context template has been completed, merge it back into the species-level comparison table.
-# Preferred location: outputs/validation/lead_lag_context/completed/
-# Legacy location outputs/validation/completed/ is also supported.
+# Preferred location for manually completed input:
+#   data/validation_input/completed/lead_lag_context/lead_lag_prerecord_context_completed.csv
+# Legacy output locations from earlier workflow versions are supported as fallbacks
+# for backwards compatibility, but the script no longer copies manual input files
+# into outputs/.
 completed_context_candidates <- c(
+  file.path(LEAD_LAG_INPUT_COMPLETED_DIR, "lead_lag_prerecord_context_completed.csv"),
+  file.path(VALIDATION_INPUT_DIR, "completed", "lead_lag_prerecord_context_completed.csv"),
+  # Legacy locations from earlier workflow versions.
   file.path(LEAD_LAG_COMPLETED_DIR, "lead_lag_prerecord_context_completed.csv"),
   file.path(COMPLETED_DIR, "lead_lag_prerecord_context_completed.csv"),
-  # Legacy/accidental locations from earlier workflow versions. These make the
-  # script robust if the completed file was saved before the folders were cleaned.
   file.path(REV_DIR, "templates", "lead_lag_prerecord_context_completed.csv"),
   file.path(REV_DIR, "lead_lag_prerecord_context_completed.csv"),
   file.path(PROJECT_ROOT, "lead_lag_prerecord_context_completed.csv")
 )
-# Also search recursively in outputs/validation in case the completed
-# file was copied into a validator/template subfolder by mistake.
-recursive_context_hits <- list.files(
+# Search recursively in data/validation_input first, then outputs/validation as a
+# fallback, in case a completed context file was saved in a subfolder by mistake.
+recursive_context_hits_input <- list.files(
+  VALIDATION_INPUT_DIR,
+  pattern = "^lead_lag_prerecord_context_completed\\.csv$",
+  recursive = TRUE,
+  full.names = TRUE
+)
+recursive_context_hits_output <- list.files(
   REV_DIR,
   pattern = "^lead_lag_prerecord_context_completed\\.csv$",
   recursive = TRUE,
   full.names = TRUE
 )
-completed_context_candidates <- unique(c(completed_context_candidates, recursive_context_hits))
+completed_context_candidates <- unique(c(completed_context_candidates, recursive_context_hits_input, recursive_context_hits_output))
 completed_context_path <- first_existing_file(completed_context_candidates)
 if (!is.na(completed_context_path) && file.exists(completed_context_path)) {
-  # Keep one canonical copy for future runs.
-  canonical_context_path <- file.path(LEAD_LAG_COMPLETED_DIR, "lead_lag_prerecord_context_completed.csv")
-  if (!identical(normalizePath(completed_context_path, mustWork = FALSE),
-                 normalizePath(canonical_context_path, mustWork = FALSE))) {
-    dir.create(dirname(canonical_context_path), recursive = TRUE, showWarnings = FALSE)
-    file.copy(completed_context_path, canonical_context_path, overwrite = TRUE)
-    message("Copied lead/first-record context file to canonical location: ", canonical_context_path)
-  }
   lead_lag_context_completed <- read_csv(completed_context_path, show_col_types = FALSE)
 
   # Older completed templates used reviewer_notes instead of validator_notes.
@@ -1208,7 +1341,7 @@ if (exists("lead_lag_context_summary") && nrow(lead_lag_context_summary) > 0) {
   message("Saved combined Figure S8 to: ", file.path(FIG_SUPP_DIR, "Figure_S8.png"))
 } else {
   message("Combined Figure S8 was not created because no completed pre-record context summary was found.")
-  message("Expected completed file: ", file.path(LEAD_LAG_COMPLETED_DIR, "lead_lag_prerecord_context_completed.csv"))
+  message("Expected completed file: ", file.path(LEAD_LAG_INPUT_COMPLETED_DIR, "lead_lag_prerecord_context_completed.csv"))
 }
 
 # Paper-ready Supplementary Table S17 and additional complete audit tables.

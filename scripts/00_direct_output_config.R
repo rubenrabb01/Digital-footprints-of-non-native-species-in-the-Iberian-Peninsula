@@ -15,6 +15,7 @@ FIG_SUPP_DIR <- file.path(OUT_ROOT, "figures", "supplement")
 
 TAB_MAIN_DIR <- file.path(OUT_ROOT, "tables", "main")
 TAB_SUPP_DIR <- file.path(OUT_ROOT, "tables", "supplement")
+TAB_QA_DIR   <- file.path(OUT_ROOT, "tables", "qa")
 
 INTERMEDIATE_DIR <- file.path(OUT_ROOT, "intermediate")
 
@@ -25,7 +26,7 @@ TAB_SENS_DIR <- TAB_SUPP_DIR
 
 invisible(lapply(c(
   FIG_MAIN_DIR, FIG_SUPP_DIR,
-  TAB_MAIN_DIR, TAB_SUPP_DIR,
+  TAB_MAIN_DIR, TAB_SUPP_DIR, TAB_QA_DIR,
   INTERMEDIATE_DIR
 ), dir.create, recursive = TRUE, showWarnings = FALSE))
 

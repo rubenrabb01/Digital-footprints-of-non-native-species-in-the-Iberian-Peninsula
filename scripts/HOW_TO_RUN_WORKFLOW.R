@@ -138,13 +138,18 @@ source("scripts/16_dataset_summary_counts.R", encoding = "UTF-8")
 # 7. Optional YouTube API example search
 ############################################################
 # This step is optional and is NOT required to reproduce the paper.
-# The public package does not include the full bulk API retrieval
-# workflow. This runs only a minimal single-query example.
+# It runs a small API test using the optional upstream workflow.
 #
 # Requirements:
 # - A valid YouTube Data API key.
 # - Do not save or commit your API key.
 # - API results may differ from the frozen manuscript data.
+#
+# Test modes:
+#   test_REG       = small regionCode search, no comments
+#   test_GEO       = small geolocation search, no comments
+#   test_REG_GEO   = small REG + GEO test, no comments
+#   test_comments  = small REG test with comments/replies
 ############################################################
 
 rm(list = ls())
@@ -152,4 +157,31 @@ setwd(PROJECT_DIR)
 setTimeLimit(cpu = Inf, elapsed = Inf, transient = FALSE)
 
 Sys.setenv(YOUTUBE_API_KEY = "YOUR_KEY_HERE")
-source("optional_youtube_api_example/example_single_species_youtube_api_query.R", encoding = "UTF-8")
+RUN_MODE <- "test_REG"
+# RUN_MODE <- "test_GEO"
+# RUN_MODE <- "test_REG_GEO"
+# RUN_MODE <- "test_comments"
+
+source("scripts/99_run_optional_api_test.R", encoding = "UTF-8")
+
+
+############################################################
+# 8. Optional data-preparation workflow
+############################################################
+# This connects optional API outputs to preparation files used for
+# filtering and manual labelling. It is mainly for transparency and
+# small test runs.
+#
+# The main paper workflow already uses curated files in data/paper_input/.
+# Keep OVERWRITE_PAPER_INPUTS as FALSE unless you intentionally want to
+# replace those curated input files.
+############################################################
+
+rm(list = ls())
+setwd(PROJECT_DIR)
+setTimeLimit(cpu = Inf, elapsed = Inf, transient = FALSE)
+
+OVERWRITE_PAPER_INPUTS <- FALSE
+# OVERWRITE_PAPER_INPUTS <- TRUE
+
+source("data_preparation_workflow/scripts/99_run_data_preparation_workflow.R", encoding = "UTF-8")

@@ -8,7 +8,7 @@ This folder contains supplementary input files documenting how the species list 
 - `iberian_nns_first_records_filtered_for_search.xlsx`: Excel version of the same curated table. This version preserves the visual colour coding used during curation, but the CSV file should be preferred for reproducible scripts.
 - `youtube_search_terms_ungrouped.csv`: one-column list of scientific names, vernacular names, and spelling variants used as YouTube search terms.
 
-The terms in `youtube_search_terms_ungrouped.csv` are provided as a transparent one-column search-term list. The full grouped search-term objects used in the private bulk API retrieval workflow are not redistributed in the public package.
+The terms in `youtube_search_terms_ungrouped.csv` are not grouped by species. Grouped search-term lists used by the optional API workflow are available in `optional_youtube_api_preworkflow/scripts/species_names_lists_full.R`.
 
 ## Notes
 

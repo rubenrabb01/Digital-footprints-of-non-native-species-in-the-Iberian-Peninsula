@@ -12,9 +12,11 @@ suppressPackageStartupMessages({
 })
 
 PREP_DIR <- file.path(PROJECT_ROOT, "data", "preparation_input")
-API_DIR  <- file.path(PROJECT_ROOT, "data", "preparation_input", "private_raw_api")
+API_DIR  <- file.path(PROJECT_ROOT, "optional_youtube_api_preworkflow", "data_raw")
+TEST_DIR <- file.path(PROJECT_ROOT, "data", "api_test_input")
 dir.create(PREP_DIR, recursive = TRUE, showWarnings = FALSE)
 
+if (!exists("USE_API_TEST_INPUT", inherits = FALSE)) USE_API_TEST_INPUT <- FALSE
 
 read_csv_chr <- function(path) {
   if (!file.exists(path)) return(tibble())
@@ -54,11 +56,17 @@ standardise_video_cols <- function(x, source_label) {
     )
 }
 
-message("Looking for private raw API exports in data/preparation_input/private_raw_api/.")
-message("The public package does not include the full bulk API retrieval workflow or raw API outputs.")
-reg_path <- file.path(API_DIR, "yt_species_videos_ES_PT_regioncode_scientific_common_dedup.csv")
-geo_path <- file.path(API_DIR, "yt_species_videos_ES_PT_geotagged_dedup_1200km_new_locs_espanded.csv")
-comments_path <- file.path(API_DIR, "YT_comments_with_timestamps_long.csv")
+if (USE_API_TEST_INPUT) {
+  message("Using test API input files in data/api_test_input/.")
+  reg_path <- file.path(TEST_DIR, "test_api_regioncode_videos.csv")
+  geo_path <- file.path(TEST_DIR, "test_api_geotagged_videos.csv")
+  comments_path <- file.path(TEST_DIR, "test_api_comments.csv")
+} else {
+  message("Using API files in optional_youtube_api_preworkflow/data_raw/.")
+  reg_path <- file.path(API_DIR, "yt_species_videos_ES_PT_regioncode_scientific_common_dedup.csv")
+  geo_path <- file.path(API_DIR, "yt_species_videos_ES_PT_geotagged_dedup_1200km_new_locs_espanded.csv")
+  comments_path <- file.path(API_DIR, "YT_comments_with_timestamps_long.csv")
+}
 
 reg_raw <- read_csv_chr(reg_path) %>% standardise_video_cols("REG")
 geo_raw <- read_csv_chr(geo_path) %>% standardise_video_cols("GEO")

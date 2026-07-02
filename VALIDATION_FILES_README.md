@@ -1,50 +1,38 @@
 # Validation files
 
-This repository includes the files and scripts used to validate two parts of the workflow:
+This repository includes the files and scripts used to validate:
 
-1. the Iberia-relevance of the manually validated video corpus, and
-2. the thematic classification of keyword occurrences.
-
-The repository includes validation templates, completed validation files, decision rules, summary tables, agreement metrics, and the combined validation figure used in the revised manuscript and Supplementary Material.
+1. Iberia-relevance of the final manually curated video corpus,
+2. thematic classification of keyword occurrences, and
+3. context of pre-record lead/lag cases used for Figure S8.
 
 ## Main locations
 
 ```text
 data/validation_input/                         Validation templates and completed input files
-outputs/validation/tables/                     Validation summary tables and agreement metrics
+data/validation_input/completed/               Completed validation inputs used by the scripts
+outputs/validation/tables/                     Generated validation summaries and agreement metrics
+outputs/validation/completed/                  Generated consensus files
 outputs/figures/supplement/                    Supplementary validation figures
 ```
 
-Compatibility copies are also retained under `outputs/validation/` so that earlier folder structures continue to work.
-
-## Folder naming schemes
-
-Two naming schemes are supported:
+Completed validator files are stored under:
 
 ```text
-validation_files_by_reviewer/    Named validator folders from the validation round
-validation_files_by_validator/   Generic validator-ID folders
-```
-
-The scripts can read both naming schemes.
-
-## Completed files
-
-Completed validation files are stored in:
-
-```text
-data/validation_input/completed/validation_files_by_reviewer/
 data/validation_input/completed/validation_files_by_validator/
 ```
 
-Legacy fallback locations are also supported:
+## Active completed files
+
+- `Reviewer_A`: video-level Iberia-relevance validation only.
+- `Reviewer_B`: video-level Iberia-relevance validation and keyword-category validation.
+- `Reviewer_D`: video-level Iberia-relevance validation and keyword-category validation.
+
+The completed pre-record context file is:
 
 ```text
-outputs/validation/completed/validation_files_by_reviewer/
-outputs/validation/completed/validation_files_by_validator/
+data/validation_input/completed/lead_lag_context/lead_lag_prerecord_context_completed.csv
 ```
-
-Keep the same file names and folder structure when rerunning the validation workflow.
 
 ## Running the validation workflow
 
@@ -57,28 +45,6 @@ setTimeLimit(cpu = Inf, elapsed = Inf, transient = FALSE)
 source("scripts/99_run_validation_audits.R", encoding = "UTF-8")
 ```
 
-This script reads the completed validation files, summarises validation outcomes and agreement metrics, and creates the validation figure.
+This reads the completed validation files, writes validation summaries to `outputs/validation/tables/`, and updates supplementary Figures S8 and S9.
 
-## Output files
-
-The validation workflow writes tables to:
-
-```text
-outputs/validation/tables/
-```
-
-and supplementary figures to:
-
-```text
-outputs/figures/supplement/
-```
-
-The generated validation figure is:
-
-```text
-Figure_S9    Combined validation panel: LABEL outcomes, LABEL metrics, keyword performance, and keyword confusion matrix
-```
-
-## Notes on validation files
-
-The validation files document the manual checks of Iberia-relevance, keyword classification, and pre-record YouTube-video context. The validation scripts use the completed files to reproduce the reported validation summaries, tables, and supplementary figures.
+Generated files under `outputs/` should not be edited manually. To update validation results, edit or replace the completed input files under `data/validation_input/completed/` and rerun the workflow.

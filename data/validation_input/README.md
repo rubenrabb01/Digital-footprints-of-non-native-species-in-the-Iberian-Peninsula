@@ -1,40 +1,29 @@
 # Validation input files
 
-This folder contains the CSV files used to validate the manually curated video corpus and the keyword-classification workflow.
+This folder contains the manually completed validation inputs used by the validation workflow.
 
-Two folder naming schemes are supported:
+## Active completed validation files
 
-- `validation_files_by_reviewer/`: named folders used during private project work.
-- `validation_files_by_validator/`: anonymised folders using generic validator IDs.
-
-The scripts can read both structures. For public release, the anonymised `validation_files_by_validator/` structure is recommended.
-
-## Using completed files
-
-When completed validation files are available, place them in one of these folders, keeping the same file names and folder structure:
+Use only this folder as the source of completed reviewer/validator input files:
 
 ```text
-data/validation_input/completed/validation_files_by_reviewer/
 data/validation_input/completed/validation_files_by_validator/
 ```
 
-Legacy fallback folders under `outputs/validation/completed/` are also supported.
+The active completed files are anonymised and use the same anonymised video identifiers as `data/paper_input/videos_validated.csv`; YouTube URLs are withheld.
 
-Then run from the repository root:
+The active completed files are:
 
-```r
-rm(list = ls())
-setwd("YOUR_PROJECT_FOLDER")
-setTimeLimit(cpu = Inf, elapsed = Inf, transient = FALSE)
-source("scripts/99_run_validation_audits.R", encoding = "UTF-8")
+- `Reviewer_A`: video-level Iberia-relevance validation only.
+- `Reviewer_B`: video-level Iberia-relevance validation and keyword-category validation.
+- `Reviewer_D`: video-level Iberia-relevance validation and keyword-category validation.
+
+The manually completed pre-record context file used to regenerate Figure S8 is stored in:
+
+```text
+data/validation_input/completed/lead_lag_context/lead_lag_prerecord_context_completed.csv
 ```
 
-The script writes validation tables to `outputs/validation/tables/` and supplementary validation figures to `outputs/figures/supplement/`.
+## Generated outputs
 
-## Figures produced from these inputs
-
-After running `scripts/99_run_validation_audits.R`, the following figures are written to `outputs/figures/supplement/`:
-
-- `Figure_S9`: combined validation panel with LABEL Iberia-relevance outcomes, LABEL validation metrics, keyword-classification performance, and the keyword-validation confusion matrix.
-
-Files included as completed examples may contain artificial placeholder decisions. Replace them with the checked completed files before reporting final validation values.
+Do not place completed reviewer files in `outputs/`. When the scripts are run, they write generated consensus tables, metrics, and figure-index files under `outputs/validation/`, and paper-ready figures under `outputs/figures/supplement/`.
