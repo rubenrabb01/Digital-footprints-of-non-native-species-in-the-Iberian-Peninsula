@@ -34,15 +34,4 @@ data/validation_input/completed/validation_files_by_validator/
 
 Active validators are `Reviewer_A` for video validation and `Reviewer_B`/`Reviewer_D` for both video and keyword validation. The validation workflow writes summary tables and Figures S8-S9 under `outputs/`.
 
-## Before archiving
 
-Check that:
-
-- `data/paper_input/videos_validated.csv` has 1,895 unique `video_id` values.
-- Supplementary Figure S9 and validation tables are regenerated from the completed validation inputs.
-- Documentation refers to the final LABEL dataset as the internal workflow name for the final manually curated Iberia-relevant corpus.
-- No API keys, local paths, direct video URLs, original video IDs, or private validator names are included.
-
-## Suggested release note
-
-Release package for the revised manuscript. This version updates the final video-level corpus to 1,895 distinct videos, refreshes validation scripts and outputs, reorganises validation files under `data/validation_input/`, updates Supplementary Figure S9, and keeps the internal LABEL name only as a workflow label for the final manually curated Iberia-relevant corpus.
