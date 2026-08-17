@@ -18,7 +18,3 @@ This release updates the reproducible package for the revised manuscript.
 ```text
 data/paper_input/videos_validated.csv
 ```
-
-Recommended manuscript-aligned wording:
-
-> The final manually curated Iberia-relevant corpus contained 1,895 distinct YouTube videos from 1,002 channels and 94 species.
