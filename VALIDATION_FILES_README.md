@@ -47,4 +47,3 @@ source("scripts/99_run_validation_audits.R", encoding = "UTF-8")
 
 This reads the completed validation files, writes validation summaries to `outputs/validation/tables/`, and updates supplementary Figures S8 and S9.
 
-Generated files under `outputs/` should not be edited manually. To update validation results, edit or replace the completed input files under `data/validation_input/completed/` and rerun the workflow.
